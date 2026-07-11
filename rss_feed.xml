@@ -12,7 +12,7 @@
     <itunes:author>Julie Wang</itunes:author>
     <itunes:category text="Science">Society &amp; Culture</itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://jianmsblog.blogspot.com/favicon.ico"/>
+    <itunes:image href="https://andygor88888.github.io/knowledge-daily-podcast/cover.png"/>
     <itunes:owner>
       <itunes:name>Julie Wang</itunes:name>
       <itunes:email>xx5472@gmail.com</itunes:email>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 11 Jul 2026 09:00:00 +0800</pubDate>
       <description>2026年美國飲食指南引發爭議！心臟科醫生指出官方建議存在五大問題。從食物金字塔到最新指南，美國93%成年人代謝不健康，問題可能不在我們吃太多，而是政府告訴我們該吃的東西從根本上就錯了。</description>
       <content:encoded><![CDATA[<p>2026年美國飲食指南引發爭議！心臟科醫生指出官方建議存在五大問題。從食物金字塔到最新指南，美國93%成年人代謝不健康，問題可能不在我們吃太多，而是政府告訴我們該吃的東西從根本上就錯了。</p><p>這集我們聊：美國飲食指南的歷史爭議、三項頂尖臨床試驗（PREDIMED、DIRECT、VIRTA）、2026指南的五個核心問題、以及你該如何避開官方指南的誤區。</p>]]></content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/andygor88888/knowledge-daily-podcast/main/solo_podcast_final.mp3" length="3383249" type="audio/mpeg"/>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/solo_podcast_final.mp3" length="3383249" type="audio/mpeg"/>
       <itunes:duration>382</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -42,7 +42,7 @@
       <pubDate>Sat, 11 Jul 2026 09:30:00 +0800</pubDate>
       <description>A cardiologist's viral thread reveals why the USDA Dietary Guidelines may have been wrong for decades. 93% of American adults are metabolically unhealthy - maybe the problem isn't what we're eating too much of, but what the government told us to eat.</description>
       <content:encoded><![CDATA[<p>A cardiologist's viral thread reveals why the USDA Dietary Guidelines may have been wrong for decades. 93% of American adults are metabolically unhealthy - maybe the problem isn't what we're eating too much of, but what the government told us to eat.</p><p>In this episode: the history of USDA guidelines, the PREDIMED/DIRECT/VIRTA trials, five core problems with the 2026 guidelines, and practical advice for healthier eating.</p>]]></content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/andygor88888/knowledge-daily-podcast/main/en_podcast_final.mp3" length="3800997" type="audio/mpeg"/>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/en_podcast_final.mp3" length="3800997" type="audio/mpeg"/>
       <itunes:duration>386</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -58,7 +58,7 @@
       <pubDate>Sat, 11 Jul 2026 10:00:00 +0800</pubDate>
       <description>GLP-1 減肥藥（Ozempic、Wegovy）讓數百萬人成功瘦身，但 Wake Forest 大學最新研究警告——快速減重可能伴隨骨質流失。年長使用者、停經後女性風險更高。</description>
       <content:encoded><![CDATA[<p>GLP-1 減肥藥（Ozempic、Wegovy）讓數百萬人成功瘦身，但 Wake Forest 大學最新研究警告——快速減重可能伴隨骨質流失。年長使用者、停經後女性風險更高。</p><p>這集我們聊：為什麼快速減重會傷害骨頭、Wake Forest 研究核心發現、高風險族群、以及如何在減重同時保護骨骼健康。</p>]]></content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/andygor88888/knowledge-daily-podcast/main/glp1_final_v2.mp3" length="2953533" type="audio/mpeg"/>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/glp1_final_v2.mp3" length="2953533" type="audio/mpeg"/>
       <itunes:duration>330</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -74,7 +74,7 @@
       <pubDate>Sat, 11 Jul 2026 10:30:00 +0800</pubDate>
       <description>OpenAI 推出 GPT-5.6 三款模型（Sol/Terra/Luna），分層定價、健康智能、Sol Ultra 破解 50 年數學難題。AI 從奢侈品變日用品。</description>
       <content:encoded><![CDATA[<p>OpenAI 推出 GPT-5.6 三款模型（Sol/Terra/Luna），分層定價、健康智能、Sol Ultra 破解 50 年數學難題。AI 從奢侈品變日用品。</p>]]></content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/andygor88888/knowledge-daily-podcast/main/gpt56_final_v2.mp3" length="2207637" type="audio/mpeg"/>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/gpt56_final_v2.mp3" length="2207637" type="audio/mpeg"/>
       <itunes:duration>244</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -90,7 +90,7 @@
       <pubDate>Sat, 11 Jul 2026 11:00:00 +0800</pubDate>
       <description>Apple 正式起訴 OpenAI，指控系統性竊取硬體商業機密。超過 400 名前員工已在 OpenAI 工作，訴訟揭露令人難以置信的內幕。</description>
       <content:encoded><![CDATA[<p>Apple 正式起訴 OpenAI，指控系統性竊取硬體商業機密。超過 400 名前員工已在 OpenAI 工作，訴訟揭露令人難以置信的內幕。</p>]]></content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/andygor88888/knowledge-daily-podcast/main/apple_final_v2.mp3" length="1920453" type="audio/mpeg"/>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/apple_final_v2.mp3" length="1920453" type="audio/mpeg"/>
       <itunes:duration>216</itunes:duration>
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -106,7 +106,7 @@
       <pubDate>Sat, 11 Jul 2026 11:30:00 +0800</pubDate>
       <description>你的骨頭不只是支架——最新科學發現骨骼分泌骨鈣素，直接調控胰島素分泌和血糖代謝。骨質疏鬆和糖尿病的關聯比你想像的更近。</description>
       <content:encoded><![CDATA[<p>你的骨頭不只是支架——最新科學發現骨骼分泌骨鈣素，直接調控胰島素分泌和血糖代謝。骨質疏鬆和糖尿病的關聯比你想像的更近。</p>]]></content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/andygor88888/knowledge-daily-podcast/main/bone_final_v2.mp3" length="2314149" type="audio/mpeg"/>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/bone_final_v2.mp3" length="2314149" type="audio/mpeg"/>
       <itunes:duration>265</itunes:duration>
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -122,7 +122,7 @@
       <pubDate>Sat, 11 Jul 2026 12:00:00 +0800</pubDate>
       <description>King's College London 研究發現成功的根管治療能顯著改善血糖和膽固醇，降低心臟病風險。口腔健康比你想像的更影響全身。</description>
       <content:encoded><![CDATA[<p>King's College London 研究發現成功的根管治療能顯著改善血糖和膽固醇，降低心臟病風險。口腔健康比你想像的更影響全身。</p>]]></content:encoded>
-      <enclosure url="https://raw.githubusercontent.com/andygor88888/knowledge-daily-podcast/main/root_final_v2.mp3" length="1884693" type="audio/mpeg"/>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/root_final_v2.mp3" length="1884693" type="audio/mpeg"/>
       <itunes:duration>208</itunes:duration>
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
