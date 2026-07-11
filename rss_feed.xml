@@ -49,6 +49,22 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
+    <!-- Episode 3: GLP-1 骨質危機（中文版） -->
+    <item>
+      <title>EP3: GLP-1 減肥藥的隱藏成本 — 你瘦了，但骨頭也瘦了嗎？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">knowledgedaily-ep3-zh-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 10:00:00 +0800</pubDate>
+      <description>GLP-1 減肥藥（Ozempic、Wegovy）讓數百萬人成功瘦身，但 Wake Forest 大學最新研究警告——快速減重可能伴隨骨質流失。年長使用者、停經後女性風險更高。</description>
+      <content:encoded><![CDATA[<p>GLP-1 減肥藥（Ozempic、Wegovy）讓數百萬人成功瘦身，但 Wake Forest 大學最新研究警告——快速減重可能伴隨骨質流失。年長使用者、停經後女性風險更高。</p><p>這集我們聊：為什麼快速減重會傷害骨頭、Wake Forest 研究核心發現、高風險族群、以及如何在減重同時保護骨骼健康。</p>]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/andygor88888/knowledge-daily-podcast/main/glp1_podcast_final.mp3" length="2893824" type="audio/mpeg"/>
+      <itunes:duration>331</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     
   </channel>
 </rss>
