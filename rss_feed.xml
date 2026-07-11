@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+
+  <channel>
+    <title>知識早報 Knowledge Daily</title>
+    <link>https://jianmsblog.blogspot.com/</link>
+    <language>zh-tw</language>
+    <description>每日一則知識型話題，用聽的吸收最新資訊。科技趨勢、健康醫學、科普知識，通通在這裡。</description>
+    <itunes:author>Julie Wang</itunes:author>
+    <itunes:category text="Science">Society &amp; Culture</itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://jianmsblog.blogspot.com/favicon.ico"/>
+    <itunes:owner>
+      <itunes:name>Julie Wang</itunes:name>
+      <itunes:email>xx5472@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <!-- Episode 1: 美國飲食指南爭議（中文版） -->
+    <item>
+      <title>EP1: 2026美國飲食指南爭議 — 為什麼營養學家說它錯了幾十年？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">knowledgedaily-ep1-zh-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 09:00:00 +0800</pubDate>
+      <description>2026年美國飲食指南引發爭議！心臟科醫生指出官方建議存在五大問題。從食物金字塔到最新指南，美國93%成年人代謝不健康，問題可能不在我們吃太多，而是政府告訴我們該吃的東西從根本上就錯了。</description>
+      <content:encoded><![CDATA[<p>2026年美國飲食指南引發爭議！心臟科醫生指出官方建議存在五大問題。從食物金字塔到最新指南，美國93%成年人代謝不健康，問題可能不在我們吃太多，而是政府告訴我們該吃的東西從根本上就錯了。</p><p>這集我們聊：美國飲食指南的歷史爭議、三項頂尖臨床試驗（PREDIMED、DIRECT、VIRTA）、2026指南的五個核心問題、以及你該如何避開官方指南的誤區。</p>]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/andygor88888/knowledge-daily-podcast/main/solo_podcast_final.mp3" length="3383249" type="audio/mpeg"/>
+      <itunes:duration>382</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 2: 美國飲食指南爭議（英文版） -->
+    <item>
+      <title>EP2: The 2026 USDA Dietary Guidelines Controversy</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">knowledgedaily-ep2-en-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 09:30:00 +0800</pubDate>
+      <description>A cardiologist's viral thread reveals why the USDA Dietary Guidelines may have been wrong for decades. 93% of American adults are metabolically unhealthy - maybe the problem isn't what we're eating too much of, but what the government told us to eat.</description>
+      <content:encoded><![CDATA[<p>A cardiologist's viral thread reveals why the USDA Dietary Guidelines may have been wrong for decades. 93% of American adults are metabolically unhealthy - maybe the problem isn't what we're eating too much of, but what the government told us to eat.</p><p>In this episode: the history of USDA guidelines, the PREDIMED/DIRECT/VIRTA trials, five core problems with the 2026 guidelines, and practical advice for healthier eating.</p>]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/andygor88888/knowledge-daily-podcast/main/en_podcast_final.mp3" length="3800997" type="audio/mpeg"/>
+      <itunes:duration>386</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+  </channel>
+</rss>
