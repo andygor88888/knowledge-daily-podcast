@@ -10,7 +10,7 @@
     <language>zh-tw</language>
     <description>每日一則知識型話題，用聽的吸收最新資訊。科技趨勢、健康醫學、科普知識，通通在這裡。</description>
     <itunes:author>Julie Wang</itunes:author>
-    <itunes:category text="Science">Society &amp; Culture</itunes:category>
+    <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://andygor88888.github.io/knowledge-daily-podcast/cover.png"/>
     <itunes:owner>
