@@ -66,6 +66,22 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 3 (English): GLP-1 Bone Risk -->
+    <item xml:lang="en">
+      <title>EP3 (English): The Hidden Cost of GLP-1 Drugs — Losing Weight, Losing Bone?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep3-en-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 10:00:00 +0800</pubDate>
+      <description>GLP-1 drugs (Ozempic, Wegovy) helped millions slim down, but Wake Forest research warns rapid weight loss may come with bone loss. Older users and post-menopausal women are at higher risk.</description>
+      <content:encoded><![CDATA[<p>GLP-1 drugs (Ozempic, Wegovy) helped millions slim down, but Wake Forest research warns rapid weight loss may come with bone loss. Older users and post-menopausal women are at higher risk.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/glp1_en_final.mp3" length="3518109" type="audio/mpeg"/>
+      <itunes:duration>355</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <!-- Episode 4: GPT-5.6 健康智能 -->
     <item>
       <title>EP4: GPT-5.6 來了！OpenAI 最新模型如何用健康智能改變你的生活？</title>
@@ -76,6 +92,22 @@
       <content:encoded><![CDATA[<p>OpenAI 推出 GPT-5.6 三款模型（Sol/Terra/Luna），分層定價、健康智能、Sol Ultra 破解 50 年數學難題。AI 從奢侈品變日用品。</p>]]></content:encoded>
       <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/gpt56_final_v2.mp3" length="2207637" type="audio/mpeg"/>
       <itunes:duration>244</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 4 (English): GPT-5.6 -->
+    <item xml:lang="en">
+      <title>EP4 (English): GPT-5.6 Is Here! How OpenAI's New Models Reshape Your Life with Health Intelligence</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep4-en-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 10:30:00 +0800</pubDate>
+      <description>OpenAI launched GPT-5.6 with three models (Sol/Terra/Luna), tiered pricing, Health Intelligence, and Sol Ultra cracking a 50-year math problem. AI goes from luxury to everyday tool.</description>
+      <content:encoded><![CDATA[<p>OpenAI launched GPT-5.6 with three models (Sol/Terra/Luna), tiered pricing, Health Intelligence, and Sol Ultra cracking a 50-year math problem. AI goes from luxury to everyday tool.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/gpt56_en_final.mp3" length="2676765" type="audio/mpeg"/>
+      <itunes:duration>269</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -98,6 +130,22 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 5 (English): Apple Sues OpenAI -->
+    <item xml:lang="en">
+      <title>EP5 (English): Inside Apple's Lawsuit Against OpenAI — 400 Ex-Employees, Stolen Parts, Backdoor Server Access</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep5-en-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 11:00:00 +0800</pubDate>
+      <description>Apple sued OpenAI, accusing systematic theft of hardware trade secrets. Over 400 former Apple employees now work at OpenAI; the suit reveals jaw-dropping details.</description>
+      <content:encoded><![CDATA[<p>Apple sued OpenAI, accusing systematic theft of hardware trade secrets. Over 400 former Apple employees now work at OpenAI; the suit reveals jaw-dropping details.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/apple_en_final.mp3" length="2292861" type="audio/mpeg"/>
+      <itunes:duration>234</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <!-- Episode 6: 骨骼—血糖調控 -->
     <item>
       <title>EP6: 骨頭也有荷爾蒙？科學家發現骨骼—血糖全新調控機制</title>
@@ -114,6 +162,22 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 6 (English): Bone–Blood Sugar -->
+    <item xml:lang="en">
+      <title>EP6 (English): Your Bones Make Hormones? The Bone–Blood Sugar Control Link</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep6-en-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 11:30:00 +0800</pubDate>
+      <description>New science shows your skeleton secretes osteocalcin, a hormone that directly regulates insulin secretion and blood-sugar metabolism. The link between osteoporosis and diabetes is closer than you think.</description>
+      <content:encoded><![CDATA[<p>New science shows your skeleton secretes osteocalcin, a hormone that directly regulates insulin secretion and blood-sugar metabolism. The link between osteoporosis and diabetes is closer than you think.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/bone_en_final.mp3" length="2816229" type="audio/mpeg"/>
+      <itunes:duration>285</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <!-- Episode 7: 根管治療與心臟病 -->
     <item>
       <title>EP7: 一個蛀牙如何影響你的心臟？根管治療能降低心臟病風險</title>
@@ -124,6 +188,22 @@
       <content:encoded><![CDATA[<p>King's College London 研究發現成功的根管治療能顯著改善血糖和膽固醇，降低心臟病風險。口腔健康比你想像的更影響全身。</p>]]></content:encoded>
       <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/root_final_v2.mp3" length="1884693" type="audio/mpeg"/>
       <itunes:duration>208</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 7 (English): Root Canal & Heart -->
+    <item xml:lang="en">
+      <title>EP7 (English): How a Cavity Affects Your Heart — Root Canal Lowers Heart Risk</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep7-en-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 +0800</pubDate>
+      <description>King's College London found successful root canal treatment significantly improves blood sugar and cholesterol, lowering heart-disease risk. Oral health affects your whole body more than you think.</description>
+      <content:encoded><![CDATA[<p>King's College London found successful root canal treatment significantly improves blood sugar and cholesterol, lowering heart-disease risk. Oral health affects your whole body more than you think.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/root_en_final.mp3" length="2207037" type="audio/mpeg"/>
+      <itunes:duration>225</itunes:duration>
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
