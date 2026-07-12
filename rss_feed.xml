@@ -370,5 +370,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 13 (Chinese): 香港房租歷史新高 -->
+    <item>
+      <title>EP13: 香港房租真的漲到歷史新高了嗎？私樓租金五連破頂、公屋輪候卻創新低</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep13-hk-rent-zh-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 18:00:00 +0800</pubDate>
+      <description>香港私樓租金在 2026 年屢創新高，但公屋輪候時間卻降到近年新低。這兩件事同時發生，揭露了住房市場最根本的矛盾：供應增加了，卻沒流到最需要的人手上。本集拆解私樓租金、公屋輪候、夾心層與細分單位、土地結構瓶頸，以及最新《基本法住房單位條例》。</description>
+      <content:encoded><![CDATA[<p>香港私樓租金在 2026 年屢創新高，但公屋輪候時間卻降到近年新低。</p><p>本集拆解：私樓租金為什麼漲到史上最高、公屋輪候為什麼反而變短、夾心層與細分單位的困境、土地分配的根本瓶頸，以及 2026 年生效的《基本法住房單位條例》。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/hk_rent_zh_final.mp3" length="5119389" type="audio/mpeg"/>
+      <itunes:duration>403</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 14 (English): Is Hong Kong Rent Really at an All-Time High? -->
+    <item xml:lang="en">
+      <title>EP14: Is Hong Kong Rent Really at an All-Time High? Private Rents Keep Breaking Records While Public Housing Wait Times Hit a New Low</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep14-hk-rent-en-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 18:00:00 +0800</pubDate>
+      <description>Hong Kong's private rents posted repeated record highs in 2026, yet public housing wait times dropped to a recent low. Both happening together exposes the core contradiction: supply is rising, but it isn't reaching the people who need it most. This episode breaks down private rents, public housing queues, the sandwich class and subdivided flats, the land bottleneck, and the new Basic Housing Units Ordinance.</description>
+      <content:encoded><![CDATA[<p>Hong Kong's private rents posted repeated record highs in 2026, yet public housing wait times dropped to a recent low.</p><p>This episode breaks down: why private rents hit all-time highs, why public waits got shorter, the sandwich class and subdivided flats, the land-distribution bottleneck, and the Basic Housing Units Ordinance effective in 2026.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/hk_rent_en_final.mp3" length="5149461" type="audio/mpeg"/>
+      <itunes:duration>413</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
