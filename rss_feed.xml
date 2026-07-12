@@ -338,5 +338,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 12: 健身房器材背後的硬科技（中文版） -->
+    <item>
+      <title>EP12: 健身房器材背後的硬科技 — 為什麼一台智能器械能取代一整間健身房？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep12-gym-tech-zh-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 14:00:00 +0800</pubDate>
+      <description>現代健身器材的硬科技不在鐵塊本身，而在於用電磁阻力、感測器與演算法，把一整面配重片牆的訓練壓進一面掛在牆上的螢幕。這集帶你看懂配重片、漸進超負荷、渦電流、電刺激與連網化的原理。</description>
+      <content:encoded><![CDATA[<p>現代健身器材的硬科技不在鐵塊本身，而在於用電磁阻力、感測器與演算法，把一整面配重片牆的訓練壓進一面掛在牆上的螢幕。</p><p>這集聊：配重片堆的機械工程、漸進式超負載原則、電磁阻力（渦電流）如何取代鐵塊、電刺激肌肉訓練的真相，以及連網化如何讓器材變成數據終端。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/gym_tech_zh_final.mp3" length="2890677" type="audio/mpeg"/>
+      <itunes:duration>320</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 12 (English): The Hard Tech Behind Gym Equipment -->
+    <item xml:lang="en">
+      <title>EP12 (English): The Hard Tech Behind Gym Equipment — Why One Smart Machine Can Replace a Whole Gym</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep12-gym-tech-en-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 14:00:00 +0800</pubDate>
+      <description>The real hard tech in modern fitness gear isn't the steel plates — it's electromagnetic resistance, sensors, and algorithms packing a whole wall of weight stacks into a wall-mounted screen. This episode covers weight stacks, progressive overload, eddy-current resistance, EMS, and connectivity.</description>
+      <content:encoded><![CDATA[<p>The real hard tech in modern fitness gear isn't the steel plates — it's electromagnetic resistance, sensors, and algorithms packing a whole wall of weight stacks into a wall-mounted screen.</p><p>This episode covers the mechanical engineering of weight stacks, the progressive overload principle, how eddy-current resistance replaces iron, the truth about EMS training, and how connectivity turns gear into a data terminal.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/gym_tech_en_final.mp3" length="2906541" type="audio/mpeg"/>
+      <itunes:duration>298</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
