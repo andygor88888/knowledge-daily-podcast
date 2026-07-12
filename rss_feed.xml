@@ -209,6 +209,134 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
-    
+
+    <!-- Episode 8: AI 產業轉折 -->
+    <item>
+      <title>EP8: 不再追求更大模型？2026年AI產業三大巨變，你跟上沒？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep8-ai-shift-zh-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0800</pubDate>
+      <description>2026年AI產業從追求最大模型，轉向最便宜、最適任務、最可控的系統。Perplexity執行長稱之為編排系統，中國模型用量暴增。</description>
+      <content:encoded><![CDATA[<p>2026年AI產業從追求最大模型，轉向最便宜、最適任務、最可控的系統。Perplexity執行長稱之為編排系統，中國模型用量暴增。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/ai_shift_zh_final.mp3" length="2413653" type="audio/mpeg"/>
+      <itunes:duration>273</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 8 (English): AI Race Shift -->
+    <item xml:lang="en">
+      <title>EP8 (English): Is the AI Race No Longer About Bigger Models?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep8-ai-shift-en-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0800</pubDate>
+      <description>In 2026 the AI race shifts from bigger models to cheaper, smarter systems. Perplexity's CEO calls it the orchestration system; China's token usage surges.</description>
+      <content:encoded><![CDATA[<p>In 2026 the AI race shifts from bigger models to cheaper, smarter systems. Perplexity's CEO calls it the orchestration system; China's token usage surges.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/ai_shift_en_final.mp3" length="2896173" type="audio/mpeg"/>
+      <itunes:duration>289</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 9: CRISPR 清除 HIV -->
+    <item>
+      <title>EP9: 愛滋病可能被根治？CRISPR 基因編輯首次成功從細胞中剪出 HIV</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep9-crispr-hiv-zh-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0800</pubDate>
+      <description>科學家首次用 CRISPR 從人類免疫細胞剪除 HIV 基因。EBT-101 在動物實驗病毒未復發，距離根治邁進一步。</description>
+      <content:encoded><![CDATA[<p>科學家首次用 CRISPR 從人類免疫細胞剪除 HIV 基因。EBT-101 在動物實驗病毒未復發，距離根治邁進一步。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/crispr_hiv_zh_final.mp3" length="2191053" type="audio/mpeg"/>
+      <itunes:duration>242</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 9 (English): CRISPR Cuts HIV -->
+    <item xml:lang="en">
+      <title>EP9 (English): Could AIDS Finally Be Cured? CRISPR Cuts HIV Out of Cells</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep9-crispr-hiv-en-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0800</pubDate>
+      <description>Scientists used CRISPR to cut HIV genes out of human immune cells for the first time. EBT-101 showed no viral rebound in animal studies.</description>
+      <content:encoded><![CDATA[<p>Scientists used CRISPR to cut HIV genes out of human immune cells for the first time. EBT-101 showed no viral rebound in animal studies.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/crispr_hiv_en_final.mp3" length="2300349" type="audio/mpeg"/>
+      <itunes:duration>233</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 10: AI 科學家代理 -->
+    <item>
+      <title>EP10: AI 科學家來了？《Science》發表通用型生物醫學 AI 代理，自動化研究流程</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep10-ai-scientist-zh-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0800</pubDate>
+      <description>《Science》發表能自主進行生物醫學研究的 AI 代理，從文獻調閱、提出假說到執行實驗貫穿整條流程。</description>
+      <content:encoded><![CDATA[<p>《Science》發表能自主進行生物醫學研究的 AI 代理，從文獻調閱、提出假說到執行實驗貫穿整條流程。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/ai_scientist_zh_final.mp3" length="1887573" type="audio/mpeg"/>
+      <itunes:duration>211</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 10 (English): AI Scientist -->
+    <item xml:lang="en">
+      <title>EP10 (English): Is the AI Scientist Here? Science Publishes a Generalist Biomedical Agent</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep10-ai-scientist-en-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0800</pubDate>
+      <description>Science published a peer-reviewed AI agent that autonomously runs the full biomedical research pipeline, from hypothesis to experiment.</description>
+      <content:encoded><![CDATA[<p>Science published a peer-reviewed AI agent that autonomously runs the full biomedical research pipeline, from hypothesis to experiment.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/ai_scientist_en_final.mp3" length="2251893" type="audio/mpeg"/>
+      <itunes:duration>225</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 11: AI 萬能疫苗 -->
+    <item>
+      <title>EP11: 牛津用 AI 設計「萬能疫苗」進入人體試驗：我們離一針打遍所有病毒還有多遠？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep11-universal-vaccine-zh-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0800</pubDate>
+      <description>牛津大學用 AI 設計的萬能疫苗進入人體試驗，瞄準病毒幹部保守區，有望對付一大類病毒。</description>
+      <content:encoded><![CDATA[<p>牛津大學用 AI 設計的萬能疫苗進入人體試驗，瞄準病毒幹部保守區，有望對付一大類病毒。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/universal_vaccine_zh_final.mp3" length="1919949" type="audio/mpeg"/>
+      <itunes:duration>214</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 11 (English): Universal Vaccine -->
+    <item xml:lang="en">
+      <title>EP11 (English): Oxford's AI-Designed "Universal Vaccine" Enters Human Trials</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep11-universal-vaccine-en-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0800</pubDate>
+      <description>Oxford's AI-designed universal vaccine entered human trials, targeting the conserved stem region to fight a whole class of viruses.</description>
+      <content:encoded><![CDATA[<p>Oxford's AI-designed universal vaccine entered human trials, targeting the conserved stem region to fight a whole class of viruses.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/universal_vaccine_en_final.mp3" length="2515293" type="audio/mpeg"/>
+      <itunes:duration>254</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>

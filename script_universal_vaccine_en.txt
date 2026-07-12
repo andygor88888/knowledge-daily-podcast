@@ -1,0 +1,27 @@
+Hello and welcome to Andy's Daily News Bites, I'm Julie.
+
+Every winter you get a fresh flu shot, right? Today we're talking about news that could make that ritual a thing of the past: the University of Oxford has taken an AI-designed universal vaccine into human trials.
+
+Why do we redo the shot every year? Because the flu virus is a master of mutation. Its surface proteins, hemagglutinin, or HA, and neuraminidase, or NA, change year after year, and the old vaccine quickly fails to recognize the new virus. Scientists call it antigenic drift.
+
+But if there were a vaccine that fights a whole class of viruses no matter how they mutate, what we call a universal vaccine, the days of lining up for annual shots would be over.
+
+What is a universal vaccine? According to Wikipedia on universal flu vaccines, the goal is to defend against all human-adapted type A and type B influenza viruses, regardless of subtype, and regardless of antigenic drift or shift. In other words, it wouldn't need yearly rewrites to keep up with the virus.
+
+Traditional vaccines target the head of the virus's HA protein, and that head is exactly where the virus loves to mutate. The universal approach is completely different. It targets the stem, a conserved region that mutates far less often, so one vaccine can cover many strains.
+
+In the past, scientists relied on intuition and trial and error to find the antigen fragment that was both conserved and able to trigger an immune response. It's like manually fishing the few critical threads out of a tangled mess.
+
+So what did AI do here? The keyword is super-antigen. Finding a conserved yet effective antigen used to depend on human scientists' intuition and mountains of experiments. AI's strength is exactly this: it can scan massive viral sequence databases, rapidly pin down the region common to all strains and nearly unchanged, then design a protein structure that stably presents it to the immune system.
+
+Oxford's vaccine entering human trials is essentially this: using AI to automatically fish out the cross-strain conserved antigen from the ocean of viral sequences, and design it into an injectable vaccine. This compresses what used to be years of antigen discovery, design, and validation into a loop the algorithm can iterate quickly.
+
+What does entering human trials mean? We have to be honest about the stage. Entering human trials usually means Phase I, and the main goal there is not to prove it works, but to confirm safety and tolerability. Between that and an approved vaccine stand two more walls, Phase II and Phase III. Historically, many candidates that entered human trials ultimately fell at Phase II or III.
+
+But this step is symbolically huge: it's the first vaccine designed by AI for broad-spectrum viral protection to actually enter the human body.
+
+If it succeeds, how does the world change? For public health, it could end annual revaccination, speed up vaccine development when a new virus emerges, and ease the unequal distribution of shots.
+
+An AI-designed super-antigen has now been injected into humans. This is the first time humanity has used an algorithm to design a broad-spectrum viral vaccine and send it to the clinic. There are still Phase II and III hurdles before one shot covers all, but the direction is clear: vaccine development is shifting from craft to computational science.
+
+That's all for today's Andy's Daily News Bites. If you enjoyed this, share it with a friend and subscribe for more. I'm Julie, see you next time!

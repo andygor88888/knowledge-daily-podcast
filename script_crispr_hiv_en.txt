@@ -1,0 +1,25 @@
+Hello and welcome to Andy's Daily News Bites, I'm Julie.
+
+Today's episode is a bit technical, but absolutely worth it. We're asking: could AIDS finally be cured?
+
+Since AIDS was identified in the 1980s, it has been one of medicine's most stubborn enemies. Not because there's no treatment. Antiretroviral therapy, or ART, already lets people with HIV live nearly normal lives. The real problem is that HIV hides its own genes inside the DNA of human cells, like a dormant landmine buried in the body that can relapse the moment you stop medication.
+
+But in 2026, a wave of news is moving the cure for AIDS from science fiction toward reality. For the first time, scientists used CRISPR gene editing to successfully cut HIV's genes out of human immune cells.
+
+So what is CRISPR, and why can it fight HIV?
+
+CRISPR is a gene-editing technology originally borrowed from bacterial immune systems. In 2012, scientists Doudna and Charpentier simplified its Cas9 enzyme mechanism, letting researchers use it like genetic scissors to precisely cut DNA at specific locations. That breakthrough won them the 2020 Nobel Prize in Chemistry.
+
+Here's the key: since the virus hides its genes inside human DNA, all you need is a guide RNA that recognizes the HIV sequence, paired with Cas9 scissors, and you can cut the viral genes out of the host cell.
+
+What did this breakthrough actually do? According to reports from science accounts, the research team managed to remove HIV from human immune cells in experiments. This isn't a test-tube toy experiment. It's a step toward actually treating human patients.
+
+The most watched candidate drug here is called EBT-101, developed by Excision Biosciences. It specifically targets and cuts out the latent HIV proviral DNA hiding inside cells. In animal studies, treated subjects showed no viral rebound, which is the key marker of a functional cure.
+
+Why is this different from past cases? The famous ones are the Berlin patient and the London patient, who were accidentally cleared of HIV after stem-cell transplants. But that approach has two fatal limits: the donor must carry a rare CCR5 genetic defect, and the surgery is extremely high-risk, impossible to replicate at scale. The CRISPR approach edits the patient's own cells directly, and in theory, that could become a scalable therapy benefiting most people living with HIV.
+
+Of course, to be honest, this is not yet the moment AIDS is cured. Most results are still in animal studies or early human safety trials. There are still hurdles: off-target risk, delivery efficiency, and durability. But the direction is clear. In 2023, the world's first CRISPR therapy, Casgevy, was approved to cure sickle-cell disease. HIV is the next, and maybe the most meaningful, battlefield.
+
+The HIV hidden in your DNA has finally been found by CRISPR scissors. From control to cure, AIDS medicine is standing at a turning point.
+
+That's all for today's Andy's Daily News Bites. If you enjoyed this, share it with a friend and subscribe for more. I'm Julie, see you next time!

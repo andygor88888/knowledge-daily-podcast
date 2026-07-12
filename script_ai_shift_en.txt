@@ -1,0 +1,37 @@
+Hello and welcome to Andy's Daily News Bites, I'm Julie.
+
+Today we're talking about a shift that might change how you look at the AI industry.
+
+If for the past two years you judged how strong an AI company was by how big its model was or how high its benchmarks scored, that scorecard has been incomplete since the middle of 2026.
+
+Michael Burry, the famous Wall Street short-seller and the real-life inspiration for the movie The Big Short, reposted a CNBC report on July 11th, and it racked up a hundred and sixty thousand views in just two days. What he said was simple, but it hit a nerve across the industry: the AI race is shifting from bigger models to cheaper, smarter systems.
+
+This isn't just one person's opinion. It's a structural turning point.
+
+The first signal: the product is no longer the model, it's the orchestration system.
+
+CNBC's reporting points out a key shift. For the past two years, the AI race was easy to score. Bigger model, stronger benchmark, whoever shipped first took the lead. But once companies move from testing AI to actually using it in real products and workflows, the scoring changes.
+
+Perplexity CEO Aravind Srinivas said something to CNBC that I think is the soul of the whole report. He said: the model itself is no longer the product. The real product is the harness that wraps the model and wires up a bunch of tools around it.
+
+In plain terms: the AI product you use in the future won't tell you it's running on GPT-5 or Claude. It will quietly decide in the background. A simple customer-service task doesn't need the most expensive model, so it runs on a cheap open-source one. A hard coding problem gets escalated to the most powerful model. Srinivas's exact words: the answer is always, use the one that fits this task best.
+
+The second signal: companies are tightening their belts, and the economics of giant models are being challenged.
+
+Behind this shift is a cooling in capital markets. One venture investor observed that open-weight models will soon handle most AI usage, which directly squeezes the profit margins of the biggest model providers. In other words, when free or low-cost open-source models are good enough, why would a company pay a fortune every month for the most expensive closed model?
+
+CNBC also noted that as corporate America starts cutting AI spending, companies like OpenAI and Anthropic, built on selling cutting-edge tech, face a new problem: customers no longer blindly chase the strongest model, they're calculating return on investment.
+
+The third signal is the most alarming, and it comes from geopolitical data.
+
+According to numbers compiled by the Kobeissi Letter: of the top fifty most-used AI models globally right now, twenty are from China, up four hundred percent from 2025, while the number of US models dropped from thirty-three to twenty-eight. Even more striking is token volume. China's models surged a hundred and thirteen percent in June to ninety-eight trillion tokens, while US models grew only forty-three percent to fifty-three trillion. The result: China's token usage is now eighty-five percent higher than America's.
+
+That data tells a story. Chinese models, with a cheaper, more open, good-enough strategy, are rapidly eating into usage. As the capability gap between models shrinks, price and openness become the deciding factors.
+
+So what does this mean for you?
+
+If you're a developer, instead of obsessing over the strongest model, learn model routing, letting the system pick the right model per task. That's one of the most valuable skills of 2026. If you're a regular user, your AI tools will get cheaper and faster, because behind the scenes they may run on small models instead of nuking every task with a giant one.
+
+2026 isn't AI getting weaker. It's AI getting smarter about costs. When the industry moves from an arms race of who's biggest to a pragmatic who's most cost-effective, the winners are everyone actually using AI to solve problems.
+
+That's all for today's Andy's Daily News Bites. If you enjoyed this, share it with a friend and subscribe for more. I'm Julie, see you next time!

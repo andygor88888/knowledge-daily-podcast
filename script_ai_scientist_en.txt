@@ -1,0 +1,21 @@
+Hello and welcome to Andy's Daily News Bites, I'm Julie.
+
+If someone told you a year ago that AI would run scientific research on its own, you'd probably call it science fiction. But in 2026, the journal Science published a paper with a blunt title: Autonomous biomedical research with an artificial intelligence agent.
+
+This isn't a concept demo. It's a peer-reviewed, published study. And it marks a turning point: AI is moving from a helper that looks up references for you, to an agent that designs experiments, runs workflows, and produces hypotheses on its own.
+
+What is a generalist biomedical AI agent? The keywords are generalist and agent.
+
+Past research AI was mostly a specialist. One model did one thing, say, predict protein structure. But the system described in this Science paper runs the entire research pipeline. It starts by pulling up foundational literature and forming a hypothesis, then plans the experiment steps, calls lab automation equipment to execute them, reads the results, iterates, and finally produces a publishable scientific conclusion.
+
+Wikipedia's definition of laboratory automation fits this perfectly. It's a cross-disciplinary strategy that uses automation to boost productivity, raise data quality, shorten experiment cycles, and even make previously impossible experiments possible. Pair an AI agent with lab automation, and you've swapped the brain of that strategy for a model that thinks for itself.
+
+Why does it matter that this was published in Science? Because Science is one of the world's top peer-reviewed journals. Getting in means the system isn't a company's marketing pitch. It's been through rigorous scientific validation, with methods that can be reproduced.
+
+This is fundamentally different from the AI for Science hype of past years. From 2020 to 2023, AlphaFold predicted protein structures. Impressive, but a single-point tool solving one sub-problem. From 2024 to 2025, research assistants flooded in, helping you read papers and write code, but a human still had to supervise every step. The 2026 paper lets the agent run the whole pipeline, with humans stepping back from operator to supervisor.
+
+What does this mean for researchers? On the upside, research speed multiplies. Experiment iterations that used to take a PhD student months can now run day and night, automatically. Smaller labs can produce systematic research that previously only big teams could afford. On the challenge side, there's explainability. If the AI agent's hypothesis is something human scientists can't follow or verify, that's dangerous. Worse, if the agent gets the hypothesis wrong at step one, every automated experiment after it is just accelerating in the wrong direction.
+
+AI is no longer just a tool. It's becoming your lab partner. This paper isn't the finish line, it's a signal: the race for the next wave of scientific breakthroughs may no longer be about who has the smartest scientists, but about who uses AI agents the best.
+
+That's all for today's Andy's Daily News Bites. If you enjoyed this, share it with a friend and subscribe for more. I'm Julie, see you next time!
