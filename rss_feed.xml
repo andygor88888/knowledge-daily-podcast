@@ -386,49 +386,49 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
-    <!-- Episode 14 (English): Is Hong Kong Rent Really at an All-Time High? -->
+    <!-- Episode 13 (English): Is Hong Kong Rent Really at an All-Time High? -->
     <item xml:lang="en">
-      <title>EP14: Is Hong Kong Rent Really at an All-Time High? Private Rents Keep Breaking Records While Public Housing Wait Times Hit a New Low</title>
+      <title>EP13 (English): Is Hong Kong Rent Really at an All-Time High? Private Rents Keep Breaking Records While Public Housing Wait Times Hit a New Low</title>
       <link>https://jianmsblog.blogspot.com/</link>
-      <guid isPermaLink="false">andydaily-ep14-hk-rent-en-20260712</guid>
+      <guid isPermaLink="false">andydaily-ep13-hk-rent-en-20260712</guid>
       <pubDate>Sun, 12 Jul 2026 18:00:00 +0800</pubDate>
       <description>Hong Kong's private rents posted repeated record highs in 2026, yet public housing wait times dropped to a recent low. Both happening together exposes the core contradiction: supply is rising, but it isn't reaching the people who need it most. This episode breaks down private rents, public housing queues, the sandwich class and subdivided flats, the land bottleneck, and the new Basic Housing Units Ordinance.</description>
       <content:encoded><![CDATA[<p>Hong Kong's private rents posted repeated record highs in 2026, yet public housing wait times dropped to a recent low.</p><p>This episode breaks down: why private rents hit all-time highs, why public waits got shorter, the sandwich class and subdivided flats, the land-distribution bottleneck, and the Basic Housing Units Ordinance effective in 2026.</p>]]></content:encoded>
       <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/hk_rent_en_final.mp3" length="5149461" type="audio/mpeg"/>
       <itunes:duration>413</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 14 (Chinese): 香港填海真的越填越快嗎？ -->
+    <item>
+      <title>EP14: 香港填海真的越填越快嗎？單一工程變大、總量反而變慢，關鍵在這三項科技</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep14-hk-reclamation-zh-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 20:00:00 +0800</pubDate>
+      <description>你感覺香港填海越填越快，一半真一半錯覺。現代填海科技（深層水泥攪拌 DCM、動態定位挖泥船）讓單一工程更快更大，但香港累計填海總量在九〇年代新市鎮高峰後已放緩，維港內幾乎停填，明日大嶼也擱置。本集拆解百年填海史與關鍵科技。</description>
+      <content:encoded><![CDATA[<p>你感覺香港填海越填越快，一半真一半錯覺。</p><p>本集拆解：百年填海史（從西漢鹽田到赤鱲角機場）、為什麼感覺變快（工程規模變大 + DCM/動態定位船等科技）、三道煞車（維港條例、明日大嶼擱置、環保監督），以及「單一工程快 ≠ 總量多」的核心區分。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/hk_reclamation_zh_final.mp3" length="4596333" type="audio/mpeg"/>
+      <itunes:duration>361</itunes:duration>
       <itunes:episode>14</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
-    <!-- Episode 15 (Chinese): 香港填海真的越填越快嗎？ -->
-    <item>
-      <title>EP15: 香港填海真的越填越快嗎？單一工程變大、總量反而變慢，關鍵在這三項科技</title>
-      <link>https://jianmsblog.blogspot.com/</link>
-      <guid isPermaLink="false">andydaily-ep15-hk-reclamation-zh-20260712</guid>
-      <pubDate>Sun, 12 Jul 2026 20:00:00 +0800</pubDate>
-      <description>你感覺香港填海越填越快，一半真一半錯覺。現代填海科技（深層水泥攪拌 DCM、動態定位挖泥船）讓單一工程更快更大，但香港累計填海總量在九〇年代新市鎮高峰後已放緩，維港內幾乎停填，明日大嶼也擱置。本集拆解百年填海史與關鍵科技。</description>
-      <content:encoded><![CDATA[<p>你感覺香港填海越填越快，一半真一半錯覺。</p><p>本集拆解：百年填海史（從西漢鹽田到赤鱲角機場）、為什麼感覺變快（工程規模變大 + DCM/動態定位船等科技）、三道煞車（維港條例、明日大嶼擱置、環保監督），以及「單一工程快 ≠ 總量多」的核心區分。</p>]]></content:encoded>
-      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/hk_reclamation_zh_final.mp3" length="4596333" type="audio/mpeg"/>
-      <itunes:duration>361</itunes:duration>
-      <itunes:episode>15</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-
-    <!-- Episode 16 (English): Is Hong Kong Really Reclaiming Land Faster Than Ever? -->
+    <!-- Episode 14 (English): Is Hong Kong Really Reclaiming Land Faster Than Ever? -->
     <item xml:lang="en">
-      <title>EP16: Is Hong Kong Really Reclaiming Land Faster Than Ever? Bigger Single Projects, Slower Total — and Three Key Technologies</title>
+      <title>EP14 (English): Is Hong Kong Really Reclaiming Land Faster Than Ever? Bigger Single Projects, Slower Total — and Three Key Technologies</title>
       <link>https://jianmsblog.blogspot.com/</link>
-      <guid isPermaLink="false">andydaily-ep16-hk-reclamation-en-20260712</guid>
+      <guid isPermaLink="false">andydaily-ep14-hk-reclamation-en-20260712</guid>
       <pubDate>Sun, 12 Jul 2026 20:00:00 +0800</pubDate>
       <description>Your feeling that Hong Kong is reclaiming land faster is half true, half illusion. Modern tech (deep cement mixing, dynamically positioned dredgers) makes single projects faster and bigger, but cumulative reclamation has slowed since the 1990s peak, harbour reclamation nearly stopped, and Lantau Tomorrow is shelved. This episode breaks down a century of reclamation and the key tech.</description>
       <content:encoded><![CDATA[<p>Your feeling that Hong Kong is reclaiming land faster is half true, half illusion.</p><p>This episode breaks down: a century of reclamation (from Western Han salt pans to Chek Lap Kok airport), why it feels faster (bigger projects + DCM / DP vessels), three brakes (Harbour Ordinance, Lantau Tomorrow shelved, environmental oversight), and the core distinction that "faster single project ≠ more total land."</p>]]></content:encoded>
       <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/hk_reclamation_en_final.mp3" length="4503213" type="audio/mpeg"/>
       <itunes:duration>354</itunes:duration>
-      <itunes:episode>16</itunes:episode>
+      <itunes:episode>14</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
