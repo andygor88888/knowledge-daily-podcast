@@ -1,0 +1,35 @@
+[Andy] Hello and welcome to Andy's Daily News Bites, I'm Andy.
+[Julie] Hi, I'm Julie. Today we're covering something that's been keeping investors up at night — the South Korean stock market crash.
+[Andy] Right. KOSPI lost more than 8% in a single day. Samsung Electronics dropped over 9%, SK Hynix about 9.5%. Together these two stocks make up nearly a third of the entire KOSPI index. When they both fall 9%, the index just collapses.
+[Julie] Eight percent in one day is huge. Hundreds of trillions of won in market cap, gone. But Andy, what I want to understand is — why did Korea get hit so much worse than other Asian markets? Japan lost 1.8% that day, Taiwan was under 1%.
+
+[Andy] Great question. On the surface it looks like an AI stock selloff — valuations got too high, profit-taking kicked in. But Korea has a much deeper problem: retail investors were borrowing insane amounts of money to buy stocks.
+[Julie] Margin trading, right? That happens everywhere though. What makes Korea special?
+[Andy] The scale. Koreans call it "debt investing" — 빚투. Samsung Electronics alone had over 425 billion won in outstanding margin loans. That's about 320 million US dollars. SK Hynix had 353 billion won. And those are just two stocks.
+[Julie] Wait — that's the money retail investors borrowed from brokerages that hasn't been paid back yet?
+[Andy] Exactly. The really scary numbers are in the ETF market. There's this ETF called KODEX AI Semiconductor TOP2 Plus, which tracks Samsung and SK Hynix. 70.6% of the money in that ETF was borrowed.
+[Julie] 70% borrowed. So if you bought that ETF, roughly 70 cents of every dollar wasn't yours. What happens when it drops?
+[Andy] Margin call. The brokerage calls you and says deposit more cash or we liquidate your positions. The problem is when everyone gets that call simultaneously, forced selling creates a chain reaction. That's the death spiral that made Korea's crash so much worse than its neighbors.
+
+[Julie] So the sequence was: AI stocks dip → leveraged margin positions get called → forced selling pushes prices lower → more margin calls. A cascading loop.
+[Andy] Exactly. And there's another uniquely Korean angle — the love for 3X leveraged ETFs. There's a US-traded ETF called KORU, which gives you triple leveraged exposure to KOSPI. In the first half of 2026, it gained over 500%.
+[Julie] 500%? That sounds amazing!
+[Andy] Until it's not. When KOSPI drops 8%, KORU drops 24%. When KOSPI enters bear territory — down 20% from peak — KORU loses 60%. And that's before the volatility decay that slowly eats leveraged ETFs even when the market is flat.
+
+[Julie] Korea's financial regulator actually saw this coming. In May, the head of the Financial Supervisory Service publicly warned about excessive debt investing and said they'd tighten monitoring.
+[Andy] And it all played out within weeks. There's an important lesson here for every market, not just Korea.
+[Julie] Let's break it down. First — leverage looks amazing in a bull market, but when the turn comes, it forces you to sell at the worst possible time.
+[Andy] Second — AI is a genuine long-term trend, but even the best industry can be overbought. Price matters. Third — margin debt levels are a really useful overheating indicator. When everyone around you is borrowing to buy stocks, it's time to be cautious.
+
+[Julie] And fourth — concentrated markets are fragile. Korea's index basically rests on two semiconductor stocks. When those two move, the whole country moves with them, violently.
+[Andy] Right now KOSPI trades at a P/E ratio below what it was during the 2008 financial crisis. Sounds cheap, right? But that low P/E isn't because it's undervalued — it's because the market doesn't believe those earnings will last. Memory chips have always been boom and bust.
+[Julie] And that low P/E is risky in itself — if analysts cut earnings estimates, the P/E suddenly looks expensive. So people saying "KOSPI is cheap" might be underestimating the earnings downgrade risk.
+
+[Andy] So what's the takeaway for our listeners?
+[Julie] The biggest one: don't confuse leverage with a shortcut to wealth. You see people making money on margin during a bull run and it's tempting. But leverage only works when the market goes your way. When it doesn't, the damage is multiplied. Korea is a textbook case.
+[Andy] And retail investors tend to move in herds — all piling in together, all panic-selling together. Korea has one of the highest retail participation rates in the developed world. That amplifies volatility in both directions.
+
+[Julie] So whether you trade in Seoul, New York, or Taipei — Korea's story is worth paying attention to. Especially right now when AI is the hottest trade and everyone's feeling bullish.
+[Andy] That's all for today's episode. If you found this useful, share it with a friend. I'm Andy.
+[Julie] I'm Julie, see you next time!
+[Andy] See you!

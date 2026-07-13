@@ -498,5 +498,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 17 (Chinese): 韓國股市為何一天暴跌 8%？ -->
+    <item>
+      <title>EP17: 韓國股市為何一天暴跌 8%？槓桿泡沫破裂全解析</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep17-zh-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 11:00:00 +0800</pubDate>
+      <description>KOSPI 單日暴跌 8.18%，三星電子跌 9.3%、SK 海力士跌 9.5%。表面上是 AI 股獲利了結，但深層原因更驚人——韓國散戶的融資槓桿已經到了荒謬的程度，一家半導體 ETF 高達 70% 的資金是借來的。本集拆解韓國股市暴跌的結構性原因、槓桿泡沫如何破裂，以及這場危機對所有投資人的啟示。（本集為 Andy 與 Julie 雙人對話版。）</description>
+      <content:encoded><![CDATA[<p>KOSPI 單日暴跌 8.18%，三星電子和 SK 海力士同步重挫。表面上是 AI 股估值過高引發獲利了結，但韓國背後還有更瘋狂的故事——散戶瘋狂借錢買股票的「債務投資」文化。</p><p>本集拆解：韓國如何從全球最熱的 AI 晶片市場，變成一天觸發熔斷的崩盤現場？融資斷頭的連鎖反應如何運作？三倍槓桿 ETF 在暴跌時會有多慘？以及對一般投資人的四個重要啟示。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/korea-stock-crash_zh_final.mp3" length="4264341" type="audio/mpeg"/>
+      <itunes:duration>354</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 17 (English): Korea Stock Market Crash 8% -->
+    <item xml:lang="en">
+      <title>EP17 (English): Why Did South Korea's Stock Market Crash 8%?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep17-en-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 11:00:00 +0800</pubDate>
+      <description>KOSPI crashed over 8% in a single day. Samsung -9.3%, SK Hynix -9.5%. While AI stock valuations triggered the selloff, Korea's unique "debt investing" culture turned it into a full-blown crisis — with some semiconductor ETFs having 70% of their funds borrowed on margin. This duo episode breaks down the crash, the leverage bubble, and 4 key lessons for every investor.</description>
+      <content:encoded><![CDATA[<p>South Korea's KOSPI index plunged 8.18%. Samsung Electronics fell 9.3%, SK Hynix fell 9.5%. On the surface it looks like an AI stock correction, but Korea's structural problems run much deeper.</p><p>Hosts Andy and Julie break down Korea's "debt investing" frenzy, how margin calls create cascading liquidations, why 3X leveraged ETFs amplify crashes, and the four most important lessons for investors everywhere.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/korea-stock-crash_en_final.mp3" length="4034757" type="audio/mpeg"/>
+      <itunes:duration>339</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
