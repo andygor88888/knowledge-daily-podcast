@@ -466,5 +466,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 16 (Chinese): 美銀為什麼把 Coinbase 目標價砍到 203 美元？ -->
+    <item>
+      <title>EP16: 美銀為什麼把 Coinbase 目標價砍到 203 美元？加密貨幣的華爾街之路為何跌跌撞撞</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep16-coinbase-zh-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 11:00:00 +0800</pubDate>
+      <description>美銀把 Coinbase 目標價下調至 203 美元，表面是對單一公司的獲利擔憂，背後反映的是整個加密貨幣走向華爾街規範化過程中的結構性陣痛——監管不確定、手續費收入承壓、以及傳統金融與幣圈文化難以真正融合。</description>
+      <content:encoded><![CDATA[<p>美銀（Bank of America）將 Coinbase 目標價下調至 203 美元，表面是對單一公司的獲利擔憂，背後反映的其實是整個「加密貨幣走向華爾街規範化」過程中的結構性陣痛。</p><p>這集拆解 Coinbase 怎麼賺錢、為什麼華爾街對加密貨幣態度搖擺，以及目標價下調真正代表什麼。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/coinbase_zh_final.mp3" length="2266701" type="audio/mpeg"/>
+      <itunes:duration>210</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 16 (English): Why Did Bank of America Cut Coinbase's Target Price to $203? -->
+    <item xml:lang="en">
+      <title>EP16 (English): Why Did Bank of America Cut Coinbase's Target Price to $203? Crypto's Bumpy Road to Wall Street</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep16-coinbase-en-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 11:00:00 +0800</pubDate>
+      <description>Bank of America cutting Coinbase's target price to $203 looks like a single-stock call, but it really reflects the structural growing pains of crypto's march toward Wall Street normalization — regulatory uncertainty, compressed fee revenue, and the gap between traditional finance and crypto culture.</description>
+      <content:encoded><![CDATA[<p>Bank of America cutting Coinbase's target price to $203 looks like a single-stock call, but it really reflects the structural growing pains of crypto's march toward Wall Street normalization.</p><p>This episode breaks down how Coinbase earns, why Wall Street keeps waffling on crypto, and what a target-price cut actually means.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/coinbase_en_final.mp3" length="2608077" type="audio/mpeg"/>
+      <itunes:duration>232</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
