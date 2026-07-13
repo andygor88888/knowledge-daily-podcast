@@ -1,0 +1,45 @@
+[Andy] Hello and welcome to Andy's Daily News Bites, I'm Andy. Julie's here to talk crypto.
+
+[Julie] Hi Andy, I'm Julie. Today we're doing this duo-style — let's talk about how Wall Street sees crypto.
+
+[Andy] Today's crypto headline: Bank of America cut Coinbase's target price to 203 dollars.
+
+[Julie] A target-price cut — does that mean the company is finished? A lot of people panic when they see that headline.
+
+[Andy] Not necessarily. It is Wall Street putting real money behind its doubts, but it doesn't mean the company is done. First, what is Coinbase? It's the largest US crypto exchange — the place most people open an account to buy Bitcoin or Ethereum.
+
+[Julie] How is it different from a normal tech company?
+
+[Andy] It went public directly on the US stock market in 2021, ticker COIN — one of the few crypto-linked stocks ordinary retail investors can buy through a normal brokerage. To understand the downgrade, look at how it makes money: main revenue comes from transaction fees. Every time you trade crypto, it takes a cut.
+
+[Julie] So its fate is tied to coin prices?
+
+[Andy] Handcuffed to them, really. Two things drive it. One, trading volume — in a bull market everyone trades constantly, fees pile up; in a bear market activity dries up. Two, coin prices — higher token prices mean larger absolute fee amounts on the same trade size. That's a highly cyclical business, and Wall Street discounts such companies when valuing them.
+
+[Julie] So what's the bigger story underneath?
+
+[Andy] Crypto is moving from wild west to Wall Street normalization, and the road is bumpy. A few key tensions. One, regulation swings — the US SEC has sued exchanges like Coinbase, questioning whether some listed tokens are unregistered securities. A shift in direction can upend the model.
+
+[Julie] Didn't ETFs help crypto? Why the pressure?
+
+[Andy] ETFs are a double-edged sword. After spot Bitcoin and Ethereum ETFs were approved, investors can get crypto exposure directly through a brokerage without necessarily needing a Coinbase-style exchange. That siphons some traffic, but also opens new custody business. Three, traditional finance's hesitation — big institutional money wants in, but compliance, custody, and accounting aren't fully mature, slowing adoption.
+
+[Julie] What does "target price" actually mean? Analysts throw around numbers and I never quite get it.
+
+[Andy] It's an analyst's estimate of fair value one year out. A cut usually rests on three points: fee-revenue growth expected below earlier optimism, regulatory costs staying elevated, and intensifying competition. But note — target price is not the current price, and not a sell rating.
+
+[Julie] So what should a regular investor actually watch?
+
+[Andy] Different banks' targets vary widely. The market really watches the consensus direction — when multiple institutions cut in sync, that's the more meaningful bearish signal. If you hold COIN, the focus isn't a single target price but two leading indicators: crypto trading volume, and regulatory direction.
+
+[Julie] Let me zoom out — what does Coinbase the company actually represent?
+
+[Andy] Its situation is a thermometer for the whole crypto industry's mainstream-adoption process. The deeper the adoption, the finer the regulation, and the more the profit model has to be reinvented. Crypto isn't just up or down — it's in a long institutionalization process.
+
+[Julie] So is this target-price cut a surprise?
+
+[Andy] Not a surprise — it's normal. The bumps along the way, like this cut, are the norm, not exceptions. Coinbase won't be the last crypto company Wall Street re-prices. As the industry normalizes, we'll see more wild-growth crypto firms forced to learn Wall Street's rules. That transition is only beginning.
+
+[Julie] I'm Julie.
+
+[Andy] I'm Andy. See you next time!

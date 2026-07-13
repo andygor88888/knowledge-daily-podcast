@@ -1,0 +1,9 @@
+.cache/
+__pycache__/
+*.log
+_gen_*.log
+*_concat.txt
+*_tmp.wav
+*_tmp_concat.txt
+ab_test/
+*.py
