@@ -594,5 +594,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 20 (Chinese): 從矽谷到歐洲，企業為何轉向中國 AI 模型？ -->
+    <item>
+      <title>EP20: 從矽谷到歐洲，企業為何轉向中國 AI 模型？性價比革命正在重寫科技遊戲規則</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep20-zh-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 00:18:03 +0800</pubDate>
+      <description>全球前50大AI模型中20個來自中國，中國模型token用量比美國高出85%——DoorDash、Siemens、Airbnb轉向中國AI，價格便宜5-10倍。</description>
+      <content:encoded><![CDATA[<p>全球前50大AI模型中20個來自中國，中國模型token用量比美國高出85%——DoorDash、Siemens、Airbnb轉向中國AI，價格便宜5-10倍。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/china_ai_zh_final.mp3" length="1768797" type="audio/mpeg"/>
+      <itunes:duration>139</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 20 (English): From Silicon Valley to Europe, Why Are Enterprises Turning to Chinese AI Models? -->
+    <item xml:lang="en">
+      <title>EP20 (English): From Silicon Valley to Europe, Why Are Enterprises Turning to Chinese AI Models?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep20-en-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 00:18:03 +0800</pubDate>
+      <description>20 of world's top 50 AI models come from China; Chinese model token usage 85% higher than US. DoorDash, Siemens, Airbnb switch to Chinese AI at 5-10x lower cost.</description>
+      <content:encoded><![CDATA[<p>20 of world's top 50 AI models come from China; Chinese model token usage 85% higher than US. DoorDash, Siemens, Airbnb switch to Chinese AI at 5-10x lower cost.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/china_ai_en_final.mp3" length="1614909" type="audio/mpeg"/>
+      <itunes:duration>130</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
