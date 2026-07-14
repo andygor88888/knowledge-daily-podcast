@@ -530,5 +530,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
-  </channel>
+    <!-- Episode 18 (Chinese): 台積電營收創歷史新高，但 AI 巨頭為何反而現金流轉負？ -->
+    <item>
+      <title>EP18: 台積電營收創歷史新高，但 AI 巨頭為何反而現金流轉負？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep18-zh-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 00:18:03 +0800</pubDate>
+      <description>AI 基礎建設狂潮下，台積電 Q2 營收創 1.27 兆台幣新高，但五大科技巨頭的自由現金流卻首度轉負——誰在賺錢誰在燒錢？</description>
+      <content:encoded><![CDATA[<p>AI 基礎建設狂潮下，台積電 Q2 營收創 1.27 兆台幣新高，但五大科技巨頭的自由現金流卻首度轉負——誰在賺錢誰在燒錢？</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/tsmc_zh_final.mp3" length="2817597" type="audio/mpeg"/>
+      <itunes:duration>221</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 18 (English): TSMC Revenue Hits Record High, But Why Are AI Giants' Cash Flows Turning Negative? -->
+    <item xml:lang="en">
+      <title>EP18 (English): TSMC Revenue Hits Record High, But Why Are AI Giants' Cash Flows Turning Negative?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep18-en-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 00:18:03 +0800</pubDate>
+      <description>Amid the AI infrastructure boom, TSMC's Q2 revenue hit a record NT$1.27 trillion, while tech giants' free cash flow turns negative for the first time.</description>
+      <content:encoded><![CDATA[<p>Amid the AI infrastructure boom, TSMC's Q2 revenue hit a record NT$1.27 trillion, while tech giants' free cash flow turns negative for the first time.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/tsmc_en_final.mp3" length="2859261" type="audio/mpeg"/>
+      <itunes:duration>226</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    </channel>
 </rss>
