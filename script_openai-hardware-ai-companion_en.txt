@@ -1,0 +1,53 @@
+[Andy] Hello and welcome to Andy's Daily News Bites, I'm Andy.
+[Julie] Hi Andy, I'm Julie. What are we talking about today?
+
+[Andy] OpenAI is launching its first hardware product — and get this, it's not a phone. It's a screenless AI speaker that can move around your house.
+[Julie] A speaker that moves? Like a Roomba with a personality?
+
+[Andy] Exactly! Bloomberg's Mark Gurman broke the story yesterday. The device is being pitched internally as a "humanlike AI companion that lives in your home."
+[Julie] So what makes it different from an Amazon Echo or a Google Nest?
+
+[Andy] Three things. First, no screen. In an era where everyone is cramming displays into everything, OpenAI went completely the opposite direction.
+[Julie] That's actually refreshing. You don't need a screen if the AI can really talk to you.
+
+[Andy] Right. Second, it can move autonomously. It has mechanical elements inside that let it follow you from room to room. You go to the kitchen, it follows you there.
+[Julie] Okay that's wild. And the third thing?
+
+[Andy] It has "personality" and learns about you over time. It can access your emails, your calendar, and proactively offer suggestions. Not just respond to commands.
+[Julie] So it's like having an actual assistant that knows your schedule.
+
+[Andy] Exactly. Not a passive search tool like Siri or Alexa. Bloomberg sources say it's designed to "feel like a companion" and be a physical manifestation of ChatGPT.
+[Julie] How much is this thing going to cost?
+
+[Andy] Not announced yet, but industry estimates put it around $300 to $500. And it'll probably need a ChatGPT subscription for full features.
+[Julie] That adds up. But OpenAI getting into hardware at all is a big deal.
+
+[Andy] It didn't happen overnight. Last May, OpenAI acquired io — Jony Ive's hardware startup — for $6.5 billion.
+[Julie] Jony Ive! The guy who designed the iPhone. That's huge.
+
+[Andy] They also bought Sky, a desktop control app, and brought on tons of former Apple engineers. Bloomberg specifically says these are the engineers who helped create the iPhone and Mac.
+[Julie] So they've been preparing for this for at least a year and a half.
+
+[Andy] Exactly. But there's a complication. Apple just sued OpenAI last week, accusing them of stealing trade secrets through those former employees.
+[Julie] How is OpenAI responding?
+
+[Andy] They said "our product is completely different from anything Apple has on the market today." And honestly, a screenless, moving AI speaker has zero resemblance to an iPhone.
+[Julie] That's a fair point legally. But the lawsuit could still delay things.
+
+[Andy] OpenAI isn't the only one betting on this category. There's a company called Hark, founded by Brett Adcock — the guy who built Archer Aviation — that raised $700 million at a $6 billion valuation in May.
+[Julie] $700 million before even showing a product? Investors are that excited?
+
+[Andy] They are. And here's why. First, smartphone growth has peaked. People are upgrading less often. Tech needs a new form factor.
+[Julie] Second?
+
+[Andy] Large language models finally make voice interaction viable. Old Siri and Alexa were terrible at conversation. With GPT-level models, voice-first actually works.
+[Julie] And third, no screen means lower cost and longer battery life. Critical for a device that follows you around.
+
+[Andy] Nailed it. So OpenAI is starting small — a home companion speaker instead of challenging the iPhone head-on. Crawl, walk, run.
+[Julie] Smart strategy. When can we actually buy one?
+
+[Andy] Still in development. Best guess is early to mid next year. When it drops, we'll do a full review.
+[Julie] Deal!
+
+[Andy] That's all for today's Andy's Daily News Bites. I'm Andy.
+[Julie] And I'm Julie. If you enjoyed this, share it with a friend. See you next time!

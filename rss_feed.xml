@@ -722,5 +722,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 24 (Chinese): OpenAI 的第一款硬體為什麼是 AI 音箱 -->
+    <item>
+      <title>EP24: OpenAI 的第一款硬體為什麼是「AI 音箱」？— Andy+Julie 雙人對話版</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep24-zh-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 23:33:46 +0800</pubDate>
+      <description>OpenAI 的首款硬體是一款可以自主移動、無螢幕的 AI 伴侶音箱。Andy 和 Julie 用雙人對話方式聊這款產品如何改變人機互動。</description>
+      <content:encoded><![CDATA[<p>OpenAI 的首款硬體是一款可以自主移動、無螢幕的 AI 伴侶音箱。Andy 和 Julie 用雙人對話方式聊這款產品如何改變人機互動。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/openai-hardware-ai-companion_final.mp3" length="3031317" type="audio/mpeg"/>
+      <itunes:duration>253</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 24 (English): Why OpenAI's First Hardware Is a Screenless AI Speaker — Duo Edition -->
+    <item xml:lang="en">
+      <title>EP24 (English): Why OpenAI's First Hardware Is a Screenless AI Speaker — Duo Edition</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep24-en-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 23:33:46 +0800</pubDate>
+      <description>OpenAI's first hardware is a screenless, movable AI companion speaker. Andy and Julie discuss in a duo conversation format.</description>
+      <content:encoded><![CDATA[<p>OpenAI's first hardware is a screenless, movable AI companion speaker. Andy and Julie discuss in a duo conversation format.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/openai-hardware-ai-companion_en_final.mp3" length="2867253" type="audio/mpeg"/>
+      <itunes:duration>242</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
