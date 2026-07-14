@@ -562,5 +562,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 19 (Chinese): 癌症治療正在翻天覆地——2026年最新六大突破一次看懂 -->
+    <item>
+      <title>EP19: 癌症治療正在翻天覆地——2026年最新六大突破一次看懂</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep19-zh-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 00:18:03 +0800</pubDate>
+      <description>五年前只有化療、放射線和抗體藥物三種選項；今天已有四種全新類型的抗癌藥物獲FDA批准，兩種在第三期臨床。</description>
+      <content:encoded><![CDATA[<p>五年前只有化療、放射線和抗體藥物三種選項；今天已有四種全新類型的抗癌藥物獲FDA批准，兩種在第三期臨床。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/cancer_zh_final.mp3" length="2774277" type="audio/mpeg"/>
+      <itunes:duration>216</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 19 (English): Cancer Treatment Is Being Turned Upside Down — Six Major Breakthroughs in 2026 Explained -->
+    <item xml:lang="en">
+      <title>EP19 (English): Cancer Treatment Is Being Turned Upside Down — Six Major Breakthroughs in 2026 Explained</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep19-en-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 00:18:03 +0800</pubDate>
+      <description>Five years ago: chemo, radiation, or antibodies. Today: four entirely new drug classes approved by the FDA, two more in Phase 3 trials.</description>
+      <content:encoded><![CDATA[<p>Five years ago: chemo, radiation, or antibodies. Today: four entirely new drug classes approved by the FDA, two more in Phase 3 trials.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/cancer_en_final.mp3" length="2665965" type="audio/mpeg"/>
+      <itunes:duration>209</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
