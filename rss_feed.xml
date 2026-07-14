@@ -626,5 +626,101 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 21 (Chinese): AI 耗電是危機還是轉機？氣候科技 IPO 迎來爆發 -->
+    <item>
+      <title>EP21: AI 耗電是危機還是轉機？氣候科技 IPO 迎來最大爆發</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep21-zh-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 00:18:03 +0800</pubDate>
+      <description>AI 的電力饑渴意外拯救了氣候科技產業。高盛預測7.6兆美元AI基建中，3580億將用於電力系統。</description>
+      <content:encoded><![CDATA[<p>AI 的電力饑渴意外拯救了氣候科技產業。高盛預測7.6兆美元AI基建中，3580億將用於電力系統。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/climate_zh_final.mp3" length="2029701" type="audio/mpeg"/>
+      <itunes:duration>159</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 21 (English): Is AI's Power Crisis Actually a Climate Tech Opportunity? -->
+    <item xml:lang="en">
+      <title>EP21 (English): Is AI's Power Crisis Actually a Climate Tech Opportunity?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep21-en-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 00:18:03 +0800</pubDate>
+      <description>AI's hunger for electricity is unexpectedly saving the climate tech industry. Goldman Sachs: $7.6T AI infra, $358B for power.</description>
+      <content:encoded><![CDATA[<p>AI's hunger for electricity is unexpectedly saving the climate tech industry. Goldman Sachs: $7.6T AI infra, $358B for power.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/climate_en_final.mp3" length="1950573" type="audio/mpeg"/>
+      <itunes:duration>155</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 22 (Chinese): 廚房裡的天然降血壓藥 — 蔬菜降血壓研究 -->
+    <item>
+      <title>EP22: 廚房裡的天然降血壓藥？研究：每天吃一把特定蔬菜，兩週見效</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep22-zh-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 00:18:03 +0800</pubDate>
+      <description>英國艾克塞特大學研究證實：舌頭細菌能把蔬菜硝酸鹽轉為一氧化氮，放鬆血管降血壓，兩週見效。</description>
+      <content:encoded><![CDATA[<p>英國艾克塞特大學研究證實：舌頭細菌能把蔬菜硝酸鹽轉為一氧化氮，放鬆血管降血壓，兩週見效。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/vegetable_zh_final.mp3" length="1863429" type="audio/mpeg"/>
+      <itunes:duration>147</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 22 (English): Is There a Natural Blood Pressure Medication Hiding in Your Kitchen? -->
+    <item xml:lang="en">
+      <title>EP22 (English): Is There a Natural Blood Pressure Medication Hiding in Your Kitchen?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep22-en-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 00:18:03 +0800</pubDate>
+      <description>University of Exeter study: tongue bacteria convert vegetable nitrate into nitric oxide, naturally lowering blood pressure within 2 weeks.</description>
+      <content:encoded><![CDATA[<p>University of Exeter study: tongue bacteria convert vegetable nitrate into nitric oxide, naturally lowering blood pressure within 2 weeks.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/vegetable_en_final.mp3" length="1657389" type="audio/mpeg"/>
+      <itunes:duration>133</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 23 (Chinese): 200年不變的熱力學被改寫了 -->
+    <item>
+      <title>EP23: 200年不變的熱力學被改寫了——物理學家用規範理論重新定義熱與功</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep23-zh-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 00:18:03 +0800</pubDate>
+      <description>LSE物理學家Bryan Roberts用規範場論重建熱力學數學基礎，讓它從工程經驗法則升級為嚴謹基礎科學，可能為奈米工程和量子電腦鋪路。</description>
+      <content:encoded><![CDATA[<p>LSE物理學家Bryan Roberts用規範場論重建熱力學數學基礎，讓它從工程經驗法則升級為嚴謹基礎科學，可能為奈米工程和量子電腦鋪路。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/thermo_zh_final.mp3" length="2007789" type="audio/mpeg"/>
+      <itunes:duration>160</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 23 (English): Thermodynamics Is Being Rewritten After 200 Years -->
+    <item xml:lang="en">
+      <title>EP23 (English): Thermodynamics Is Being Rewritten After 200 Years</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep23-en-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 00:18:03 +0800</pubDate>
+      <description>LSE physicist Bryan Roberts uses gauge theory to give thermodynamics a rigorous mathematical foundation for the first time.</description>
+      <content:encoded><![CDATA[<p>LSE physicist Bryan Roberts uses gauge theory to give thermodynamics a rigorous mathematical foundation for the first time.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/thermo_en_final.mp3" length="1853709" type="audio/mpeg"/>
+      <itunes:duration>147</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
