@@ -786,5 +786,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 26 (Chinese): 美國房貸利率創近一年新高！每月多付多少錢？（雙人對話版） -->
+    <item>
+      <title>EP26: 美國房貸利率創近一年新高！每月多付多少錢？（雙人對話版）</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep26-zh-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 07:30:00 +0800</pubDate>
+      <description>美國 30 年期房貸利率衝上 6.46%，創近一年新高。Andy 和 Julie 用雙人對話的方式，聊這對美國、台灣和香港房市的影響。</description>
+      <content:encoded><![CDATA[<p>美國 30 年期房貸利率衝上 6.46%，創近一年新高。Andy 和 Julie 用雙人對話的方式，聊這對美國、台灣和香港房市的影響。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP26_zh.mp3" length="2657445" type="audio/mpeg"/>
+      <itunes:duration>222</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 26 (English): US Mortgage Rates Hit a 1-Year High — How Much More Are You Paying? (Duo Edition) -->
+    <item xml:lang="en">
+      <title>EP26: US Mortgage Rates Hit a 1-Year High — How Much More Are You Paying? (Duo Edition)</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep26-en-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 07:30:00 +0800</pubDate>
+      <description>US 30-year mortgage rates hit 6.46%, the highest in nearly a year. Andy and Julie discuss what this means for the US, Taiwan, and Hong Kong property markets.</description>
+      <content:encoded><![CDATA[<p>US 30-year mortgage rates hit 6.46%, the highest in nearly a year. Andy and Julie discuss what this means for the US, Taiwan, and Hong Kong property markets.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP26_en.mp3" length="2376165" type="audio/mpeg"/>
+      <itunes:duration>201</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
