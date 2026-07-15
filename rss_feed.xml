@@ -882,5 +882,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 29 (Chinese): 地球正在以驚人速度吸收能量！《經濟學人》封面報導（雙人對話版） -->
+    <item>
+      <title>EP29: 地球正在以驚人速度吸收能量！《經濟學人》封面報導（雙人對話版）</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep29-zh-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 08:15:00 +0800</pubDate>
+      <description>地球吸收熱能的速度連科學家都嚇到了——Andy 和 Julie 用雙人對話解析《經濟學人》封面報導：地球能量失衡是什麼？跟我們有什麼關係？</description>
+      <content:encoded><![CDATA[<p>地球吸收熱能的速度連科學家都嚇到了——Andy 和 Julie 用雙人對話解析《經濟學人》封面報導：地球能量失衡是什麼？跟我們有什麼關係？</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP29_zh.mp3" length="1452477" type="audio/mpeg"/>
+      <itunes:duration>123</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 29 (English): Earth Is Absorbing Energy at an Alarming Rate (Duo Edition) -->
+    <item xml:lang="en">
+      <title>EP29: Earth Is Absorbing Energy at an Alarming Rate (Duo Edition)</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep29-en-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 08:15:00 +0800</pubDate>
+      <description>Earth's energy imbalance is accelerating faster than scientists expected. Andy and Julie break down The Economist's alarming cover story in this duo conversation.</description>
+      <content:encoded><![CDATA[<p>Earth's energy imbalance is accelerating faster than scientists expected. Andy and Julie break down The Economist's alarming cover story in this duo conversation.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP29_en.mp3" length="1089573" type="audio/mpeg"/>
+      <itunes:duration>92</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
