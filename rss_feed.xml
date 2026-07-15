@@ -818,5 +818,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 27 (Chinese): Cash App 被罰 500 萬！你的電子支付安全嗎？ -->
+    <item>
+      <title>EP27: Cash App 被罰 500 萬！你的電子支付安全嗎？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep27-zh-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 07:45:00 +0800</pubDate>
+      <description>全美 46 州檢察長聯手控告 Cash App 母公司 Block，因承諾安全保護卻讓被詐騙用戶求助無門。Andy 為你解析這起 fintech 里程碑案件。</description>
+      <content:encoded><![CDATA[<p>全美 46 州檢察長聯手控告 Cash App 母公司 Block，因承諾安全保護卻讓被詐騙用戶求助無門。Andy 為你解析這起 fintech 里程碑案件。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP27_zh.mp3" length="2066877" type="audio/mpeg"/>
+      <itunes:duration>164</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 27 (English): Cash App Fined 5 Million — Is Your Payment App Safe? -->
+    <item xml:lang="en">
+      <title>EP27: Cash App Fined 5 Million — Is Your Payment App Safe?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep27-en-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 07:45:00 +0800</pubDate>
+      <description>46 state attorneys general sued Cash App parent Block for promising safety while doing nothing when users got scammed. Andy breaks down this landmark fintech case.</description>
+      <content:encoded><![CDATA[<p>46 state attorneys general sued Cash App parent Block for promising safety while doing nothing when users got scammed. Andy breaks down this landmark fintech case.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP27_en.mp3" length="1647597" type="audio/mpeg"/>
+      <itunes:duration>132</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
