@@ -850,5 +850,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 28 (Chinese): 吃飽就想睡不是正常？糖尿病心臟衰竭的隱藏警訊（雙人對話版） -->
+    <item>
+      <title>EP28: 吃飽就想睡不是正常？糖尿病心臟衰竭的隱藏警訊（雙人對話版）</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep28-zh-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 08:00:00 +0800</pubDate>
+      <description>吃完飯就昏昏欲睡不是吃太飽——Andy 和 Julie 用雙人對話聊餐後嗜睡背後隱藏的 4 大疾病警訊。</description>
+      <content:encoded><![CDATA[<p>吃完飯就昏昏欲睡不是吃太飽——Andy 和 Julie 用雙人對話聊餐後嗜睡背後隱藏的 4 大疾病警訊。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP28_zh.mp3" length="1753365" type="audio/mpeg"/>
+      <itunes:duration>148</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 28 (English): Tired After Eating? Hidden Diabetes and Heart Warning Signs (Duo Edition) -->
+    <item xml:lang="en">
+      <title>EP28: Tired After Eating? Hidden Diabetes and Heart Warning Signs (Duo Edition)</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep28-en-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 08:00:00 +0800</pubDate>
+      <description>Post-meal sleepiness isn't just 'normal fullness' — Andy and Julie discuss the 4 hidden health risks behind extreme drowsiness after eating.</description>
+      <content:encoded><![CDATA[<p>Post-meal sleepiness isn't just 'normal fullness' — Andy and Julie discuss the 4 hidden health risks behind extreme drowsiness after eating.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP28_en.mp3" length="1330341" type="audio/mpeg"/>
+      <itunes:duration>114</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
