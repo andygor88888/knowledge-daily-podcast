@@ -914,5 +914,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 30 (Chinese): iPhone 18 Pro 與 iPhone Ultra Fold 同步登場！Apple 史上最大產品線革新一次看懂 -->
+    <item>
+      <title>EP30: iPhone 18 Pro 與 iPhone Ultra Fold 同步登場！Apple 史上最大產品線革新一次看懂</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep30-zh-2026-07-17</guid>
+      <pubDate>Fri, 17 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Andy 和 Julie 雙人對談：Apple 九月發表會預測，A20 Pro 兩奈米晶片、可變光圈相機、iPhone Ultra Fold 摺疊機的 Liquidmetal 鉸鏈與 Touch ID——iPhone 18 Pro vs Ultra Fold 該怎麼選？</description>
+      <content:encoded><![CDATA[<p>Andy 和 Julie 雙人對談：Apple 九月發表會預測，A20 Pro 兩奈米晶片、可變光圈相機、iPhone Ultra Fold 摺疊機的 Liquidmetal 鉸鏈與 Touch ID——iPhone 18 Pro vs Ultra Fold 該怎麼選？</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP30_zh.mp3" length="3988581" type="audio/mpeg"/>
+      <itunes:duration>327</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 30 (English): iPhone 18 Pro and iPhone Ultra Fold: Apple's Biggest Lineup Overhaul Explained -->
+    <item xml:lang="en">
+      <title>EP30: iPhone 18 Pro and iPhone Ultra Fold: Apple's Biggest Lineup Overhaul Explained</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep30-en-2026-07-17</guid>
+      <pubDate>Fri, 17 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Andy and Julie discuss Apple's September 2026 event: A20 Pro 2nm chip, variable-aperture camera, and the iPhone Ultra Fold with Liquidmetal hinge and Touch ID. Which one should you pick?</description>
+      <content:encoded><![CDATA[<p>Andy and Julie discuss Apple's September 2026 event: A20 Pro 2nm chip, variable-aperture camera, and the iPhone Ultra Fold with Liquidmetal hinge and Touch ID. Which one should you pick?</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP30_en.mp3" length="3261645" type="audio/mpeg"/>
+      <itunes:duration>267</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
