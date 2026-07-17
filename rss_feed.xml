@@ -946,5 +946,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 31 (Chinese): 美軍2分鐘入睡法：Andy 與 Julie 拆解科學真相 -->
+    <item>
+      <title>EP31: 美軍2分鐘入睡法：Andy 與 Julie 拆解科學真相</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep31-zh-2026-07-17</guid>
+      <pubDate>Fri, 17 Jul 2026 09:00:00 +0800</pubDate>
+      <description>社群上瘋傳的美軍睡眠法，真的能2分鐘入睡嗎？Andy 和 Julie 用雙人對話的方式拆解漸進式肌肉放鬆、深呼吸和視覺化背後的科學證據，以及在飛機上使用的實用技巧。</description>
+      <content:encoded><![CDATA[<p>社群上瘋傳的美軍睡眠法，真的能2分鐘入睡嗎？Andy 和 Julie 用雙人對話的方式拆解漸進式肌肉放鬆、深呼吸和視覺化背後的科學證據，以及在飛機上使用的實用技巧。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP31_zh.mp3" length="3478269" type="audio/mpeg"/>
+      <itunes:duration>289</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 31 (English): The Military Sleep Method: Andy &amp; Julie Discuss the Science -->
+    <item xml:lang="en">
+      <title>EP31: The Military Sleep Method: Andy &amp; Julie Discuss the Science</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep31-en-2026-07-17</guid>
+      <pubDate>Fri, 17 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Can the viral military sleep method really help you fall asleep in 2 minutes? Andy and Julie break down the science behind progressive muscle relaxation, controlled breathing, and visualization — plus practical tips for sleeping on airplanes.</description>
+      <content:encoded><![CDATA[<p>Can the viral military sleep method really help you fall asleep in 2 minutes? Andy and Julie break down the science behind progressive muscle relaxation, controlled breathing, and visualization — plus practical tips for sleeping on airplanes.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP31_en.mp3" length="2937885" type="audio/mpeg"/>
+      <itunes:duration>248</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
