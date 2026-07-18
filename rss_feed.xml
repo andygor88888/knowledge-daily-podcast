@@ -1202,5 +1202,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 39 (Chinese): 量子力學的極限：宇宙中藏有永遠無法被證明的終極秘密？ -->
+    <item>
+      <title>EP39: 量子力學的極限：宇宙中藏有永遠無法被證明的終極秘密？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep39-zh-2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Julie 與你聊聊最新的量子力學研究——為什麼身為宇宙內部觀測者的我們，可能永遠無法證明某些關於現實本質的終極問題。</description>
+      <content:encoded><![CDATA[<p>Julie 與你聊聊最新的量子力學研究——為什麼身為宇宙內部觀測者的我們，可能永遠無法證明某些關於現實本質的終極問題。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP39_zh.mp3" length="2236317" type="audio/mpeg"/>
+      <itunes:duration>203</itunes:duration>
+      <itunes:episode>39</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 39 (English): The Limits of Quantum Mechanics: Ultimate Secrets That Can Never Be Proven? -->
+    <item xml:lang="en">
+      <title>EP39: The Limits of Quantum Mechanics: Ultimate Secrets That Can Never Be Proven?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep39-en-2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Julie explores the latest quantum research — why we, as internal observers of the universe, may never be able to prove certain ultimate questions about reality.</description>
+      <content:encoded><![CDATA[<p>Julie explores the latest quantum research — why we, as internal observers of the universe, may never be able to prove certain ultimate questions about reality.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP39_en.mp3" length="2519157" type="audio/mpeg"/>
+      <itunes:duration>224</itunes:duration>
+      <itunes:episode>39</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
