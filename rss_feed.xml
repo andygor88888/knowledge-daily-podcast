@@ -1138,5 +1138,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 37 (Chinese): Google Pixel 11 全系列價格與規格意外曝光：從 $899 到 $2249 -->
+    <item>
+      <title>EP37: Google Pixel 11 全系列價格與規格意外曝光：從 $899 到 $2249</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep37-zh-2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Amazon 意外洩漏 Pixel 11 全系列！Andy 與 Julie 雙人對話，分析 Tensor G6 台積電 2nm 晶片、Pixel Glow 設計語言，以及四款機型該怎麼選。</description>
+      <content:encoded><![CDATA[<p>Amazon 意外洩漏 Pixel 11 全系列！Andy 與 Julie 雙人對話，分析 Tensor G6 台積電 2nm 晶片、Pixel Glow 設計語言，以及四款機型該怎麼選。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP37_zh.mp3" length="3193965" type="audio/mpeg"/>
+      <itunes:duration>267</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 37 (English): Google Pixel 11 Series Leaked: From $899 to $2249 -->
+    <item xml:lang="en">
+      <title>EP37: Google Pixel 11 Series Leaked: From $899 to $2249</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep37-en-2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Amazon accidentally leaked the entire Pixel 11 lineup! Andy and Julie discuss the Tensor G6 on TSMC 2nm, the Pixel Glow design language, and which of the four models you should buy.</description>
+      <content:encoded><![CDATA[<p>Amazon accidentally leaked the entire Pixel 11 lineup! Andy and Julie discuss the Tensor G6 on TSMC 2nm, the Pixel Glow design language, and which of the four models you should buy.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP37_en.mp3" length="3176757" type="audio/mpeg"/>
+      <itunes:duration>269</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
