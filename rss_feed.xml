@@ -1170,5 +1170,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 38 (Chinese): 阿茲海默症重大發現：科學家找到全新腦細胞死亡機制「核凋亡」 -->
+    <item>
+      <title>EP38: 阿茲海默症重大發現：科學家找到全新腦細胞死亡機制「核凋亡」</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep38-zh-2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 09:00:00 +0800</pubDate>
+      <description>科學家發現全新腦細胞死亡方式「核凋亡」，Julie 為你解釋這項《Nature Communications》的突破性研究如何可能改寫失智症治療方向。</description>
+      <content:encoded><![CDATA[<p>科學家發現全新腦細胞死亡方式「核凋亡」，Julie 為你解釋這項《Nature Communications》的突破性研究如何可能改寫失智症治療方向。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP38_zh.mp3" length="2369853" type="audio/mpeg"/>
+      <itunes:duration>215</itunes:duration>
+      <itunes:episode>38</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 38 (English): Alzheimer's Breakthrough: New Brain Cell Death Mechanism 'Karyoptosis' -->
+    <item xml:lang="en">
+      <title>EP38: Alzheimer's Breakthrough: New Brain Cell Death Mechanism 'Karyoptosis'</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep38-en-2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Scientists discovered a new brain cell death mechanism called karyoptosis. Julie explains how this Nature Communications study could rewrite Alzheimer's treatment.</description>
+      <content:encoded><![CDATA[<p>Scientists discovered a new brain cell death mechanism called karyoptosis. Julie explains how this Nature Communications study could rewrite Alzheimer's treatment.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP38_en.mp3" length="2325525" type="audio/mpeg"/>
+      <itunes:duration>203</itunes:duration>
+      <itunes:episode>38</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
