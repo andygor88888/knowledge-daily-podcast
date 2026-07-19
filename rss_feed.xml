@@ -1330,5 +1330,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 43 (Chinese): AMD Lisa Su 週三重磅發布會 — 股價暴跌 11% 後，MI400 能逆轉嗎？ -->
+    <item>
+      <title>EP43: AMD Lisa Su 週三重磅發布會 — 股價暴跌 11% 後，MI400 能逆轉嗎？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep43-zh-2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 07:50:00 +0800</pubDate>
+      <description>AMD 將在 Advancing AI 發表 MI400 系列，Lisa Su 喊出「4-5 年需要 100 倍算力」。Andy 從 LLVM 提交記錄解讀 MI455X 技術細節，分析股價暴跌後的 AMD 能否逆轉。</description>
+      <content:encoded><![CDATA[<p>AMD 將在 Advancing AI 發表 MI400 系列，Lisa Su 喊出「4-5 年需要 100 倍算力」。Andy 從 LLVM 提交記錄解讀 MI455X 技術細節，分析股價暴跌後的 AMD 能否逆轉。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP43_zh.mp3" length="2325117" type="audio/mpeg"/>
+      <itunes:duration>177</itunes:duration>
+      <itunes:episode>43</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 43 (English): AMD's Lisa Su Takes the Stage Wednesday — Can MI400 Turn Around an 11% Stock Crash? -->
+    <item xml:lang="en">
+      <title>EP43: AMD's Lisa Su Takes the Stage Wednesday — Can MI400 Turn Around an 11% Stock Crash?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep43-en-2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 07:50:00 +0800</pubDate>
+      <description>AMD unveils MI400 at Advancing AI, with Lisa Su declaring '100x more compute needed in 4-5 years.' Andy decodes MI455X technical specs from LLVM commits and analyzes AMD's prospects after an 11% stock crash.</description>
+      <content:encoded><![CDATA[<p>AMD unveils MI400 at Advancing AI, with Lisa Su declaring '100x more compute needed in 4-5 years.' Andy decodes MI455X technical specs from LLVM commits and analyzes AMD's prospects after an 11% stock crash.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP43_en.mp3" length="2142429" type="audio/mpeg"/>
+      <itunes:duration>168</itunes:duration>
+      <itunes:episode>43</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
