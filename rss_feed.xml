@@ -1298,5 +1298,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 42 (Chinese): Vibe Coding 四個月只賺 1600 元 — 用 AI 寫程式就能躺著賺？ -->
+    <item>
+      <title>EP42: Vibe Coding 四個月只賺 1600 元 — 用 AI 寫程式就能躺著賺？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep42-zh-2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 07:45:00 +0800</pubDate>
+      <description>一位開發者用 Vibe Coding 做 A 股分析工具，四個月註冊 384 人、收入僅 1600 元，但 API 月費就要 3000 元。Andy 為你分析 Vibe Coding 的現實困境與正確使用方法。</description>
+      <content:encoded><![CDATA[<p>一位開發者用 Vibe Coding 做 A 股分析工具，四個月註冊 384 人、收入僅 1600 元，但 API 月費就要 3000 元。Andy 為你分析 Vibe Coding 的現實困境與正確使用方法。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP42_zh.mp3" length="2049093" type="audio/mpeg"/>
+      <itunes:duration>161</itunes:duration>
+      <itunes:episode>42</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 42 (English): He Built an AI Product in 4 Months With Vibe Coding — Made 0, Lost 00/Month -->
+    <item xml:lang="en">
+      <title>EP42: He Built an AI Product in 4 Months With Vibe Coding — Made 0, Lost 00/Month</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep42-en-2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 07:45:00 +0800</pubDate>
+      <description>A developer built a stock analysis tool with Vibe Coding — 384 users, 0 revenue, but 00/month API costs. Andy breaks down the harsh reality of AI-assisted development and how to do it right.</description>
+      <content:encoded><![CDATA[<p>A developer built a stock analysis tool with Vibe Coding — 384 users, 0 revenue, but 00/month API costs. Andy breaks down the harsh reality of AI-assisted development and how to do it right.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP42_en.mp3" length="1969389" type="audio/mpeg"/>
+      <itunes:duration>159</itunes:duration>
+      <itunes:episode>42</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
