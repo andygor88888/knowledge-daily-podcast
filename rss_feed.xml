@@ -1234,5 +1234,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 40 (Chinese): NASDAQ 一週暴跌 4%、半導體 ETF 崩跌 9%，AI 泡沫真的要破了嗎？ -->
+    <item>
+      <title>EP40: NASDAQ 一週暴跌 4%、半導體 ETF 崩跌 9%，AI 泡沫真的要破了嗎？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep40-zh-2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 07:30:00 +0800</pubDate>
+      <description>本週科技股崩跌，是 AI 泡沫破裂還是槓桿清算？Andy 為你解析韓國散戶槓桿泡沫、Kimi K3 效應、傑文斯悖論，以及接下來兩週科技巨頭財報的關鍵看點。</description>
+      <content:encoded><![CDATA[<p>本週科技股崩跌，是 AI 泡沫破裂還是槓桿清算？Andy 為你解析韓國散戶槓桿泡沫、Kimi K3 效應、傑文斯悖論，以及接下來兩週科技巨頭財報的關鍵看點。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP40_zh.mp3" length="2719125" type="audio/mpeg"/>
+      <itunes:duration>211</itunes:duration>
+      <itunes:episode>40</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 40 (English): NASDAQ Crashed 4%, Semiconductor ETF Plunged 9% — Is the AI Bubble Finally Popping? -->
+    <item xml:lang="en">
+      <title>EP40: NASDAQ Crashed 4%, Semiconductor ETF Plunged 9% — Is the AI Bubble Finally Popping?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep40-en-2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 07:30:00 +0800</pubDate>
+      <description>Was this week's tech crash the AI bubble popping or a leverage cleanup? Andy breaks down the Korean leveraged ETF meltdown, the Kimi K3 effect, Jevons Paradox, and what to watch in the next two weeks of Big Tech earnings.</description>
+      <content:encoded><![CDATA[<p>Was this week's tech crash the AI bubble popping or a leverage cleanup? Andy breaks down the Korean leveraged ETF meltdown, the Kimi K3 effect, Jevons Paradox, and what to watch in the next two weeks of Big Tech earnings.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP40_en.mp3" length="2549925" type="audio/mpeg"/>
+      <itunes:duration>200</itunes:duration>
+      <itunes:episode>40</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
