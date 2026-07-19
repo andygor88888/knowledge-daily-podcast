@@ -1266,5 +1266,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 41 (Chinese): Kimi K3 2.8 兆參數全面開源 — 國產 AI 真的追上 OpenAI 了？ -->
+    <item>
+      <title>EP41: Kimi K3 2.8 兆參數全面開源 — 國產 AI 真的追上 OpenAI 了？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep41-zh-2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 07:35:00 +0800</pubDate>
+      <description>月之暗面發布 Kimi K3，2.8 兆參數、全球第二、全面開源。Andy 為你分析 K3 的技術突破、價格競爭力、幻覺率問題，以及這款模型對全球 AI 市場的真正衝擊。</description>
+      <content:encoded><![CDATA[<p>月之暗面發布 Kimi K3，2.8 兆參數、全球第二、全面開源。Andy 為你分析 K3 的技術突破、價格競爭力、幻覺率問題，以及這款模型對全球 AI 市場的真正衝擊。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP41_zh.mp3" length="2277501" type="audio/mpeg"/>
+      <itunes:duration>176</itunes:duration>
+      <itunes:episode>41</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 41 (English): Kimi K3 Goes Open Source — Is Chinese AI Really Catching Up to OpenAI? -->
+    <item xml:lang="en">
+      <title>EP41: Kimi K3 Goes Open Source — Is Chinese AI Really Catching Up to OpenAI?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep41-en-2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 07:35:00 +0800</pubDate>
+      <description>Moonshot AI unveiled Kimi K3 with 2.8 trillion parameters, ranking #2 globally, fully open source. Andy breaks down K3's technical breakthroughs, pricing, hallucination concerns, and what it means for the global AI market.</description>
+      <content:encoded><![CDATA[<p>Moonshot AI unveiled Kimi K3 with 2.8 trillion parameters, ranking #2 globally, fully open source. Andy breaks down K3's technical breakthroughs, pricing, hallucination concerns, and what it means for the global AI market.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP41_en.mp3" length="1918869" type="audio/mpeg"/>
+      <itunes:duration>152</itunes:duration>
+      <itunes:episode>41</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
