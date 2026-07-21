@@ -1362,5 +1362,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 44 (Chinese): 今天要聊聊 SpaceX 星艦二度試射中止、市值遭 Meta 超車，這到底是不是太空帝國的危險號角？ -->
+    <item>
+      <title>EP44: 今天要聊聊 SpaceX 星艦二度試射中止、市值遭 Meta 超車，這到底是不是太空帝國的危險號角？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep44-zh-2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 09:00:00 +0800</pubDate>
+      <description>其實，這次失敗並不是末日。星艦延期只是火箭研發的常態——記得 2015 年獵鷹 9 號陸地回收屢次次失敗，市場也曾唱衰，但回收成功後發射成本驟降，奠定今日壟斷。  真正關鍵的是「軌道資料中心」的 AI 敘事能否如期兌現。那是支撐 SpaceX 兆級估值的底層邏輯，而非單枚火箭的成敗。  市場擔心的從來不是一次試射失敗，而是三件事疊加：IPO 後財報透明化揭露「軌道資料中心」仍停留在 PPT；宏觀利率壓力讓高估值成長股首當其衝；競爭敘事轉向，Meta 在 AI 基礎建設的實質營收落地，讓市場重新評估誰才是 AI 軍備競賽的真正贏家。  火箭研發的本質就是「用失敗換數據」。4 具引擎未點火這種問題，屬於可定位、可修復的範疇，而非根本性設計缺陷。  真正的變數在於：當利率維持高位、資金成本變貴，SpaceX 還能燒多久的錢去跑這套「快速試錯」？這才是市值能否回升的底層約束。  對一般人來說，這件事有三個值得關注的信號：AI 基建敘事進入驗證期、太空經濟不再免死，以及分散風險的重要性。  別忘了，星艦決定 SpaceX 能否把發射成本降到極低，進而影響 Starlink 網路擴張速度、太空旅遊價格，以及 NASA 登月時程——間接影響全球通訊與航天產業的競爭格局。  我是 Andy，感謝收看。</description>
+      <content:encoded><![CDATA[<p>其實，這次失敗並不是末日。星艦延期只是火箭研發的常態——記得 2015 年獵鷹 9 號陸地回收屢次次失敗，市場也曾唱衰，但回收成功後發射成本驟降，奠定今日壟斷。  真正關鍵的是「軌道資料中心」的 AI 敘事能否如期兌現。那是支撐 SpaceX 兆級估值的底層邏輯，而非單枚火箭的成敗。  市場擔心的從來不是一次試射失敗，而是三件事疊加：IPO 後財報透明化揭露「軌道資料中心」仍停留在 PPT；宏觀利率壓力讓高估值成長股首當其衝；競爭敘事轉向，Meta 在 AI 基礎建設的實質營收落地，讓市場重新評估誰才是 AI 軍備競賽的真正贏家。  火箭研發的本質就是「用失敗換數據」。4 具引擎未點火這種問題，屬於可定位、可修復的範疇，而非根本性設計缺陷。  真正的變數在於：當利率維持高位、資金成本變貴，SpaceX 還能燒多久的錢去跑這套「快速試錯」？這才是市值能否回升的底層約束。  對一般人來說，這件事有三個值得關注的信號：AI 基建敘事進入驗證期、太空經濟不再免死，以及分散風險的重要性。  別忘了，星艦決定 SpaceX 能否把發射成本降到極低，進而影響 Starlink 網路擴張速度、太空旅遊價格，以及 NASA 登月時程——間接影響全球通訊與航天產業的競爭格局。  我是 Andy，感謝收看。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP44_zh.mp3" length="1532301" type="audio/mpeg"/>
+      <itunes:duration>121</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 44 (English): This week, SpaceX's Starship V3 test aborted at launch—four engines failed to ignite—and the stock has been sliding for seven straight sessions, letting Meta overtake its market cap. Is this the beginning of the end for Musk's space empire? -->
+    <item xml:lang="en">
+      <title>EP44: This week, SpaceX's Starship V3 test aborted at launch—four engines failed to ignite—and the stock has been sliding for seven straight sessions, letting Meta overtake its market cap. Is this the beginning of the end for Musk's space empire?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep44-en-2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Actually, no. This kind of hiccup is par for the course in rocket development. Remember 2015? Falcon 9's landing attempts blew up repeatedly, the market panicked, but once landing worked, launch costs plummeted and the monopoly set in.  What really matters isn't a single test—it's whether the &quot;orbital data center&quot; AI narrative can actually materialize. That's what underpins SpaceX's trillion‑dollar valuation, not whether one rocket flies.  The market's worry is threefold: post-IPO transparency showed the data‑center vision is still on PowerPoint, high rates are punishing growth stocks, and Meta's real AI‑infrastructure revenue is shifting perceptions of who's winning the AI arms race.  Rocket development is about turning failure into data. Four engines not lighting is a locatable, fixable engineering issue—not a design flaw.  The real variable? With rates high and money expensive, how long can SpaceX keep burning cash to run this &quot;fail fast&quot; loop? That's the constraint on any valuation rebound.  For the rest of us, this story flashes three signals: the AI‑infra narrative is entering verification, space economics loses its immunity, and diversification matters.  Remember, Starship decides how low SpaceX can push launch costs—which then affects Starlink rollout speed, space‑tourism pricing, and NASA's lunar timeline—rippling through global comms and aerospace competitiveness.  I'm Andy, thanks for listening.</description>
+      <content:encoded><![CDATA[<p>Actually, no. This kind of hiccup is par for the course in rocket development. Remember 2015? Falcon 9's landing attempts blew up repeatedly, the market panicked, but once landing worked, launch costs plummeted and the monopoly set in.  What really matters isn't a single test—it's whether the &quot;orbital data center&quot; AI narrative can actually materialize. That's what underpins SpaceX's trillion‑dollar valuation, not whether one rocket flies.  The market's worry is threefold: post-IPO transparency showed the data‑center vision is still on PowerPoint, high rates are punishing growth stocks, and Meta's real AI‑infrastructure revenue is shifting perceptions of who's winning the AI arms race.  Rocket development is about turning failure into data. Four engines not lighting is a locatable, fixable engineering issue—not a design flaw.  The real variable? With rates high and money expensive, how long can SpaceX keep burning cash to run this &quot;fail fast&quot; loop? That's the constraint on any valuation rebound.  For the rest of us, this story flashes three signals: the AI‑infra narrative is entering verification, space economics loses its immunity, and diversification matters.  Remember, Starship decides how low SpaceX can push launch costs—which then affects Starlink rollout speed, space‑tourism pricing, and NASA's lunar timeline—rippling through global comms and aerospace competitiveness.  I'm Andy, thanks for listening.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP44_en.mp3" length="1409805" type="audio/mpeg"/>
+      <itunes:duration>112</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
