@@ -1394,5 +1394,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 45 (Chinese): 今天要聊聊美國擬禁中國開源 AI 模型，以及剛剛登頂的 Kimi K3 是否會成為中美 AI 脫鈎的導火線。 -->
+    <item>
+      <title>EP45: 今天要聊聊美國擬禁中國開源 AI 模型，以及剛剛登頂的 Kimi K3 是否會成為中美 AI 脫鈎的導火線。</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep45-zh-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0800</pubDate>
+      <description>最近，美國政府正在研究以行政命令限制中國開源 AI 模型在境內的使用，同時考慮將中國的 AI 實驗室列入實體清單。這背後的擔心是，開源模式可能被不友善的勢力濫用，同時也威脅到美國本土 AI 產業的領先地位。  就在這個敏感時刻，中國 Moonshot AI 研發的 Kimi K3 在 Frontend Code Arena 上以 76% 的勝率奪得第一名，超越了 Claude Fable 5 與 GPT-5.6，而且預計將於 7 月 27 日開源權重。這意味著開發者將能夠免費取得一個性能接近頂尖閉源模型、但成本更低的工具。  如果禁令真的落地，可能會加速全球 AI 生態系統的分裂：美國陣營傾向閉源、合規優先；中國陣營則可能推動開源擴散、自主堆疊。對開發者來說，這不只是理論上的擔憂——未來可能需要維護兩套模型適配層，跨陣營的模型權重難以互通，甚至研究工具鏈也可能出現「語言隔閡」。  當然，純粹的技術封鎖很難徹底。開源權重一旦發布，就難以被完全阻擋。但無論如何，這場爭論提醒我們：AI 的未來不只取決於誰的模型更強，也取決於我們願意多開放還是多保守。  我是 Julie，謝謝收聽。</description>
+      <content:encoded><![CDATA[<p>最近，美國政府正在研究以行政命令限制中國開源 AI 模型在境內的使用，同時考慮將中國的 AI 實驗室列入實體清單。這背後的擔心是，開源模式可能被不友善的勢力濫用，同時也威脅到美國本土 AI 產業的領先地位。  就在這個敏感時刻，中國 Moonshot AI 研發的 Kimi K3 在 Frontend Code Arena 上以 76% 的勝率奪得第一名，超越了 Claude Fable 5 與 GPT-5.6，而且預計將於 7 月 27 日開源權重。這意味著開發者將能夠免費取得一個性能接近頂尖閉源模型、但成本更低的工具。  如果禁令真的落地，可能會加速全球 AI 生態系統的分裂：美國陣營傾向閉源、合規優先；中國陣營則可能推動開源擴散、自主堆疊。對開發者來說，這不只是理論上的擔憂——未來可能需要維護兩套模型適配層，跨陣營的模型權重難以互通，甚至研究工具鏈也可能出現「語言隔閡」。  當然，純粹的技術封鎖很難徹底。開源權重一旦發布，就難以被完全阻擋。但無論如何，這場爭論提醒我們：AI 的未來不只取決於誰的模型更強，也取決於我們願意多開放還是多保守。  我是 Julie，謝謝收聽。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP45_zh.mp3" length="1062669" type="audio/mpeg"/>
+      <itunes:duration>97</itunes:duration>
+      <itunes:episode>45</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 45 (English): Today we're talking about the U.S. considering a ban on Chinese open-source AI models, and how China's just-released Kimi K3 might become the flashpoint in a growing tech divide. -->
+    <item xml:lang="en">
+      <title>EP45: Today we're talking about the U.S. considering a ban on Chinese open-source AI models, and how China's just-released Kimi K3 might become the flashpoint in a growing tech divide.</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep45-en-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0800</pubDate>
+      <description>The Biden administration is looking at an executive order that would block Chinese open-source AI models from running inside the United States, and may even add Chinese AI labs to the Entity List. The concern is two‑fold: open weights could be misused by bad actors, and they threaten the dominance of American AI companies.  Just as that debate heats up, Moonshot AI’s Kimi K3 has topped the Frontend Code Arena with a 76% win rate—beating Claude Fable 5 and GPT-5.6—and is set to go open-source on July 27. That means developers worldwide could soon access a high‑performing model at a fraction of the cost of the leading closed‑source alternatives.  If the ban moves forward, we could see the global AI ecosystem split into two camps: a U.S.-leaning side that favors closed, compliance‑first models, and a China‑leaning side that pushes open diffusion and self‑stacked solutions. For developers, that might mean maintaining two separate model adapters, dealing with weight incompatibility, and even facing a “language barrier” in research toolchains.  Of course, a pure technical blockade is hard to enforce—once the weights are out, they can be mirrored or shared via P2P. But the debate highlights a bigger question: will AI’s future be shaped more by openness or by control?  I'm Julie, thanks for listening.</description>
+      <content:encoded><![CDATA[<p>The Biden administration is looking at an executive order that would block Chinese open-source AI models from running inside the United States, and may even add Chinese AI labs to the Entity List. The concern is two‑fold: open weights could be misused by bad actors, and they threaten the dominance of American AI companies.  Just as that debate heats up, Moonshot AI’s Kimi K3 has topped the Frontend Code Arena with a 76% win rate—beating Claude Fable 5 and GPT-5.6—and is set to go open-source on July 27. That means developers worldwide could soon access a high‑performing model at a fraction of the cost of the leading closed‑source alternatives.  If the ban moves forward, we could see the global AI ecosystem split into two camps: a U.S.-leaning side that favors closed, compliance‑first models, and a China‑leaning side that pushes open diffusion and self‑stacked solutions. For developers, that might mean maintaining two separate model adapters, dealing with weight incompatibility, and even facing a “language barrier” in research toolchains.  Of course, a pure technical blockade is hard to enforce—once the weights are out, they can be mirrored or shared via P2P. But the debate highlights a bigger question: will AI’s future be shaped more by openness or by control?  I'm Julie, thanks for listening.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP45_en.mp3" length="1246365" type="audio/mpeg"/>
+      <itunes:duration>108</itunes:duration>
+      <itunes:episode>45</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
