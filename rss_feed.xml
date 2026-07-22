@@ -1650,5 +1650,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 53 (Chinese): 台股一天狂飆 1783 點！緯創、欣興、台積電為什麼同步霸榜？ -->
+    <item>
+      <title>EP53: 台股一天狂飆 1783 點！緯創、欣興、台積電為什麼同步霸榜？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep53-zh-2026-07-23</guid>
+      <pubDate>Thu, 23 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Andy 從半導體產業觀點解析台股1783點暴漲背後的AI超級週期，緯創從代工到AI伺服器的轉型故事</description>
+      <content:encoded><![CDATA[<p>Andy 從半導體產業觀點解析台股1783點暴漲背後的AI超級週期，緯創從代工到AI伺服器的轉型故事</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP53_zh.mp3" length="1670565" type="audio/mpeg"/>
+      <itunes:duration>131</itunes:duration>
+      <itunes:episode>53</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 53 (English): Taiwan Stocks Soar 1,783 Points in a Day — Why Wistron, Unimicron, and TSMC Are Leading the Charge -->
+    <item xml:lang="en">
+      <title>EP53: Taiwan Stocks Soar 1,783 Points in a Day — Why Wistron, Unimicron, and TSMC Are Leading the Charge</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep53-en-2026-07-23</guid>
+      <pubDate>Thu, 23 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Andy breaks down Taiwan's record 1,783-point rally and the AI-driven semiconductor supercycle powering Wistron, Unimicron, and TSMC.</description>
+      <content:encoded><![CDATA[<p>Andy breaks down Taiwan's record 1,783-point rally and the AI-driven semiconductor supercycle powering Wistron, Unimicron, and TSMC.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP53_en.mp3" length="1570557" type="audio/mpeg"/>
+      <itunes:duration>124</itunes:duration>
+      <itunes:episode>53</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
