@@ -1458,5 +1458,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 47 (Chinese): iPhone 18 Face ID 變小 35% 的真正意義是什麼？技術躍進背後的漲價訊號 -->
+    <item>
+      <title>EP47: iPhone 18 Face ID 變小 35% 的真正意義是什麼？技術躍進背後的漲價訊號</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep47-zh-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Andy+Julie 雙人主持：iPhone 18 的 Face ID 模組將縮小 35%，靠的是 TSMC 全新 2nm 封裝技術與微型化光學感測器，但這項硬體升級也推升了整機成本。雙人聊天式解析這背後的技術與價格邏輯。</description>
+      <content:encoded><![CDATA[<p>Andy+Julie 雙人主持：iPhone 18 的 Face ID 模組將縮小 35%，靠的是 TSMC 全新 2nm 封裝技術與微型化光學感測器，但這項硬體升級也推升了整機成本。雙人聊天式解析這背後的技術與價格邏輯。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP47_zh.mp3" length="2184141" type="audio/mpeg"/>
+      <itunes:duration>183</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 47 (English): Is the iPhone 18's 35% Smaller Face ID a Real Upgrade, or Just a Reason to Charge More? -->
+    <item xml:lang="en">
+      <title>EP47: Is the iPhone 18's 35% Smaller Face ID a Real Upgrade, or Just a Reason to Charge More?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep47-en-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Andy &amp; Julie in duo dialogue: Apple is shrinking the iPhone 18's Face ID module by 35% using TSMC's 2nm process and advanced packaging. But this hardware overhaul comes with a 00-300 price increase. Is it worth it?</description>
+      <content:encoded><![CDATA[<p>Andy &amp; Julie in duo dialogue: Apple is shrinking the iPhone 18's Face ID module by 35% using TSMC's 2nm process and advanced packaging. But this hardware overhaul comes with a 00-300 price increase. Is it worth it?</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP47_en.mp3" length="2071677" type="audio/mpeg"/>
+      <itunes:duration>176</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
