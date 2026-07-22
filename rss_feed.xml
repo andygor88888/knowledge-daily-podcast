@@ -1522,5 +1522,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 49 (Chinese): 玻璃基板革命：AI 晶片封裝的下一個關鍵材料升級？ -->
+    <item>
+      <title>EP49: 玻璃基板革命：AI 晶片封裝的下一個關鍵材料升級？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep49-zh-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Andy 為你解析玻璃基板技術：為什麼有機載板已經不夠用、TGV 穿孔技術如何運作、Intel 和台廠的布局時程表。這項技術可能在 2027 年後改變整個 AI 晶片封裝產業。</description>
+      <content:encoded><![CDATA[<p>Andy 為你解析玻璃基板技術：為什麼有機載板已經不夠用、TGV 穿孔技術如何運作、Intel 和台廠的布局時程表。這項技術可能在 2027 年後改變整個 AI 晶片封裝產業。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP49_zh.mp3" length="1881813" type="audio/mpeg"/>
+      <itunes:duration>149</itunes:duration>
+      <itunes:episode>49</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 49 (English): Is Glass the Next Frontier for AI Chip Packaging? — Inside the Glass Substrate Revolution -->
+    <item xml:lang="en">
+      <title>EP49: Is Glass the Next Frontier for AI Chip Packaging? — Inside the Glass Substrate Revolution</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep49-en-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Andy explains the glass substrate revolution: why organic substrates are hitting limits, how TGV (Through Glass Via) technology works, and what Intel and Taiwan's supply chain are doing about it.</description>
+      <content:encoded><![CDATA[<p>Andy explains the glass substrate revolution: why organic substrates are hitting limits, how TGV (Through Glass Via) technology works, and what Intel and Taiwan's supply chain are doing about it.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP49_en.mp3" length="1844517" type="audio/mpeg"/>
+      <itunes:duration>146</itunes:duration>
+      <itunes:episode>49</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
