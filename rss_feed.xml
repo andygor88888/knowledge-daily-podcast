@@ -1682,5 +1682,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 54 (Chinese): Google 說要「每月出新 AI 模型」——開發者跟得上嗎？ -->
+    <item>
+      <title>EP54: Google 說要「每月出新 AI 模型」——開發者跟得上嗎？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep54-zh-2026-07-23</guid>
+      <pubDate>Thu, 23 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Julie 聊 Google 每月出新模型和 Gemini 4，從開發者到一般使用者，快速迭代到底是好是壞？</description>
+      <content:encoded><![CDATA[<p>Julie 聊 Google 每月出新模型和 Gemini 4，從開發者到一般使用者，快速迭代到底是好是壞？</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP54_zh.mp3" length="1143045" type="audio/mpeg"/>
+      <itunes:duration>105</itunes:duration>
+      <itunes:episode>54</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 54 (English): Google Says It Will Release New AI Models Every Month — Can Developers Keep Up? -->
+    <item xml:lang="en">
+      <title>EP54: Google Says It Will Release New AI Models Every Month — Can Developers Keep Up?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep54-en-2026-07-23</guid>
+      <pubDate>Thu, 23 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Julie discusses Google's monthly AI model releases and Gemini 4 — is rapid iteration good for developers and users?</description>
+      <content:encoded><![CDATA[<p>Julie discusses Google's monthly AI model releases and Gemini 4 — is rapid iteration good for developers and users?</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP54_en.mp3" length="1043397" type="audio/mpeg"/>
+      <itunes:duration>94</itunes:duration>
+      <itunes:episode>54</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
