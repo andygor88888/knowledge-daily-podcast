@@ -1554,5 +1554,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 50 (Chinese): Sandisk 暴漲 580% 是 AI 需求還是市場泡沫？ -->
+    <item>
+      <title>EP50: Sandisk 暴漲 580% 是 AI 需求還是市場泡沫？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep50-zh-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Andy 解析 Sandisk 股價一年暴漲 580% 背後的原因：AI 數據中心對 NVMe SSD 的剛性需求、分拆獨立的估值修復、以及營運虧損與產業循環的風險。</description>
+      <content:encoded><![CDATA[<p>Andy 解析 Sandisk 股價一年暴漲 580% 背後的原因：AI 數據中心對 NVMe SSD 的剛性需求、分拆獨立的估值修復、以及營運虧損與產業循環的風險。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP50_zh.mp3" length="1226109" type="audio/mpeg"/>
+      <itunes:duration>97</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 50 (English): SanDisk's 580% Surge — AI Demand or Market Bubble? -->
+    <item xml:lang="en">
+      <title>EP50: SanDisk's 580% Surge — AI Demand or Market Bubble?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep50-en-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Andy breaks down SanDisk's 580% stock surge: AI data center demand for NVMe SSDs, valuation re-rating after the WD spinoff, and the risks of operating losses and NAND cyclicality.</description>
+      <content:encoded><![CDATA[<p>Andy breaks down SanDisk's 580% stock surge: AI data center demand for NVMe SSDs, valuation re-rating after the WD spinoff, and the risks of operating losses and NAND cyclicality.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP50_en.mp3" length="1107285" type="audio/mpeg"/>
+      <itunes:duration>86</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
