@@ -1490,5 +1490,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 48 (Chinese): Tesla Q2 2026 財報前瞻：Optimus 機器人與 Robotaxi 燒錢加速 -->
+    <item>
+      <title>EP48: Tesla Q2 2026 財報前瞻：Optimus 機器人與 Robotaxi 燒錢加速</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep48-zh-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Julie 獨家解析 Tesla Q2 財報前的三大關鍵：電動車交車48萬輛創歷史新高、Optimus 研發支出暴增、Robotaxi 加州測試放寬但資金壓力不減。究竟電動車業務能不能撐起兩個 AI 夢想？</description>
+      <content:encoded><![CDATA[<p>Julie 獨家解析 Tesla Q2 財報前的三大關鍵：電動車交車48萬輛創歷史新高、Optimus 研發支出暴增、Robotaxi 加州測試放寬但資金壓力不減。究竟電動車業務能不能撐起兩個 AI 夢想？</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP48_zh.mp3" length="1922757" type="audio/mpeg"/>
+      <itunes:duration>176</itunes:duration>
+      <itunes:episode>48</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 48 (English): Can Tesla's EV Business Keep Funding Optimus and Robotaxi Before the Money Runs Out? -->
+    <item xml:lang="en">
+      <title>EP48: Can Tesla's EV Business Keep Funding Optimus and Robotaxi Before the Money Runs Out?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep48-en-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Julie breaks down Tesla's Q2 2026 earnings preview: record 480K deliveries, ballooning Optimus R&amp;D spend, and Robotaxi's regulatory progress vs capital burn. Can the EV business keep both AI dreams alive?</description>
+      <content:encoded><![CDATA[<p>Julie breaks down Tesla's Q2 2026 earnings preview: record 480K deliveries, ballooning Optimus R&amp;D spend, and Robotaxi's regulatory progress vs capital burn. Can the EV business keep both AI dreams alive?</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP48_en.mp3" length="2150709" type="audio/mpeg"/>
+      <itunes:duration>189</itunes:duration>
+      <itunes:episode>48</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
