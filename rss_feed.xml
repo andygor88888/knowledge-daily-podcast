@@ -1714,5 +1714,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 55 (Chinese): 訓練一個 AI 模型到底要花多少電和水？從物理學看 Google 的 2050 億 -->
+    <item>
+      <title>EP55: 訓練一個 AI 模型到底要花多少電和水？從物理學看 Google 的 2050 億</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep55-zh-2026-07-23</guid>
+      <pubDate>Thu, 23 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Andy 用物理學角度拆解 AI 訓練的真實成本——四千五百萬度電、七十萬公升水，AI 的能源回報率到底是正是負？</description>
+      <content:encoded><![CDATA[<p>Andy 用物理學角度拆解 AI 訓練的真實成本——四千五百萬度電、七十萬公升水，AI 的能源回報率到底是正是負？</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP55_zh.mp3" length="1056285" type="audio/mpeg"/>
+      <itunes:duration>85</itunes:duration>
+      <itunes:episode>55</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 55 (English): How Much Electricity and Water Does It Take to Train an AI Model? -->
+    <item xml:lang="en">
+      <title>EP55: How Much Electricity and Water Does It Take to Train an AI Model?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep55-en-2026-07-23</guid>
+      <pubDate>Thu, 23 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Andy breaks down AI training's real costs — 45 million kWh, 700,000 liters of water, and whether AI's energy return on investment is positive.</description>
+      <content:encoded><![CDATA[<p>Andy breaks down AI training's real costs — 45 million kWh, 700,000 liters of water, and whether AI's energy return on investment is positive.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP55_en.mp3" length="966213" type="audio/mpeg"/>
+      <itunes:duration>77</itunes:duration>
+      <itunes:episode>55</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
