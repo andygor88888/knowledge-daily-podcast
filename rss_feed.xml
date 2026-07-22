@@ -1618,5 +1618,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 52 (Chinese): Google 一年花 2050 億做 AI，為什麼市場反而害怕了？ -->
+    <item>
+      <title>EP52: Google 一年花 2050 億做 AI，為什麼市場反而害怕了？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep52-zh-2026-07-23</guid>
+      <pubDate>Thu, 23 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Andy 和 Julie 雙人對話版，聊 Google 2050 億美元 AI 投資的背後邏輯——從財報數字、雲端業務到市場反應，一次聽懂。</description>
+      <content:encoded><![CDATA[<p>Andy 和 Julie 雙人對話版，聊 Google 2050 億美元 AI 投資的背後邏輯——從財報數字、雲端業務到市場反應，一次聽懂。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP52_zh.mp3" length="2629461" type="audio/mpeg"/>
+      <itunes:duration>219</itunes:duration>
+      <itunes:episode>52</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 52 (English): Google Is Spending $205 Billion on AI. Why Is the Market Freaking Out? -->
+    <item xml:lang="en">
+      <title>EP52: Google Is Spending $205 Billion on AI. Why Is the Market Freaking Out?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep52-en-2026-07-23</guid>
+      <pubDate>Thu, 23 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Andy and Julie in a duo conversation about Google's $205 billion AI capex — earnings analysis, cloud growth, and why the market isn't convinced.</description>
+      <content:encoded><![CDATA[<p>Andy and Julie in a duo conversation about Google's $205 billion AI capex — earnings analysis, cloud growth, and why the market isn't convinced.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP52_en.mp3" length="2174901" type="audio/mpeg"/>
+      <itunes:duration>185</itunes:duration>
+      <itunes:episode>52</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
