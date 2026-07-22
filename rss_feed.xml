@@ -1586,5 +1586,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 51 (Chinese): 抗過敏藥物全球召回：交叉污染為何可能引發致命反應？ -->
+    <item>
+      <title>EP51: 抗過敏藥物全球召回：交叉污染為何可能引發致命反應？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep51-zh-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Julie 解析美國 FDA 對 Cetirizine 抗過敏藥的召回事件：什麼是交叉污染、為什麼藥廠共用生產線有風險、消費者如何確認家中藥物是否受影響。</description>
+      <content:encoded><![CDATA[<p>Julie 解析美國 FDA 對 Cetirizine 抗過敏藥的召回事件：什麼是交叉污染、為什麼藥廠共用生產線有風險、消費者如何確認家中藥物是否受影響。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP51_zh.mp3" length="1187589" type="audio/mpeg"/>
+      <itunes:duration>109</itunes:duration>
+      <itunes:episode>51</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 51 (English): Global Allergy Medication Recall: Why Cross-Contamination Can Be Life-Threatening -->
+    <item xml:lang="en">
+      <title>EP51: Global Allergy Medication Recall: Why Cross-Contamination Can Be Life-Threatening</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep51-en-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Julie explains the FDA's Cetirizine recall: what cross-contamination means, why shared production lines pose risks, and how consumers can check their medications.</description>
+      <content:encoded><![CDATA[<p>Julie explains the FDA's Cetirizine recall: what cross-contamination means, why shared production lines pose risks, and how consumers can check their medications.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP51_en.mp3" length="1272021" type="audio/mpeg"/>
+      <itunes:duration>113</itunes:duration>
+      <itunes:episode>51</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
