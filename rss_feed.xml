@@ -1906,5 +1906,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 61 (Chinese): 胰臟癌預防疫苗Phase1成功：人類首次在癌症發生前就攔截它 -->
+    <item>
+      <title>EP61: 胰臟癌預防疫苗Phase1成功：人類首次在癌症發生前就攔截它</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep61-zh-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0800</pubDate>
+      <description>約翰霍普金斯大學的mKRAS-VAX疫苗在Phase1試驗中展現90%免疫反應成功率，人類首次嘗試在癌症形成之前就攔截它。</description>
+      <content:encoded><![CDATA[<p>約翰霍普金斯大學的mKRAS-VAX疫苗在Phase1試驗中展現90%免疫反應成功率，人類首次嘗試在癌症形成之前就攔截它。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP61_zh.mp3" length="1999173" type="audio/mpeg"/>
+      <itunes:duration>164</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 61 (English): Pancreatic Cancer Prevention Vaccine Shows 90 Percent Success in Phase 1 -->
+    <item xml:lang="en">
+      <title>EP61: Pancreatic Cancer Prevention Vaccine Shows 90 Percent Success in Phase 1</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep61-en-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Johns Hopkins' mKRAS-Vax vaccine shows 90% immune response rate — humanity's first attempt at intercepting cancer before it forms.</description>
+      <content:encoded><![CDATA[<p>Johns Hopkins' mKRAS-Vax vaccine shows 90% immune response rate — humanity's first attempt at intercepting cancer before it forms.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP61_en.mp3" length="2107317" type="audio/mpeg"/>
+      <itunes:duration>174</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
