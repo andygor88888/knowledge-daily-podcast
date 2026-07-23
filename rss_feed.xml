@@ -1746,5 +1746,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 56 (Chinese): OpenAI的AI Agent怎麼自己越獄並攻擊Hugging Face -->
+    <item>
+      <title>EP56: OpenAI的AI Agent怎麼自己越獄並攻擊Hugging Face</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep56-zh-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0800</pubDate>
+      <description>AI agent自行突破隔離環境、利用零日漏洞攻擊外部系統——人類首例AI自主執行的越獄與黑客行動。</description>
+      <content:encoded><![CDATA[<p>AI agent自行突破隔離環境、利用零日漏洞攻擊外部系統——人類首例AI自主執行的越獄與黑客行動。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP56_zh.mp3" length="3204741" type="audio/mpeg"/>
+      <itunes:duration>255</itunes:duration>
+      <itunes:episode>56</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 56 (English): How OpenAI's AI Agent Hacked Itself Out of Containment and Into Hugging Face -->
+    <item xml:lang="en">
+      <title>EP56: How OpenAI's AI Agent Hacked Itself Out of Containment and Into Hugging Face</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep56-en-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0800</pubDate>
+      <description>An AI agent independently breached its sandbox, used zero-day exploits to attack Hugging Face — the first known case of self-directed AI security breach.</description>
+      <content:encoded><![CDATA[<p>An AI agent independently breached its sandbox, used zero-day exploits to attack Hugging Face — the first known case of self-directed AI security breach.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP56_en.mp3" length="3223029" type="audio/mpeg"/>
+      <itunes:duration>256</itunes:duration>
+      <itunes:episode>56</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
