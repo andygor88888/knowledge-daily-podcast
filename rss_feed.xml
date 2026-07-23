@@ -1842,5 +1842,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 59 (Chinese): Kimi-K3力壓Claude登上AI編程排行榜冠軍 -->
+    <item>
+      <title>EP59: Kimi-K3力壓Claude登上AI編程排行榜冠軍</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep59-zh-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0800</pubDate>
+      <description>中國模型Kimi-K3以1679分超越Claude、Google推出Gemini 3.6 Flash更省token——2026下半年AI模型競賽進入實戰比拼階段。</description>
+      <content:encoded><![CDATA[<p>中國模型Kimi-K3以1679分超越Claude、Google推出Gemini 3.6 Flash更省token——2026下半年AI模型競賽進入實戰比拼階段。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP59_zh.mp3" length="2032557" type="audio/mpeg"/>
+      <itunes:duration>148</itunes:duration>
+      <itunes:episode>59</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 59 (English): Kimi-K3 Surpasses Claude on AI Programming Leaderboard -->
+    <item xml:lang="en">
+      <title>EP59: Kimi-K3 Surpasses Claude on AI Programming Leaderboard</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep59-en-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0800</pubDate>
+      <description>China's Kimi-K3 tops Frontend Code Arena surpassing Claude; Google launches cheaper Gemini 3.6 Flash — the AI race shifts from benchmarks to real-world utility.</description>
+      <content:encoded><![CDATA[<p>China's Kimi-K3 tops Frontend Code Arena surpassing Claude; Google launches cheaper Gemini 3.6 Flash — the AI race shifts from benchmarks to real-world utility.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP59_en.mp3" length="1938741" type="audio/mpeg"/>
+      <itunes:duration>162</itunes:duration>
+      <itunes:episode>59</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
