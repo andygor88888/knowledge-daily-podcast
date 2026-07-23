@@ -1874,5 +1874,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 60 (Chinese): FDA放寬Peptide管制：瘦身減肥藥新紀元來了？ -->
+    <item>
+      <title>EP60: FDA放寬Peptide管制：瘦身減肥藥新紀元來了？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep60-zh-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0800</pubDate>
+      <description>FDA諮詢委員會投票支持放寬Peptide管制，肽類藥物在糖尿病、肥胖症甚至癌症治療上展現巨大潛力。</description>
+      <content:encoded><![CDATA[<p>FDA諮詢委員會投票支持放寬Peptide管制，肽類藥物在糖尿病、肥胖症甚至癌症治療上展現巨大潛力。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP60_zh.mp3" length="2270349" type="audio/mpeg"/>
+      <itunes:duration>189</itunes:duration>
+      <itunes:episode>60</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 60 (English): FDA Panel Votes to Ease Peptide Restrictions — A New Era for Weight Loss? -->
+    <item xml:lang="en">
+      <title>EP60: FDA Panel Votes to Ease Peptide Restrictions — A New Era for Weight Loss?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep60-en-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0800</pubDate>
+      <description>FDA advisory committee votes to ease peptide drug restrictions, sparking debate between medical innovation and public health protection.</description>
+      <content:encoded><![CDATA[<p>FDA advisory committee votes to ease peptide drug restrictions, sparking debate between medical innovation and public health protection.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP60_en.mp3" length="2455845" type="audio/mpeg"/>
+      <itunes:duration>204</itunes:duration>
+      <itunes:episode>60</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
