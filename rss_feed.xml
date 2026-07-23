@@ -1778,5 +1778,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 57 (Chinese): 特斯拉暴跌百分之十：AI燒錢疑雲、中東戰事與通膨兩難的三重風暴 -->
+    <item>
+      <title>EP57: 特斯拉暴跌百分之十：AI燒錢疑雲、中東戰事與通膨兩難的三重風暴</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep57-zh-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0800</pubDate>
+      <description>特斯拉財報資本支出二百五十億美元引發恐慌，疊加油價破百與Fed兩難，道瓊單日跌五百零六點。</description>
+      <content:encoded><![CDATA[<p>特斯拉財報資本支出二百五十億美元引發恐慌，疊加油價破百與Fed兩難，道瓊單日跌五百零六點。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP57_zh.mp3" length="2291013" type="audio/mpeg"/>
+      <itunes:duration>247</itunes:duration>
+      <itunes:episode>57</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 57 (English): Tesla Drops 10 Percent — Triple Threat of AI Spending, Middle East, and Inflation -->
+    <item xml:lang="en">
+      <title>EP57: Tesla Drops 10 Percent — Triple Threat of AI Spending, Middle East, and Inflation</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep57-en-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Tesla's twenty-five-billion-dollar capex guidance combined with crude oil breaching one hundred dollars and Fed stagflation fears.</description>
+      <content:encoded><![CDATA[<p>Tesla's twenty-five-billion-dollar capex guidance combined with crude oil breaching one hundred dollars and Fed stagflation fears.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP57_en.mp3" length="2787693" type="audio/mpeg"/>
+      <itunes:duration>247</itunes:duration>
+      <itunes:episode>57</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
