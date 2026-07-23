@@ -1810,5 +1810,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 58 (Chinese): ARM把MCP協議跟Agentic AI綁在一起：開發者工具鏈的革命 -->
+    <item>
+      <title>EP58: ARM把MCP協議跟Agentic AI綁在一起：開發者工具鏈的革命</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep58-zh-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0800</pubDate>
+      <description>ARM宣布將MCP協議與Agentic AI深度融合，讓開發者跨模型共享工具和資料，從晶片授權商轉型為AI平台公司。</description>
+      <content:encoded><![CDATA[<p>ARM宣布將MCP協議與Agentic AI深度融合，讓開發者跨模型共享工具和資料，從晶片授權商轉型為AI平台公司。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP58_zh.mp3" length="2465997" type="audio/mpeg"/>
+      <itunes:duration>216</itunes:duration>
+      <itunes:episode>58</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 58 (English): How ARM's MCP + Agentic AI Integration Could Change Developer Workflows -->
+    <item xml:lang="en">
+      <title>EP58: How ARM's MCP + Agentic AI Integration Could Change Developer Workflows</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep58-en-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0800</pubDate>
+      <description>ARM deep-integrates MCP protocol with Agentic AI, enabling cross-model tool sharing and transforming from chip licensor to AI infrastructure provider.</description>
+      <content:encoded><![CDATA[<p>ARM deep-integrates MCP protocol with Agentic AI, enabling cross-model tool sharing and transforming from chip licensor to AI infrastructure provider.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP58_en.mp3" length="2604501" type="audio/mpeg"/>
+      <itunes:duration>216</itunes:duration>
+      <itunes:episode>58</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
