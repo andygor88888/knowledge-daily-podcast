@@ -1970,5 +1970,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 63 (Chinese): Claude Opus 5登頂AI智能排行榜｜超越GPT-5.6和Fable 5 -->
+    <item>
+      <title>EP63: Claude Opus 5登頂AI智能排行榜｜超越GPT-5.6和Fable 5</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep63-zh-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:01:00 +0800</pubDate>
+      <description>Anthropic推出Claude Opus 5，在智能力指數以61分奪冠。這集聊Opus 5的Benchmark表現、成本優勢，以及為什麼2026年的核心技能是按任務路由而非品牌忠誠。</description>
+      <content:encoded><![CDATA[<p>Anthropic推出Claude Opus 5，在智能力指數以61分奪冠。這集聊Opus 5的Benchmark表現、成本優勢，以及為什麼2026年的核心技能是按任務路由而非品牌忠誠。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP63_zh.mp3" length="892053" type="audio/mpeg"/>
+      <itunes:duration>69</itunes:duration>
+      <itunes:episode>63</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 63 (English): Claude Opus 5 Tops AI Rankings｜Beats GPT-5.6 and Fable 5 -->
+    <item xml:lang="en">
+      <title>EP63: Claude Opus 5 Tops AI Rankings｜Beats GPT-5.6 and Fable 5</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep63-en-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:01:00 +0800</pubDate>
+      <description>Anthropic released Claude Opus 5, scoring 61 on the Intelligence Index. We discuss its benchmarks, cost advantages, and why the real 2026 skill is task routing, not brand loyalty.</description>
+      <content:encoded><![CDATA[<p>Anthropic released Claude Opus 5, scoring 61 on the Intelligence Index. We discuss its benchmarks, cost advantages, and why the real 2026 skill is task routing, not brand loyalty.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP63_en.mp3" length="819069" type="audio/mpeg"/>
+      <itunes:duration>63</itunes:duration>
+      <itunes:episode>63</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
