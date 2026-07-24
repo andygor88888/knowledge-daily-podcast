@@ -1938,5 +1938,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 62 (Chinese): SpaceX Starship第13次試飛成功｜人類航天新里程碑 -->
+    <item>
+      <title>EP62: SpaceX Starship第13次試飛成功｜人類航天新里程碑</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep62-zh-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0800</pubDate>
+      <description>SpaceX從德州Starbase成功發射Starship第13次試飛。這集聊Starship從2023年首飛爆炸到今天成熟測試的發展歷程，以及它對月球任務和太空AI資料中心的深遠影響。</description>
+      <content:encoded><![CDATA[<p>SpaceX從德州Starbase成功發射Starship第13次試飛。這集聊Starship從2023年首飛爆炸到今天成熟測試的發展歷程，以及它對月球任務和太空AI資料中心的深遠影響。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP62_zh.mp3" length="834477" type="audio/mpeg"/>
+      <itunes:duration>75</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 62 (English): SpaceX Starship Flight 13 Success｜A New Space Milestone -->
+    <item xml:lang="en">
+      <title>EP62: SpaceX Starship Flight 13 Success｜A New Space Milestone</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep62-en-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0800</pubDate>
+      <description>SpaceX successfully launched Starship's 13th flight from Starbase, Texas. We discuss Starship's journey from the 2023 explosion to today's successful flights, plus its implications for lunar missions and orbital AI data centers.</description>
+      <content:encoded><![CDATA[<p>SpaceX successfully launched Starship's 13th flight from Starbase, Texas. We discuss Starship's journey from the 2023 explosion to today's successful flights, plus its implications for lunar missions and orbital AI data centers.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP62_en.mp3" length="878949" type="audio/mpeg"/>
+      <itunes:duration>77</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
