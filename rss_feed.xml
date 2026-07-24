@@ -2034,5 +2034,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 65 (Chinese): 細菌無模板DNA合成｜顛覆百年生物學的重大發現 -->
+    <item>
+      <title>EP65: 細菌無模板DNA合成｜顛覆百年生物學的重大發現</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep65-zh-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:03:00 +0800</pubDate>
+      <description>科學家發現DRT3細菌防禦系統能在無模板情況下合成DNA，顛覆中心法則。這集聊這項發現的科學意義，以及它能否成為下一個CRISPR級別的工具。</description>
+      <content:encoded><![CDATA[<p>科學家發現DRT3細菌防禦系統能在無模板情況下合成DNA，顛覆中心法則。這集聊這項發現的科學意義，以及它能否成為下一個CRISPR級別的工具。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP65_zh.mp3" length="821661" type="audio/mpeg"/>
+      <itunes:duration>75</itunes:duration>
+      <itunes:episode>65</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 65 (English): Bacteria Make DNA Without a Template｜Overturning a Century of Biology -->
+    <item xml:lang="en">
+      <title>EP65: Bacteria Make DNA Without a Template｜Overturning a Century of Biology</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep65-en-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:03:00 +0800</pubDate>
+      <description>Scientists discovered DRT3, a bacterial defense system that synthesizes DNA without a template, overturning the central dogma. Could it become the next CRISPR-level tool?</description>
+      <content:encoded><![CDATA[<p>Scientists discovered DRT3, a bacterial defense system that synthesizes DNA without a template, overturning the central dogma. Could it become the next CRISPR-level tool?</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP65_en.mp3" length="810261" type="audio/mpeg"/>
+      <itunes:duration>71</itunes:duration>
+      <itunes:episode>65</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
