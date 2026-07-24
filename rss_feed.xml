@@ -2002,5 +2002,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 64 (Chinese): Tesla Optimus人形機器人量產線曝光｜從實驗室到工廠 -->
+    <item>
+      <title>EP64: Tesla Optimus人形機器人量產線曝光｜從實驗室到工廠</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep64-zh-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:02:00 +0800</pubDate>
+      <description>Tesla公開Optimus在Fremont工廠的量產線照片，從2台原型機到1000台部署。這集聊Optimus的技術優勢、年產100萬台的目標，以及人形機器人何時走進你家。</description>
+      <content:encoded><![CDATA[<p>Tesla公開Optimus在Fremont工廠的量產線照片，從2台原型機到1000台部署。這集聊Optimus的技術優勢、年產100萬台的目標，以及人形機器人何時走進你家。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP64_zh.mp3" length="737997" type="audio/mpeg"/>
+      <itunes:duration>66</itunes:duration>
+      <itunes:episode>64</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 64 (English): Tesla Optimus Production Line Revealed｜From Lab to Factory -->
+    <item xml:lang="en">
+      <title>EP64: Tesla Optimus Production Line Revealed｜From Lab to Factory</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep64-en-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 09:02:00 +0800</pubDate>
+      <description>Tesla revealed Optimus production line photos at Fremont — from 2 prototypes to 1,000+ deployed. We cover Optimus's tech advantages, the 1M/year target, and when humanoid robots enter homes.</description>
+      <content:encoded><![CDATA[<p>Tesla revealed Optimus production line photos at Fremont — from 2 prototypes to 1,000+ deployed. We cover Optimus's tech advantages, the 1M/year target, and when humanoid robots enter homes.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP64_en.mp3" length="729213" type="audio/mpeg"/>
+      <itunes:duration>63</itunes:duration>
+      <itunes:episode>64</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
