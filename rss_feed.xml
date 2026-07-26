@@ -2162,5 +2162,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 69 (Chinese): AI正加速一切科學發現—未來研究將怎樣被重構？ -->
+    <item>
+      <title>EP69: AI正加速一切科學發現—未來研究將怎樣被重構？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep69-zh-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 09:00:00 +0800</pubDate>
+      <description>慢速發現的時代即將結束。從藥物篩選到材料設計，從蛋白質摺疊到粒子物理，AI正在把科學發現變成指數技術。</description>
+      <content:encoded><![CDATA[<p>慢速發現的時代即將結束。從藥物篩選到材料設計，從蛋白質摺疊到粒子物理，AI正在把科學發現變成指數技術。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP69_zh.mp3" length="1374453" type="audio/mpeg"/>
+      <itunes:duration>125</itunes:duration>
+      <itunes:episode>69</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 69 (English): AI Is Accelerating Every Scientific Discovery — What Does That Mean for Research? -->
+    <item xml:lang="en">
+      <title>EP69: AI Is Accelerating Every Scientific Discovery — What Does That Mean for Research?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep69-en-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 09:00:00 +0800</pubDate>
+      <description>The era of slow discovery is ending. From drug screening to materials science, from protein folding to particle physics, AI is turning discovery into an exponential technology.</description>
+      <content:encoded><![CDATA[<p>The era of slow discovery is ending. From drug screening to materials science, from protein folding to particle physics, AI is turning discovery into an exponential technology.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP69_en.mp3" length="1555605" type="audio/mpeg"/>
+      <itunes:duration>137</itunes:duration>
+      <itunes:episode>69</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
