@@ -2194,5 +2194,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 70 (Chinese): 霍金門徒再發聲：Hinton最新講座揭示了人工智能的什麼真相？ -->
+    <item>
+      <title>EP70: 霍金門徒再發聲：Hinton最新講座揭示了人工智能的什麼真相？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep70-zh-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 09:00:00 +0800</pubDate>
+      <description>AI之父Hinton最新47分鐘講座警告：大部分人只用AI 10%的能力，Agent自主操作和Graph推理才是真正的遊戲改變者。</description>
+      <content:encoded><![CDATA[<p>AI之父Hinton最新47分鐘講座警告：大部分人只用AI 10%的能力，Agent自主操作和Graph推理才是真正的遊戲改變者。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP70_zh.mp3" length="1336941" type="audio/mpeg"/>
+      <itunes:duration>123</itunes:duration>
+      <itunes:episode>70</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 70 (English): Geoffrey Hinton's Latest Lecture Reveals What AI Can Really Do -->
+    <item xml:lang="en">
+      <title>EP70: Geoffrey Hinton's Latest Lecture Reveals What AI Can Really Do</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep70-en-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Godfather of AI Geoffrey Hinton warns in a 47-minute lecture: most people use only 10% of AI's capability — autonomous agents and graph reasoning are the real game-changers.</description>
+      <content:encoded><![CDATA[<p>Godfather of AI Geoffrey Hinton warns in a 47-minute lecture: most people use only 10% of AI's capability — autonomous agents and graph reasoning are the real game-changers.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP70_en.mp3" length="1634205" type="audio/mpeg"/>
+      <itunes:duration>146</itunes:duration>
+      <itunes:episode>70</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
