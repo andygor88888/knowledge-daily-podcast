@@ -2066,5 +2066,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 66 (Chinese): 黃仁勳第一條 X 貼文為什麼不提 GPU，而是替開放模型站台？ -->
+    <item>
+      <title>EP66: 黃仁勳第一條 X 貼文為什麼不提 GPU，而是替開放模型站台？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep66-zh-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 09:00:00 +0800</pubDate>
+      <description>當 NVIDIA、Google、Microsoft 和 OpenAI 同時支持開放權重模型時，AI 產業的天平已經傾斜。黃仁勳的第一篇 X 貼文沒有談 GPU，而是替開放模型站台。這背後不僅是理想，更是 NVIDIA 的商業邏輯。</description>
+      <content:encoded><![CDATA[<p>當 NVIDIA、Google、Microsoft 和 OpenAI 同時支持開放權重模型時，AI 產業的天平已經傾斜。黃仁勳的第一篇 X 貼文沒有談 GPU，而是替開放模型站台。這背後不僅是理想，更是 NVIDIA 的商業邏輯。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP66_zh.mp3" length="1023549" type="audio/mpeg"/>
+      <itunes:duration>80</itunes:duration>
+      <itunes:episode>66</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 66 (English): Why Jensen Huang's First X Post Wasn't About GPUs -->
+    <item xml:lang="en">
+      <title>EP66: Why Jensen Huang's First X Post Wasn't About GPUs</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep66-en-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 09:00:00 +0800</pubDate>
+      <description>When NVIDIA, Google, Microsoft, and OpenAI all back open-weight models on the same day, the AI industry has reached a tipping point. Jensen Huang's first X post wasn't about GPUs — it was about power distribution.</description>
+      <content:encoded><![CDATA[<p>When NVIDIA, Google, Microsoft, and OpenAI all back open-weight models on the same day, the AI industry has reached a tipping point. Jensen Huang's first X post wasn't about GPUs — it was about power distribution.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP66_en.mp3" length="810501" type="audio/mpeg"/>
+      <itunes:duration>64</itunes:duration>
+      <itunes:episode>66</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
