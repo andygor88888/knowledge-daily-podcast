@@ -2098,5 +2098,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 67 (Chinese): GM 砸 9 億美元押注鈉離子電池——電動車會比燃油車還便宜嗎？ -->
+    <item>
+      <title>EP67: GM 砸 9 億美元押注鈉離子電池——電動車會比燃油車還便宜嗎？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep67-zh-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 09:01:00 +0800</pubDate>
+      <description>GM 聯手 Peak Energy 投入 9 億美元開發鈉離子電池，目標 2028 年商用。成本比鋰電池低 20%，而且不再受鋰礦供應鏈限制。從 AI 資料中心到電動車，鈉離子電池正在改寫能源版圖。</description>
+      <content:encoded><![CDATA[<p>GM 聯手 Peak Energy 投入 9 億美元開發鈉離子電池，目標 2028 年商用。成本比鋰電池低 20%，而且不再受鋰礦供應鏈限制。從 AI 資料中心到電動車，鈉離子電池正在改寫能源版圖。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP67_zh.mp3" length="753813" type="audio/mpeg"/>
+      <itunes:duration>69</itunes:duration>
+      <itunes:episode>67</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 67 (English): GM Is Betting 00 Million on Sodium-Ion Batteries -->
+    <item xml:lang="en">
+      <title>EP67: GM Is Betting 00 Million on Sodium-Ion Batteries</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep67-en-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 09:01:00 +0800</pubDate>
+      <description>GM is partnering with Peak Energy to pour 00 million into sodium-ion battery development. 20% cheaper than lithium, free from supply chain constraints. From AI data centers to EVs, sodium-ion is rewriting the energy map.</description>
+      <content:encoded><![CDATA[<p>GM is partnering with Peak Energy to pour 00 million into sodium-ion battery development. 20% cheaper than lithium, free from supply chain constraints. From AI data centers to EVs, sodium-ion is rewriting the energy map.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP67_en.mp3" length="736125" type="audio/mpeg"/>
+      <itunes:duration>65</itunes:duration>
+      <itunes:episode>67</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
