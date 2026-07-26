@@ -2130,5 +2130,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 68 (Chinese): 科學家創造了一個人類從未見過的新顏色「Olo」 -->
+    <item>
+      <title>EP68: 科學家創造了一個人類從未見過的新顏色「Olo」</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep68-zh-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 09:02:00 +0800</pubDate>
+      <description>UC Berkeley 團隊用 Oz 平台直接控制眼球中的感光細胞，創造了無法在任何螢幕上顯示的全新顏色 Olo。這不只是科學把戲——它可能改變我們對視覺的認知。</description>
+      <content:encoded><![CDATA[<p>UC Berkeley 團隊用 Oz 平台直接控制眼球中的感光細胞，創造了無法在任何螢幕上顯示的全新顏色 Olo。這不只是科學把戲——它可能改變我們對視覺的認知。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP68_zh.mp3" length="1063293" type="audio/mpeg"/>
+      <itunes:duration>83</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 68 (English): Scientists Created a Color Humans Have Never Seen Before -->
+    <item xml:lang="en">
+      <title>EP68: Scientists Created a Color Humans Have Never Seen Before</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep68-en-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 09:02:00 +0800</pubDate>
+      <description>UC Berkeley's Oz platform directly controls photoreceptors in the eye, creating a never-before-seen color called Olo that no screen can display. This isn't just a party trick — it could reshape our understanding of vision.</description>
+      <content:encoded><![CDATA[<p>UC Berkeley's Oz platform directly controls photoreceptors in the eye, creating a never-before-seen color called Olo that no screen can display. This isn't just a party trick — it could reshape our understanding of vision.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP68_en.mp3" length="809109" type="audio/mpeg"/>
+      <itunes:duration>65</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
