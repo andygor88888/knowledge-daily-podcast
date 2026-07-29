@@ -2226,5 +2226,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 71 (Chinese): SK海力士Q2賺翻12倍股價卻暴跌？HBM4量產時程解析 -->
+    <item>
+      <title>EP71: SK海力士Q2賺翻12倍股價卻暴跌？HBM4量產時程解析</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep71-zh-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 +0800</pubDate>
+      <description>SK海力士Q2獲利暴增12倍創歷史新高，股價卻暴跌——HBM4量產時程背後的半導體真相</description>
+      <content:encoded><![CDATA[<p>SK海力士Q2獲利暴增12倍創歷史新高，股價卻暴跌——HBM4量產時程背後的半導體真相</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP71_zh.mp3" length="1601781" type="audio/mpeg"/>
+      <itunes:duration>123</itunes:duration>
+      <itunes:episode>71</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 71 (English): SK Hynix: Record Profits, Stock Crash &amp; HBM4 Explained -->
+    <item xml:lang="en">
+      <title>EP71: SK Hynix: Record Profits, Stock Crash &amp; HBM4 Explained</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep71-en-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 +0800</pubDate>
+      <description>SK Hynix Q2 profits soared 12x but the stock crashed. Here's the HBM4 story behind the paradox.</description>
+      <content:encoded><![CDATA[<p>SK Hynix Q2 profits soared 12x but the stock crashed. Here's the HBM4 story behind the paradox.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP71_en.mp3" length="1438005" type="audio/mpeg"/>
+      <itunes:duration>113</itunes:duration>
+      <itunes:episode>71</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
