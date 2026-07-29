@@ -2258,5 +2258,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 72 (Chinese): 血月降臨！月全食為什麼月亮會變成紅色？完整天文學解析 -->
+    <item>
+      <title>EP72: 血月降臨！月全食為什麼月亮會變成紅色？完整天文學解析</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep72-zh-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 09:30:00 +0800</pubDate>
+      <description>2026年7月28日月全食血月現象的完整天文學解析——瑞利散射、未來月全食時間表</description>
+      <content:encoded><![CDATA[<p>2026年7月28日月全食血月現象的完整天文學解析——瑞利散射、未來月全食時間表</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP72_zh.mp3" length="1307277" type="audio/mpeg"/>
+      <itunes:duration>120</itunes:duration>
+      <itunes:episode>72</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 72 (English): Blood Moon 2026: Why Does the Moon Turn Red? Lunar Eclipse Explained -->
+    <item xml:lang="en">
+      <title>EP72: Blood Moon 2026: Why Does the Moon Turn Red? Lunar Eclipse Explained</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep72-en-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 09:30:00 +0800</pubDate>
+      <description>Complete astronomy breakdown of the July 2026 Blood Moon — Rayleigh scattering, science, and upcoming lunar eclipses.</description>
+      <content:encoded><![CDATA[<p>Complete astronomy breakdown of the July 2026 Blood Moon — Rayleigh scattering, science, and upcoming lunar eclipses.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP72_en.mp3" length="1376085" type="audio/mpeg"/>
+      <itunes:duration>124</itunes:duration>
+      <itunes:episode>72</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
