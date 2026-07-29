@@ -2322,5 +2322,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 74 (Chinese): 全球晶片股大逃殺！市值蒸發42兆，散戶該恐慌還是撿便宜？ -->
+    <item>
+      <title>EP74: 全球晶片股大逃殺！市值蒸發42兆，散戶該恐慌還是撿便宜？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep74-zh-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 +0800</pubDate>
+      <description>全球半導體市值蒸發42兆新台幣，南韓政府緊急干預。Julie分析三層原因（AI退燒+油價飆漲+Fed分歧）以及散戶逆向布局策略。</description>
+      <content:encoded><![CDATA[<p>全球半導體市值蒸發42兆新台幣，南韓政府緊急干預。Julie分析三層原因（AI退燒+油價飆漲+Fed分歧）以及散戶逆向布局策略。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP74_zh.mp3" length="1218885" type="audio/mpeg"/>
+      <itunes:duration>111</itunes:duration>
+      <itunes:episode>74</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 74 (English): Global Chip Stocks in Freefall: $1.3T Wiped Out — Panic or Opportunity? -->
+    <item xml:lang="en">
+      <title>EP74: Global Chip Stocks in Freefall: $1.3T Wiped Out — Panic or Opportunity?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep74-en-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Global semiconductor stocks lost $1.3T in market cap. South Korea intervenes. Julie breaks down the triple whammy (AI cool-off + oil spike + Fed split) and contrarian strategies.</description>
+      <content:encoded><![CDATA[<p>Global semiconductor stocks lost $1.3T in market cap. South Korea intervenes. Julie breaks down the triple whammy (AI cool-off + oil spike + Fed split) and contrarian strategies.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP74_en.mp3" length="1317381" type="audio/mpeg"/>
+      <itunes:duration>118</itunes:duration>
+      <itunes:episode>74</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
