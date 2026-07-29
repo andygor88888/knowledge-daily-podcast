@@ -2354,5 +2354,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 75 (Chinese): AXT與Lumentum簽87億美元供應協議！銦磷半導體材料新戰場 -->
+    <item>
+      <title>EP75: AXT與Lumentum簽87億美元供應協議！銦磷半導體材料新戰場</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep75-zh-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 +0800</pubDate>
+      <description>87億美元的長約鎖定銦磷（InP）基板供應。Andy解析為何AI的瓶頸正從晶片製造轉向材料供應。</description>
+      <content:encoded><![CDATA[<p>87億美元的長約鎖定銦磷（InP）基板供應。Andy解析為何AI的瓶頸正從晶片製造轉向材料供應。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP75_zh.mp3" length="1244229" type="audio/mpeg"/>
+      <itunes:duration>96</itunes:duration>
+      <itunes:episode>75</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 75 (English): AXT &amp; Lumentum Sign $8.7B InP Supply Deal: AI's New Material Frontier -->
+    <item xml:lang="en">
+      <title>EP75: AXT &amp; Lumentum Sign $8.7B InP Supply Deal: AI's New Material Frontier</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep75-en-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 +0800</pubDate>
+      <description>An $8.7B long-term supply deal locks in indium phosphide substrates. Andy explains why AI's bottleneck is shifting from chips to materials.</description>
+      <content:encoded><![CDATA[<p>An $8.7B long-term supply deal locks in indium phosphide substrates. Andy explains why AI's bottleneck is shifting from chips to materials.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP75_en.mp3" length="1284813" type="audio/mpeg"/>
+      <itunes:duration>99</itunes:duration>
+      <itunes:episode>75</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
