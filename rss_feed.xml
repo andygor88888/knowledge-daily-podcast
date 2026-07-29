@@ -2290,5 +2290,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 73 (Chinese): Fed利率決議現3張反對票！政策轉向訊號來了？ -->
+    <item>
+      <title>EP73: Fed利率決議現3張反對票！政策轉向訊號來了？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep73-zh-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 +0800</pubDate>
+      <description>Fed連續5次按兵不動後，FOMC會議竟出現3張升息反對票——2016年以來首次。Andy解析這對你的投資組合意味著什麼。</description>
+      <content:encoded><![CDATA[<p>Fed連續5次按兵不動後，FOMC會議竟出現3張升息反對票——2016年以來首次。Andy解析這對你的投資組合意味著什麼。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP73_zh.mp3" length="1376493" type="audio/mpeg"/>
+      <itunes:duration>107</itunes:duration>
+      <itunes:episode>73</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 73 (English): Fed's 3 Dissent Votes: Is a Policy Shift Coming? -->
+    <item xml:lang="en">
+      <title>EP73: Fed's 3 Dissent Votes: Is a Policy Shift Coming?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep73-en-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 +0800</pubDate>
+      <description>After 5 straight holds, the FOMC delivered 3 dissenting votes favoring a rate hike—the most since 2016. Andy breaks down what this means for your portfolio.</description>
+      <content:encoded><![CDATA[<p>After 5 straight holds, the FOMC delivered 3 dissenting votes favoring a rate hike—the most since 2016. Andy breaks down what this means for your portfolio.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP73_en.mp3" length="1123317" type="audio/mpeg"/>
+      <itunes:duration>90</itunes:duration>
+      <itunes:episode>73</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
