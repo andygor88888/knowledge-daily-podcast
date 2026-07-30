@@ -2386,5 +2386,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 76 (Chinese): 熊本7.1強震重創九州半導體！台積電Sony豐田停工 -->
+    <item>
+      <title>EP76: 熊本7.1強震重創九州半導體！台積電Sony豐田停工</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep76-zh-2026-07-30</guid>
+      <pubDate>Thu, 30 Jul 2026 09:00:00 +0800</pubDate>
+      <description>7月28日熊本7.1強震撼動日本「矽島」九州。台積電、Sony、瑞薩、東京電子全面停工，豐田、本田、日產也受波及。九州佔日本半導體產能30%、全球CMOS感測器45%，這次地震暴露了全球供應鏈的集中化風險。強颱白海豚又即將逼近⋯⋯</description>
+      <content:encoded><![CDATA[<p>7月28日熊本7.1強震撼動日本「矽島」九州。台積電、Sony、瑞薩、東京電子全面停工，豐田、本田、日產也受波及。九州佔日本半導體產能30%、全球CMOS感測器45%，這次地震暴露了全球供應鏈的集中化風險。強颱白海豚又即將逼近⋯⋯</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP76_zh.mp3" length="1429989" type="audio/mpeg"/>
+      <itunes:duration>129</itunes:duration>
+      <itunes:episode>76</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 76 (English): M7.1 Earthquake Devastates Kyushu's Silicon Island -->
+    <item xml:lang="en">
+      <title>EP76: M7.1 Earthquake Devastates Kyushu's Silicon Island</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep76-en-2026-07-30</guid>
+      <pubDate>Thu, 30 Jul 2026 09:00:00 +0800</pubDate>
+      <description>The M7.1 Kumamoto earthquake hit Kyushu's semiconductor cluster hard. TSMC, Sony, Renesas, and Tokyo Electron shut down; Toyota, Honda, and Nissan halted production. Kyushu accounts for 30% of Japan's chip output and 45% of global CMOS sensors. This quake exposes supply chain concentration risk — and Typhoon White Dolphin is approaching.</description>
+      <content:encoded><![CDATA[<p>The M7.1 Kumamoto earthquake hit Kyushu's semiconductor cluster hard. TSMC, Sony, Renesas, and Tokyo Electron shut down; Toyota, Honda, and Nissan halted production. Kyushu accounts for 30% of Japan's chip output and 45% of global CMOS sensors. This quake exposes supply chain concentration risk — and Typhoon White Dolphin is approaching.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP76_en.mp3" length="1490877" type="audio/mpeg"/>
+      <itunes:duration>131</itunes:duration>
+      <itunes:episode>76</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
