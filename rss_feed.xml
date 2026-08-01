@@ -2450,5 +2450,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 78 (Chinese): SpaceX打造非中國非台灣供應鏈，千億美元股票解禁在即 -->
+    <item>
+      <title>EP78: SpaceX打造非中國非台灣供應鏈，千億美元股票解禁在即</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep78-zh-2026-08-01</guid>
+      <pubDate>Sat, 01 Aug 2026 09:05:00 +0800</pubDate>
+      <description>SpaceX以NCNT標準重組供應鏈：排除中國籍員工與中國製設備、要求台廠提高海外生產比重；同時8月6日首批股票解禁，Google持有941億美元持股。太空產業的地緣政治學。</description>
+      <content:encoded><![CDATA[<p>SpaceX以NCNT標準重組供應鏈：排除中國籍員工與中國製設備、要求台廠提高海外生產比重；同時8月6日首批股票解禁，Google持有941億美元持股。太空產業的地緣政治學。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP78_zh.mp3" length="1737165" type="audio/mpeg"/>
+      <itunes:duration>142</itunes:duration>
+      <itunes:episode>78</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 78 (English): Why Is SpaceX Building a No China, No Taiwan Supply Chain? -->
+    <item xml:lang="en">
+      <title>EP78: Why Is SpaceX Building a No China, No Taiwan Supply Chain?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep78-en-2026-08-01</guid>
+      <pubDate>Sat, 01 Aug 2026 09:05:00 +0800</pubDate>
+      <description>SpaceX restructures its supply chain under an NCNT (No China, No Taiwan) standard while 00B+ in stock unlocks August 6. The geopolitics of the space industry.</description>
+      <content:encoded><![CDATA[<p>SpaceX restructures its supply chain under an NCNT (No China, No Taiwan) standard while 00B+ in stock unlocks August 6. The geopolitics of the space industry.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP78_en.mp3" length="1862829" type="audio/mpeg"/>
+      <itunes:duration>152</itunes:duration>
+      <itunes:episode>78</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
