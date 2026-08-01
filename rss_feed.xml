@@ -2418,5 +2418,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 77 (Chinese): 輝達砸百億美元收購全美暗光纖，AI競賽下一個戰場為何是光纖？ -->
+    <item>
+      <title>EP77: 輝達砸百億美元收購全美暗光纖，AI競賽下一個戰場為何是光纖？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep77-zh-2026-08-01</guid>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 +0800</pubDate>
+      <description>輝達傳出砸50-100億美元收購全美暗光纖網路，總頻寬上看7.6Pbps。分析暗光纖是什麼、為何買而不租、以及光通訊供應鏈的訂單想像空間。</description>
+      <content:encoded><![CDATA[<p>輝達傳出砸50-100億美元收購全美暗光纖網路，總頻寬上看7.6Pbps。分析暗光纖是什麼、為何買而不租、以及光通訊供應鏈的訂單想像空間。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP77_zh.mp3" length="1558701" type="audio/mpeg"/>
+      <itunes:duration>117</itunes:duration>
+      <itunes:episode>77</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 77 (English): Why Is NVIDIA Buying Up America's Dark Fiber? -->
+    <item xml:lang="en">
+      <title>EP77: Why Is NVIDIA Buying Up America's Dark Fiber?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep77-en-2026-08-01</guid>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 +0800</pubDate>
+      <description>NVIDIA reportedly plans to spend -10B acquiring long-haul dark fiber across the US. Why buy instead of lease, and who wins in the optical supply chain?</description>
+      <content:encoded><![CDATA[<p>NVIDIA reportedly plans to spend -10B acquiring long-haul dark fiber across the US. Why buy instead of lease, and who wins in the optical supply chain?</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP77_en.mp3" length="1501749" type="audio/mpeg"/>
+      <itunes:duration>116</itunes:duration>
+      <itunes:episode>77</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
