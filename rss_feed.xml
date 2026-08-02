@@ -2482,5 +2482,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 79 (Chinese): 年輕人接連猝死！「只是比較累」還是身體在求救？5種異常累法別硬撐 -->
+    <item>
+      <title>EP79: 年輕人接連猝死！「只是比較累」還是身體在求救？5種異常累法別硬撐</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep79-zh-2026-08-02</guid>
+      <pubDate>Sun, 02 Aug 2026 10:35:00 +0800</pubDate>
+      <description>胸腔暨重症專科醫師黃軒示警：5種異常累法可能是身體的奪命求救訊號，6大急診警訊出現別硬撐。Julie 為你解析如何分辨普通疲勞與異常疲倦。</description>
+      <content:encoded><![CDATA[<p>胸腔暨重症專科醫師黃軒示警：5種異常累法可能是身體的奪命求救訊號，6大急診警訊出現別硬撐。Julie 為你解析如何分辨普通疲勞與異常疲倦。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP79_zh.mp3" length="1985973" type="audio/mpeg"/>
+      <itunes:duration>181</itunes:duration>
+      <itunes:episode>79</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 79 (English): Young People Dying Suddenly: Is It &quot;Just Fatigue&quot; or Your Body's Last Warning? 5 Abnormal Kinds of Tiredness You Shouldn't Ignore -->
+    <item xml:lang="en">
+      <title>EP79: Young People Dying Suddenly: Is It &quot;Just Fatigue&quot; or Your Body's Last Warning? 5 Abnormal Kinds of Tiredness You Shouldn't Ignore</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep79-en-2026-08-02</guid>
+      <pubDate>Sun, 02 Aug 2026 10:35:00 +0800</pubDate>
+      <description>A thoracic and critical care specialist warns: 5 types of abnormal fatigue may be your body's final distress signal, plus 6 ER warning signs you should never ignore. Julie explains how to tell ordinary tiredness from dangerous exhaustion.</description>
+      <content:encoded><![CDATA[<p>A thoracic and critical care specialist warns: 5 types of abnormal fatigue may be your body's final distress signal, plus 6 ER warning signs you should never ignore. Julie explains how to tell ordinary tiredness from dangerous exhaustion.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP79_en.mp3" length="1763781" type="audio/mpeg"/>
+      <itunes:duration>156</itunes:duration>
+      <itunes:episode>79</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
