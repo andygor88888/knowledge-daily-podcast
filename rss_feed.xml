@@ -2546,5 +2546,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 81 (Chinese): 2027 年美國社安金 COLA 預測下調，退休族該如何應對？ -->
+    <item>
+      <title>EP81: 2027 年美國社安金 COLA 預測下調，退休族該如何應對？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep81-zh-2026-08-02</guid>
+      <pubDate>Sun, 02 Aug 2026 09:00:00 +0800</pubDate>
+      <description>通膨降溫讓 2027 年美國社安金調幅預測下修。拆解 COLA 計算機制、低調幅的隱藏好處，與退休族該如何調整財務結構。</description>
+      <content:encoded><![CDATA[<p>通膨降溫讓 2027 年美國社安金調幅預測下修。拆解 COLA 計算機制、低調幅的隱藏好處，與退休族該如何調整財務結構。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP81_zh.mp3" length="1985157" type="audio/mpeg"/>
+      <itunes:duration>155</itunes:duration>
+      <itunes:episode>81</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 81 (English): 2027 Social Security COLA Forecast Is Being Cut — How Should Retirees Respond? -->
+    <item xml:lang="en">
+      <title>EP81: 2027 Social Security COLA Forecast Is Being Cut — How Should Retirees Respond?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep81-en-2026-08-02</guid>
+      <pubDate>Sun, 02 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Cooling inflation is cutting the 2027 Social Security COLA forecast. We break down how COLA is calculated, why a smaller raise can be good news, and how retirees should adjust.</description>
+      <content:encoded><![CDATA[<p>Cooling inflation is cutting the 2027 Social Security COLA forecast. We break down how COLA is calculated, why a smaller raise can be good news, and how retirees should adjust.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP81_en.mp3" length="2026557" type="audio/mpeg"/>
+      <itunes:duration>159</itunes:duration>
+      <itunes:episode>81</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
