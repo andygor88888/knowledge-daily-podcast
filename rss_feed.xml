@@ -2514,5 +2514,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 80 (Chinese): 台積電也來做「類 EMIB」封裝？當摩爾定律放緩，先進封裝為何成了 AI 晶片的新決戰點？ -->
+    <item>
+      <title>EP80: 台積電也來做「類 EMIB」封裝？當摩爾定律放緩，先進封裝為何成了 AI 晶片的新決戰點？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep80-zh-2026-08-02</guid>
+      <pubDate>Sun, 02 Aug 2026 09:00:00 +0800</pubDate>
+      <description>台積電聯手景碩開發「類 EMIB」封裝，直接挑戰英特爾獨門技術。解析 CoWoS、InFO、EMIB 差異，與先進封裝為何成為 AI 晶片軍備競賽的決戰點。</description>
+      <content:encoded><![CDATA[<p>台積電聯手景碩開發「類 EMIB」封裝，直接挑戰英特爾獨門技術。解析 CoWoS、InFO、EMIB 差異，與先進封裝為何成為 AI 晶片軍備競賽的決戰點。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP80_zh.mp3" length="2011125" type="audio/mpeg"/>
+      <itunes:duration>171</itunes:duration>
+      <itunes:episode>80</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 80 (English): TSMC Is Building an EMIB-Like Package — Why Advanced Packaging Is the New Battleground for AI Chips -->
+    <item xml:lang="en">
+      <title>EP80: TSMC Is Building an EMIB-Like Package — Why Advanced Packaging Is the New Battleground for AI Chips</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep80-en-2026-08-02</guid>
+      <pubDate>Sun, 02 Aug 2026 09:00:00 +0800</pubDate>
+      <description>TSMC is developing an EMIB-like packaging technology with Kinsus, challenging Intel's moat. We break down CoWoS vs EMIB and why advanced packaging is the new battleground for AI chips.</description>
+      <content:encoded><![CDATA[<p>TSMC is developing an EMIB-like packaging technology with Kinsus, challenging Intel's moat. We break down CoWoS vs EMIB and why advanced packaging is the new battleground for AI chips.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP80_en.mp3" length="2197149" type="audio/mpeg"/>
+      <itunes:duration>183</itunes:duration>
+      <itunes:episode>80</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
