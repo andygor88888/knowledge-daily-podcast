@@ -2610,5 +2610,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 83 (Chinese): 血糖登上熱搜：逾 20 萬糖尿病人面臨「糖尿腎」威脅，早餐蛋白質夠嗎？ -->
+    <item>
+      <title>EP83: 血糖登上熱搜：逾 20 萬糖尿病人面臨「糖尿腎」威脅，早餐蛋白質夠嗎？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep83-zh-2026-08-04</guid>
+      <pubDate>Tue, 04 Aug 2026 09:30:00 +0800</pubDate>
+      <description>血糖熱搜背後兩則警訊：20 萬糖尿病人面臨糖尿腎威脅、七成上班族早餐蛋白質不足。為什麼血糖達標不等於腎臟安全？早餐怎麼吃才穩血糖？3 分鐘掌握控糖關鍵。主持人 Julie。</description>
+      <content:encoded><![CDATA[<p>血糖熱搜背後兩則警訊：20 萬糖尿病人面臨糖尿腎威脅、七成上班族早餐蛋白質不足。為什麼血糖達標不等於腎臟安全？早餐怎麼吃才穩血糖？3 分鐘掌握控糖關鍵。主持人 Julie。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP83_zh.mp3" length="1812861" type="audio/mpeg"/>
+      <itunes:duration>165</itunes:duration>
+      <itunes:episode>83</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 83 (English): Blood Sugar Trending: 200,000+ Diabetics Face Kidney Threat — Is Your Breakfast Protein Enough? -->
+    <item xml:lang="en">
+      <title>EP83: Blood Sugar Trending: 200,000+ Diabetics Face Kidney Threat — Is Your Breakfast Protein Enough?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep83-en-2026-08-04</guid>
+      <pubDate>Tue, 04 Aug 2026 09:30:00 +0800</pubDate>
+      <description>Two health warnings behind the blood sugar trend: 200,000+ diabetics face diabetic kidney threat, and 70% of workers lack breakfast protein. Why doesn't HbA1c on target mean safe kidneys? How should you eat breakfast? 3 minutes on blood sugar control. Hosted by Julie.</description>
+      <content:encoded><![CDATA[<p>Two health warnings behind the blood sugar trend: 200,000+ diabetics face diabetic kidney threat, and 70% of workers lack breakfast protein. Why doesn't HbA1c on target mean safe kidneys? How should you eat breakfast? 3 minutes on blood sugar control. Hosted by Julie.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP83_en.mp3" length="2080269" type="audio/mpeg"/>
+      <itunes:duration>183</itunes:duration>
+      <itunes:episode>83</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
