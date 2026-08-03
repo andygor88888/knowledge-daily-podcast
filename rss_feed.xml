@@ -2578,5 +2578,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 82 (Chinese): NVIDIA 宣告 CPO 光通訊量產——AI 算力軍備競賽的下一站是頻寬？ -->
+    <item>
+      <title>EP82: NVIDIA 宣告 CPO 光通訊量產——AI 算力軍備競賽的下一站是頻寬？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep82-zh-2026-08-04</guid>
+      <pubDate>Tue, 04 Aug 2026 09:00:00 +0800</pubDate>
+      <description>NVIDIA 宣告共同封裝光學 CPO 步入量產，AI 伺服器出貨上看年增 31%。什麼是 CPO？為什麼「光」成為 AI 世界的主角？磷化銦供應缺口 30% 又代表什麼？3 分鐘掌握矽光子時代的關鍵。主持人 Andy。</description>
+      <content:encoded><![CDATA[<p>NVIDIA 宣告共同封裝光學 CPO 步入量產，AI 伺服器出貨上看年增 31%。什麼是 CPO？為什麼「光」成為 AI 世界的主角？磷化銦供應缺口 30% 又代表什麼？3 分鐘掌握矽光子時代的關鍵。主持人 Andy。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP82_zh.mp3" length="2343837" type="audio/mpeg"/>
+      <itunes:duration>179</itunes:duration>
+      <itunes:episode>82</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 82 (English): NVIDIA CPO Mass Production: Is Bandwidth the Next AI Battleground? -->
+    <item xml:lang="en">
+      <title>EP82: NVIDIA CPO Mass Production: Is Bandwidth the Next AI Battleground?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep82-en-2026-08-04</guid>
+      <pubDate>Tue, 04 Aug 2026 09:00:00 +0800</pubDate>
+      <description>NVIDIA announces co-packaged optics (CPO) is in mass production, and AI server shipments could grow 31% in 2026. What is CPO, why does light matter for AI, and what does the 30% indium phosphide gap mean? 3 minutes on the silicon photonics era. Hosted by Andy.</description>
+      <content:encoded><![CDATA[<p>NVIDIA announces co-packaged optics (CPO) is in mass production, and AI server shipments could grow 31% in 2026. What is CPO, why does light matter for AI, and what does the 30% indium phosphide gap mean? 3 minutes on the silicon photonics era. Hosted by Andy.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP82_en.mp3" length="2198133" type="audio/mpeg"/>
+      <itunes:duration>169</itunes:duration>
+      <itunes:episode>82</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
