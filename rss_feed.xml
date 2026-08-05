@@ -2706,5 +2706,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 86 (Chinese): UFC 選手 34 歲睡夢中猝逝——年輕運動員的心源性猝死可以預防嗎？ -->
+    <item>
+      <title>EP86: UFC 選手 34 歲睡夢中猝逝——年輕運動員的心源性猝死可以預防嗎？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep86-zh-2026-08-05</guid>
+      <pubDate>Wed, 05 Aug 2026 09:00:00 +0800</pubDate>
+      <description>UFC 蠅量級選手 Allan Nascimento 34 歲在睡夢中疑似心臟病發驟逝。本集解析年輕運動員心源性猝死的發生率、常見原因、篩查爭議與每個人都該知道的警訊。</description>
+      <content:encoded><![CDATA[<p>UFC 蠅量級選手 Allan Nascimento 34 歲在睡夢中疑似心臟病發驟逝。本集解析年輕運動員心源性猝死的發生率、常見原因、篩查爭議與每個人都該知道的警訊。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP86_zh.mp3" length="1565925" type="audio/mpeg"/>
+      <itunes:duration>133</itunes:duration>
+      <itunes:episode>86</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 86 (English): UFC Fighter Dies at 34 in His Sleep — Can Sudden Cardiac Death Be Prevented? -->
+    <item xml:lang="en">
+      <title>EP86: UFC Fighter Dies at 34 in His Sleep — Can Sudden Cardiac Death Be Prevented?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep86-en-2026-08-05</guid>
+      <pubDate>Wed, 05 Aug 2026 09:00:00 +0800</pubDate>
+      <description>UFC flyweight Allan Nascimento died at 34 of an apparent heart attack in his sleep. We break down sudden cardiac death in young athletes — causes, screening debates, and warning signs.</description>
+      <content:encoded><![CDATA[<p>UFC flyweight Allan Nascimento died at 34 of an apparent heart attack in his sleep. We break down sudden cardiac death in young athletes — causes, screening debates, and warning signs.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP86_en.mp3" length="1574157" type="audio/mpeg"/>
+      <itunes:duration>135</itunes:duration>
+      <itunes:episode>86</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
