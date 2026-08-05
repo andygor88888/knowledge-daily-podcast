@@ -2642,5 +2642,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 84 (Chinese): Chipotle 墨西哥辣椒沙門氏菌風暴——連鎖餐飲的食安危機為何層出不窮？ -->
+    <item>
+      <title>EP84: Chipotle 墨西哥辣椒沙門氏菌風暴——連鎖餐飲的食安危機為何層出不窮？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep84-zh-2026-08-05</guid>
+      <pubDate>Wed, 05 Aug 2026 09:00:00 +0800</pubDate>
+      <description>明尼蘇達州沙門氏菌群聚指向 Chipotle 的墨西哥辣椒，公司緊急下架、股價下跌。本集解析沙門氏菌的感染機制、生鮮供應鏈的結構性風險，以及消費者該如何自保。</description>
+      <content:encoded><![CDATA[<p>明尼蘇達州沙門氏菌群聚指向 Chipotle 的墨西哥辣椒，公司緊急下架、股價下跌。本集解析沙門氏菌的感染機制、生鮮供應鏈的結構性風險，以及消費者該如何自保。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP84_zh.mp3" length="1562949" type="audio/mpeg"/>
+      <itunes:duration>142</itunes:duration>
+      <itunes:episode>84</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 84 (English): Chipotle's Jalapeño Salmonella Scare — Why Food Safety Crises Keep Hitting Big Chains -->
+    <item xml:lang="en">
+      <title>EP84: Chipotle's Jalapeño Salmonella Scare — Why Food Safety Crises Keep Hitting Big Chains</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep84-en-2026-08-05</guid>
+      <pubDate>Wed, 05 Aug 2026 09:00:00 +0800</pubDate>
+      <description>A Minnesota salmonella cluster points to Chipotle's jalapeños — the chain pulled them and the stock fell. We break down the infection, the supply-chain risks, and what consumers can do.</description>
+      <content:encoded><![CDATA[<p>A Minnesota salmonella cluster points to Chipotle's jalapeños — the chain pulled them and the stock fell. We break down the infection, the supply-chain risks, and what consumers can do.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP84_en.mp3" length="1350717" type="audio/mpeg"/>
+      <itunes:duration>119</itunes:duration>
+      <itunes:episode>84</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
