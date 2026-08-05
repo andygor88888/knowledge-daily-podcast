@@ -2738,5 +2738,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 87 (Chinese): 歐盟 AI 法案高風險條款正式生效：AI 合規時代全面降臨 -->
+    <item>
+      <title>EP87: 歐盟 AI 法案高風險條款正式生效：AI 合規時代全面降臨</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep87-zh-2026-08-05</guid>
+      <pubDate>Wed, 05 Aug 2026 09:00:00 +0800</pubDate>
+      <description>歐盟 AI 法案 8 月 2 日正式生效，高風險 AI 系統全面納管，罰款最高達全球營業額 7%。美國各州各自立法，企業面臨一國多制合規拼圖。Andy 與 Julie 解析監管地圖、企業衝擊與創新外逃之辯。</description>
+      <content:encoded><![CDATA[<p>歐盟 AI 法案 8 月 2 日正式生效，高風險 AI 系統全面納管，罰款最高達全球營業額 7%。美國各州各自立法，企業面臨一國多制合規拼圖。Andy 與 Julie 解析監管地圖、企業衝擊與創新外逃之辯。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP87_zh.mp3" length="1847637" type="audio/mpeg"/>
+      <itunes:duration>155</itunes:duration>
+      <itunes:episode>87</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 87 (English): EU AI Act High-Risk Rules Now in Force: The Compliance Era Has Arrived -->
+    <item xml:lang="en">
+      <title>EP87: EU AI Act High-Risk Rules Now in Force: The Compliance Era Has Arrived</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep87-en-2026-08-05</guid>
+      <pubDate>Wed, 05 Aug 2026 09:00:00 +0800</pubDate>
+      <description>The EU AI Act went fully into force on August 2, bringing high-risk AI under regulation with fines up to 7% of global turnover. Meanwhile US states legislate on their own, creating a compliance patchwork. Andy and Julie break down the regulatory map, business impact, and the innovation-flight debate.</description>
+      <content:encoded><![CDATA[<p>The EU AI Act went fully into force on August 2, bringing high-risk AI under regulation with fines up to 7% of global turnover. Meanwhile US states legislate on their own, creating a compliance patchwork. Andy and Julie break down the regulatory map, business impact, and the innovation-flight debate.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP87_en.mp3" length="1918293" type="audio/mpeg"/>
+      <itunes:duration>161</itunes:duration>
+      <itunes:episode>87</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
