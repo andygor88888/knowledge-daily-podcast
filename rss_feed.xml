@@ -2674,5 +2674,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 85 (Chinese): 多瑙河乾涸浮出二戰沉船與猛獁象骨骼——歐洲乾旱為何成了「時間膠囊」開箱現場？ -->
+    <item>
+      <title>EP85: 多瑙河乾涸浮出二戰沉船與猛獁象骨骼——歐洲乾旱為何成了「時間膠囊」開箱現場？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep85-zh-2026-08-05</guid>
+      <pubDate>Wed, 05 Aug 2026 09:00:00 +0800</pubDate>
+      <description>多瑙河水位創歷史新低，二戰納粹沉船、飢餓石與猛獁象骨骼同時浮出水面。本集聊沉船的 1944 年歷史、飢餓石的警示，以及乾旱對歐洲能源與糧食運輸的衝擊。</description>
+      <content:encoded><![CDATA[<p>多瑙河水位創歷史新低，二戰納粹沉船、飢餓石與猛獁象骨骼同時浮出水面。本集聊沉船的 1944 年歷史、飢餓石的警示，以及乾旱對歐洲能源與糧食運輸的衝擊。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP85_zh.mp3" length="1696725" type="audio/mpeg"/>
+      <itunes:duration>155</itunes:duration>
+      <itunes:episode>85</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 85 (English): Danube Drought Reveals WWII Shipwrecks and Mammoth Bones — Europe's Drying Rivers -->
+    <item xml:lang="en">
+      <title>EP85: Danube Drought Reveals WWII Shipwrecks and Mammoth Bones — Europe's Drying Rivers</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep85-en-2026-08-05</guid>
+      <pubDate>Wed, 05 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Record-low Danube levels expose WWII Nazi wrecks, hunger stones, and mammoth bones. We cover the 1944 scuttling story and what the drought means for Europe's economy.</description>
+      <content:encoded><![CDATA[<p>Record-low Danube levels expose WWII Nazi wrecks, hunger stones, and mammoth bones. We cover the 1944 scuttling story and what the drought means for Europe's economy.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP85_en.mp3" length="1547157" type="audio/mpeg"/>
+      <itunes:duration>137</itunes:duration>
+      <itunes:episode>85</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
