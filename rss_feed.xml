@@ -2770,5 +2770,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 88 (Chinese): 麻疹確診者在環球影城待了一整天：疫苗時代為何疫情仍反覆？ -->
+    <item>
+      <title>EP88: 麻疹確診者在環球影城待了一整天：疫苗時代為何疫情仍反覆？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep88-zh-2026-08-06</guid>
+      <pubDate>Thu, 06 Aug 2026 09:00:00 +0800</pubDate>
+      <description>洛杉磯縣發布麻疹暴露警報：確診者在環球影城待了11小時。麻疹R0高達12-18、空氣傳播數小時；MMR兩劑97%保護力，社區需95%覆蓋率。出遊前檢查疫苗紀錄，6-11個月嬰兒可提前接種。</description>
+      <content:encoded><![CDATA[<p>洛杉磯縣發布麻疹暴露警報：確診者在環球影城待了11小時。麻疹R0高達12-18、空氣傳播數小時；MMR兩劑97%保護力，社區需95%覆蓋率。出遊前檢查疫苗紀錄，6-11個月嬰兒可提前接種。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP88_zh.mp3" length="1709373" type="audio/mpeg"/>
+      <itunes:duration>143</itunes:duration>
+      <itunes:episode>88</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 88 (English): Measles Patient Spent a Full Day at Universal Studios — Why Is Measles Back in the Vaccine Era? -->
+    <item xml:lang="en">
+      <title>EP88: Measles Patient Spent a Full Day at Universal Studios — Why Is Measles Back in the Vaccine Era?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep88-en-2026-08-06</guid>
+      <pubDate>Thu, 06 Aug 2026 09:00:00 +0800</pubDate>
+      <description>LA County issued a measles exposure alert after a confirmed case spent 11 hours at Universal Studios Hollywood. Measles has an R0 of 12-18 and spreads through the air; two MMR doses are 97% effective. Check your vaccine records before travel.</description>
+      <content:encoded><![CDATA[<p>LA County issued a measles exposure alert after a confirmed case spent 11 hours at Universal Studios Hollywood. Measles has an R0 of 12-18 and spreads through the air; two MMR doses are 97% effective. Check your vaccine records before travel.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP88_en.mp3" length="1679613" type="audio/mpeg"/>
+      <itunes:duration>138</itunes:duration>
+      <itunes:episode>88</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
