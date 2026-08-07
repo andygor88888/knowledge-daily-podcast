@@ -2802,5 +2802,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 89 (Chinese): 四大雲端巨頭一年豪擲 4,000 億美元：AI 資本支出是泡沫還是豪賭？ -->
+    <item>
+      <title>EP89: 四大雲端巨頭一年豪擲 4,000 億美元：AI 資本支出是泡沫還是豪賭？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep89-zh-2026-08-07</guid>
+      <pubDate>Fri, 07 Aug 2026 09:00:00 +0800</pubDate>
+      <description>四大雲端巨頭 2026 年合計資本支出超過 4,000 億美元。資本支出不等於營收：折舊、算力過剩與 AI 變現的三個先行指標，一次講清楚。</description>
+      <content:encoded><![CDATA[<p>四大雲端巨頭 2026 年合計資本支出超過 4,000 億美元。資本支出不等於營收：折舊、算力過剩與 AI 變現的三個先行指標，一次講清楚。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP89_zh.mp3" length="1378773" type="audio/mpeg"/>
+      <itunes:duration>124</itunes:duration>
+      <itunes:episode>89</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 89 (English): Big Tech Is Spending 00 Billion a Year on AI: Bubble or a Bet That Pays Off? -->
+    <item xml:lang="en">
+      <title>EP89: Big Tech Is Spending 00 Billion a Year on AI: Bubble or a Bet That Pays Off?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep89-en-2026-08-07</guid>
+      <pubDate>Fri, 07 Aug 2026 09:00:00 +0800</pubDate>
+      <description>The four hyperscalers plan over 00B in 2026 AI capex. Why capex is not revenue, the bubble vs monetization debate, and three leading indicators to watch.</description>
+      <content:encoded><![CDATA[<p>The four hyperscalers plan over 00B in 2026 AI capex. Why capex is not revenue, the bubble vs monetization debate, and three leading indicators to watch.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP89_en.mp3" length="1348317" type="audio/mpeg"/>
+      <itunes:duration>117</itunes:duration>
+      <itunes:episode>89</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
