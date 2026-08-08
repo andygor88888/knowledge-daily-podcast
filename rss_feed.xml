@@ -2834,5 +2834,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 90 (Chinese): EP90: SpaceX 與特斯拉聯手蓋「地表最大建築」：168 億美元的德州 Terafab 晶圓廠 -->
+    <item>
+      <title>EP90: EP90: SpaceX 與特斯拉聯手蓋「地表最大建築」：168 億美元的德州 Terafab 晶圓廠</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep90-zh-2026-08-09</guid>
+      <pubDate>Sun, 09 Aug 2026 09:00:00 +0800</pubDate>
+      <description>SpaceX 與特斯拉合資 168 億美元，在德州興建 AI 晶片廠 Terafab，面積超過一億平方英尺。目標每年生產超過一太瓦 AI 算力：25% 供 Optimus 機器人與 Cybercab，75% 供太空資料中心，還可能採用自由電子雷射光刻。</description>
+      <content:encoded><![CDATA[<p>SpaceX 與特斯拉合資 168 億美元，在德州興建 AI 晶片廠 Terafab，面積超過一億平方英尺。目標每年生產超過一太瓦 AI 算力：25% 供 Optimus 機器人與 Cybercab，75% 供太空資料中心，還可能採用自由電子雷射光刻。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP90_zh.mp3" length="1244277" type="audio/mpeg"/>
+      <itunes:duration>113</itunes:duration>
+      <itunes:episode>90</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 90 (English): EP90: SpaceX &amp; Tesla's 6.8B Terafab — The Largest Building on Earth -->
+    <item xml:lang="en">
+      <title>EP90: EP90: SpaceX &amp; Tesla's 6.8B Terafab — The Largest Building on Earth</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep90-en-2026-08-09</guid>
+      <pubDate>Sun, 09 Aug 2026 09:00:00 +0800</pubDate>
+      <description>SpaceX and Tesla are building Terafab, a $16.8B AI chip factory in Texas spanning over 100 million square feet. Target: more than 1 terawatt of AI compute per year — 25% for Optimus robots and Cybercabs, 75% for orbital data centers, possibly with free-electron-laser lithography.</description>
+      <content:encoded><![CDATA[<p>SpaceX and Tesla are building Terafab, a $16.8B AI chip factory in Texas spanning over 100 million square feet. Target: more than 1 terawatt of AI compute per year — 25% for Optimus robots and Cybercabs, 75% for orbital data centers, possibly with free-electron-laser lithography.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP90_en.mp3" length="1365693" type="audio/mpeg"/>
+      <itunes:duration>120</itunes:duration>
+      <itunes:episode>90</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
