@@ -2866,5 +2866,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 91 (Chinese): EP91: FDA 批准首款幼童鐮狀細胞基因療法：一次治療改寫孩子的一生？ -->
+    <item>
+      <title>EP91: EP91: FDA 批准首款幼童鐮狀細胞基因療法：一次治療改寫孩子的一生？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep91-zh-2026-08-09</guid>
+      <pubDate>Sun, 09 Aug 2026 09:30:00 +0800</pubDate>
+      <description>FDA 把鐮狀細胞基因療法 Casgevy 的年齡下探到兩歲以上。CRISPR 修復患者自己的造血幹細胞，不需捐贈者；器官傷害是累積性的，越早治療能避免的傷害越多。技術已到，價格與可及性是下一場戰爭。</description>
+      <content:encoded><![CDATA[<p>FDA 把鐮狀細胞基因療法 Casgevy 的年齡下探到兩歲以上。CRISPR 修復患者自己的造血幹細胞，不需捐贈者；器官傷害是累積性的，越早治療能避免的傷害越多。技術已到，價格與可及性是下一場戰爭。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP91_zh.mp3" length="1373013" type="audio/mpeg"/>
+      <itunes:duration>104</itunes:duration>
+      <itunes:episode>91</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 91 (English): EP91: FDA Approves First Gene Therapy for Young Children with Sickle Cell Disease -->
+    <item xml:lang="en">
+      <title>EP91: EP91: FDA Approves First Gene Therapy for Young Children with Sickle Cell Disease</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep91-en-2026-08-09</guid>
+      <pubDate>Sun, 09 Aug 2026 09:30:00 +0800</pubDate>
+      <description>The FDA extended Casgevy gene therapy to children as young as 2 with sickle cell disease. CRISPR repairs the patient's own stem cells — no donor needed. Since organ damage is cumulative, earlier treatment means less harm. The next battle: price and access.</description>
+      <content:encoded><![CDATA[<p>The FDA extended Casgevy gene therapy to children as young as 2 with sickle cell disease. CRISPR repairs the patient's own stem cells — no donor needed. Since organ damage is cumulative, earlier treatment means less harm. The next battle: price and access.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP91_en.mp3" length="1309461" type="audio/mpeg"/>
+      <itunes:duration>102</itunes:duration>
+      <itunes:episode>91</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
