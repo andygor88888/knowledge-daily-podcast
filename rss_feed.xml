@@ -2898,5 +2898,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 92 (Chinese): 歐盟 AI 法進入執法期：罰款即刻開跑、高風險義務延到 2027？AI Omnibus 葫蘆裡賣什麼藥？ -->
+    <item>
+      <title>EP92: 歐盟 AI 法進入執法期：罰款即刻開跑、高風險義務延到 2027？AI Omnibus 葫蘆裡賣什麼藥？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep92-zh-2026-08-09</guid>
+      <pubDate>Sun, 09 Aug 2026 09:00:00 +0800</pubDate>
+      <description>歐盟 AI 法 8 月 2 日正式執法：Article 50 透明度義務即刻生效、罰款開跑，AI Omnibus 卻把高風險 AI 合規延到 2027 年 12 月——16 個月窗口期企業該做什麼？</description>
+      <content:encoded><![CDATA[<p>歐盟 AI 法 8 月 2 日正式執法：Article 50 透明度義務即刻生效、罰款開跑，AI Omnibus 卻把高風險 AI 合規延到 2027 年 12 月——16 個月窗口期企業該做什麼？</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP92_zh.mp3" length="2096325" type="audio/mpeg"/>
+      <itunes:duration>170</itunes:duration>
+      <itunes:episode>92</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 92 (English): EU AI Act Enters Enforcement Phase: Fines Live, High-Risk Rules Pushed to 2027? -->
+    <item xml:lang="en">
+      <title>EP92: EU AI Act Enters Enforcement Phase: Fines Live, High-Risk Rules Pushed to 2027?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep92-en-2026-08-09</guid>
+      <pubDate>Sun, 09 Aug 2026 09:00:00 +0800</pubDate>
+      <description>The EU AI Act entered enforcement on Aug 2: Article 50 transparency rules are live and finable, while the AI Omnibus pushed high-risk AI compliance to Dec 2027 — what companies should do in this 16-month window.</description>
+      <content:encoded><![CDATA[<p>The EU AI Act entered enforcement on Aug 2: Article 50 transparency rules are live and finable, while the AI Omnibus pushed high-risk AI compliance to Dec 2027 — what companies should do in this 16-month window.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP92_en.mp3" length="2178141" type="audio/mpeg"/>
+      <itunes:duration>181</itunes:duration>
+      <itunes:episode>92</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
