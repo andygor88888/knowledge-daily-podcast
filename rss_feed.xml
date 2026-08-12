@@ -2930,5 +2930,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 93 (Chinese): 英仙座流星雨今晚極大期：零月光干擾，每小時百顆流星 -->
+    <item>
+      <title>EP93: 英仙座流星雨今晚極大期：零月光干擾，每小時百顆流星</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep93-zh-2026-08-12</guid>
+      <pubDate>Wed, 12 Aug 2026 09:00:00 +0800</pubDate>
+      <description>2026 英仙座流星雨極大期 8/12 深夜至 8/13 凌晨，ZHR 上看每小時 100 顆；新月幾乎零月光干擾，是近年最佳觀測年。Andy 與 Julie 聊聊流星雨成因、ZHR 解讀與觀測指南。</description>
+      <content:encoded><![CDATA[<p>2026 英仙座流星雨極大期 8/12 深夜至 8/13 凌晨，ZHR 上看每小時 100 顆；新月幾乎零月光干擾，是近年最佳觀測年。Andy 與 Julie 聊聊流星雨成因、ZHR 解讀與觀測指南。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP93_zh.mp3" length="2592357" type="audio/mpeg"/>
+      <itunes:duration>212</itunes:duration>
+      <itunes:episode>93</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 93 (English): Perseid Meteor Shower Peaks Tonight: 100 Meteors an Hour Under a Moonless Sky -->
+    <item xml:lang="en">
+      <title>EP93: Perseid Meteor Shower Peaks Tonight: 100 Meteors an Hour Under a Moonless Sky</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep93-en-2026-08-12</guid>
+      <pubDate>Wed, 12 Aug 2026 09:00:00 +0800</pubDate>
+      <description>The 2026 Perseid meteor shower peaks on the night of Aug 12 into Aug 13, with a ZHR of up to 100 meteors per hour and a near-new moon for almost zero moonlight interference. Andy and Julie break down the shower's origin, how to read the ZHR, and viewing tips.</description>
+      <content:encoded><![CDATA[<p>The 2026 Perseid meteor shower peaks on the night of Aug 12 into Aug 13, with a ZHR of up to 100 meteors per hour and a near-new moon for almost zero moonlight interference. Andy and Julie break down the shower's origin, how to read the ZHR, and viewing tips.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP93_en.mp3" length="2581869" type="audio/mpeg"/>
+      <itunes:duration>212</itunes:duration>
+      <itunes:episode>93</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
