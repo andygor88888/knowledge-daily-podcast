@@ -2962,5 +2962,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 94 (Chinese): 麥當勞蝦堡開賣一天就下架：0.7 ppb 的硝基呋喃殘留，為什麼讓兩地市場同時緊張？ -->
+    <item>
+      <title>EP94: 麥當勞蝦堡開賣一天就下架：0.7 ppb 的硝基呋喃殘留，為什麼讓兩地市場同時緊張？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep94-zh-2026-08-13</guid>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 +0800</pubDate>
+      <description>台灣麥當勞「海味揚蝦堡」開賣一天即因蝦排檢出硝基呋喃代謝物 0.7 ppb 全面停售，香港同步預防性下架。本集拆解禁用獸藥的科學邏輯、跨國供應鏈食安標準落差與消費者自保守則。</description>
+      <content:encoded><![CDATA[<p>台灣麥當勞「海味揚蝦堡」開賣一天即因蝦排檢出硝基呋喃代謝物 0.7 ppb 全面停售，香港同步預防性下架。本集拆解禁用獸藥的科學邏輯、跨國供應鏈食安標準落差與消費者自保守則。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP94_zh.mp3" length="1541949" type="audio/mpeg"/>
+      <itunes:duration>122</itunes:duration>
+      <itunes:episode>94</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 94 (English): McDonald's Pulled Its Shrimp Burgers One Day After Launch: Why 0.7 ppb of Nitrofuran Residue Shook Two Markets -->
+    <item xml:lang="en">
+      <title>EP94: McDonald's Pulled Its Shrimp Burgers One Day After Launch: Why 0.7 ppb of Nitrofuran Residue Shook Two Markets</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep94-en-2026-08-13</guid>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 +0800</pubDate>
+      <description>McDonald's Taiwan pulled its Sea Flavor Shrimp Cutlet Burgers one day after launch over 0.7 ppb nitrofuran metabolites in imported shrimp cutlets; Hong Kong followed with a precautionary suspension. We break down the science of banned veterinary drugs, supply-chain safety gaps, and what consumers should do.</description>
+      <content:encoded><![CDATA[<p>McDonald's Taiwan pulled its Sea Flavor Shrimp Cutlet Burgers one day after launch over 0.7 ppb nitrofuran metabolites in imported shrimp cutlets; Hong Kong followed with a precautionary suspension. We break down the science of banned veterinary drugs, supply-chain safety gaps, and what consumers should do.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP94_en.mp3" length="1559421" type="audio/mpeg"/>
+      <itunes:duration>123</itunes:duration>
+      <itunes:episode>94</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
