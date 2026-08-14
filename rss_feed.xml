@@ -2994,5 +2994,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 95 (Chinese): EP95: QLC 快閃記憶體翻身？SanDisk 攜手 Kioxia 發表 AI 專用第 9 代 QLC，AI 記憶體迎來 940 億美元重定價 -->
+    <item>
+      <title>EP95: EP95: QLC 快閃記憶體翻身？SanDisk 攜手 Kioxia 發表 AI 專用第 9 代 QLC，AI 記憶體迎來 940 億美元重定價</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep95-zh-2026-08-14</guid>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 +0800</pubDate>
+      <description>SanDisk 股價單日大漲 5.73%，導火線是與 Kioxia 聯合發布第 9 代 2Tb QLC 3D 快閃記憶體。QLC 從「慢速便宜貨」翻身成為 AI 儲存新寵，HBF 架構更以 HBM 8 到 16 倍的容量向 HBM 霸主地位發起挑戰。這集聊聊 940 億美元 AI 記憶體重定價背後：CBA 架構、GPU 記憶體稅、KV cache 到 2030 年占 NAND 工作負載 35% 的預測。</description>
+      <content:encoded><![CDATA[<p>SanDisk 股價單日大漲 5.73%，導火線是與 Kioxia 聯合發布第 9 代 2Tb QLC 3D 快閃記憶體。QLC 從「慢速便宜貨」翻身成為 AI 儲存新寵，HBF 架構更以 HBM 8 到 16 倍的容量向 HBM 霸主地位發起挑戰。這集聊聊 940 億美元 AI 記憶體重定價背後：CBA 架構、GPU 記憶體稅、KV cache 到 2030 年占 NAND 工作負載 35% 的預測。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP95_zh.mp3" length="2350653" type="audio/mpeg"/>
+      <itunes:duration>178</itunes:duration>
+      <itunes:episode>95</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 95 (English): EP95: Can QLC Flash Memory Challenge HBM? SanDisk &amp; Kioxia's 9th-Gen QLC and the AI Memory Repricing -->
+    <item xml:lang="en">
+      <title>EP95: EP95: Can QLC Flash Memory Challenge HBM? SanDisk &amp; Kioxia's 9th-Gen QLC and the AI Memory Repricing</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep95-en-2026-08-14</guid>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 +0800</pubDate>
+      <description>SanDisk shares surged 5.73% after the company and Kioxia unveiled 9th-gen 2Tb QLC 3D flash for AI infrastructure. QLC, once dismissed as slow and cheap, is now at the center of a 4 billion AI memory repricing — and the new HBF architecture takes on HBM with 8-16x the capacity. We break down the CBA architecture, the GPU memory tax, and why KV cache could be 35% of AI NAND workloads by 2030.</description>
+      <content:encoded><![CDATA[<p>SanDisk shares surged 5.73% after the company and Kioxia unveiled 9th-gen 2Tb QLC 3D flash for AI infrastructure. QLC, once dismissed as slow and cheap, is now at the center of a 4 billion AI memory repricing — and the new HBF architecture takes on HBM with 8-16x the capacity. We break down the CBA architecture, the GPU memory tax, and why KV cache could be 35% of AI NAND workloads by 2030.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP95_en.mp3" length="2129925" type="audio/mpeg"/>
+      <itunes:duration>162</itunes:duration>
+      <itunes:episode>95</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
