@@ -3058,5 +3058,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 97 (Chinese): 近 3 萬磅阿根廷牛肉「漏檢」流入美國兩州：為何列最高風險召回？ -->
+    <item>
+      <title>EP97: 近 3 萬磅阿根廷牛肉「漏檢」流入美國兩州：為何列最高風險召回？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep97-zh-2026-08-15</guid>
+      <pubDate>Sat, 15 Aug 2026 09:00:00 +0800</pubDate>
+      <description>USDA 召回近 2.96 萬磅阿根廷進口生牛肉，原因不是驗出病菌，而是錯過進口複檢。未經檢驗的肉品安全狀態未知，官方列最高風險 Class I，德州與佛州消費者請核對批次。</description>
+      <content:encoded><![CDATA[<p>USDA 召回近 2.96 萬磅阿根廷進口生牛肉，原因不是驗出病菌，而是錯過進口複檢。未經檢驗的肉品安全狀態未知，官方列最高風險 Class I，德州與佛州消費者請核對批次。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP97_zh.mp3" length="1482933" type="audio/mpeg"/>
+      <itunes:duration>115</itunes:duration>
+      <itunes:episode>97</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 97 (English): 30,000 Pounds of Argentine Beef Recalled Over a Missed Inspection: Why Class I? -->
+    <item xml:lang="en">
+      <title>EP97: 30,000 Pounds of Argentine Beef Recalled Over a Missed Inspection: Why Class I?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep97-en-2026-08-15</guid>
+      <pubDate>Sat, 15 Aug 2026 09:00:00 +0800</pubDate>
+      <description>The USDA recalled nearly 30,000 lbs of Argentine raw beef not for a pathogen, but for a missed import reinspection. Unverified meat carries unknown risk, so it got the highest-risk Class I label.</description>
+      <content:encoded><![CDATA[<p>The USDA recalled nearly 30,000 lbs of Argentine raw beef not for a pathogen, but for a missed import reinspection. Unverified meat carries unknown risk, so it got the highest-risk Class I label.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP97_en.mp3" length="1374501" type="audio/mpeg"/>
+      <itunes:duration>107</itunes:duration>
+      <itunes:episode>97</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
