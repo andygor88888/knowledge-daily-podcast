@@ -3026,5 +3026,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 96 (Chinese): 磷化銦（InP）缺料風暴：AI 算力卡在「一束光」上？ -->
+    <item>
+      <title>EP96: 磷化銦（InP）缺料風暴：AI 算力卡在「一束光」上？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep96-zh-2026-08-15</guid>
+      <pubDate>Sat, 15 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Sivers 攜手 SemiNex 啟動 340 萬美元磷化銦光源計畫；Coherent 直言 InP 產能是首要限制。AI 光學瓶頸從模組組裝上移到光源與材料本身，供應鏈警告缺料恐比記憶體更嚴重。</description>
+      <content:encoded><![CDATA[<p>Sivers 攜手 SemiNex 啟動 340 萬美元磷化銦光源計畫；Coherent 直言 InP 產能是首要限制。AI 光學瓶頸從模組組裝上移到光源與材料本身，供應鏈警告缺料恐比記憶體更嚴重。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP96_zh.mp3" length="1673061" type="audio/mpeg"/>
+      <itunes:duration>138</itunes:duration>
+      <itunes:episode>96</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 96 (English): Indium Phosphide Shortage: Is AI Compute Stuck on a Beam of Light? -->
+    <item xml:lang="en">
+      <title>EP96: Indium Phosphide Shortage: Is AI Compute Stuck on a Beam of Light?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep96-en-2026-08-15</guid>
+      <pubDate>Sat, 15 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Sivers and SemiNex launch a .4M InP light-source program; Coherent says InP capacity is its primary constraint. The AI optics bottleneck is moving upstream to light sources and material.</description>
+      <content:encoded><![CDATA[<p>Sivers and SemiNex launch a .4M InP light-source program; Coherent says InP capacity is its primary constraint. The AI optics bottleneck is moving upstream to light sources and material.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP96_en.mp3" length="1613325" type="audio/mpeg"/>
+      <itunes:duration>133</itunes:duration>
+      <itunes:episode>96</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
