@@ -3122,5 +3122,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 99 (Chinese): NASA 為何要派「球形飛行機器人」探索土衛六泰坦的洞穴？ -->
+    <item>
+      <title>EP99: NASA 為何要派「球形飛行機器人」探索土衛六泰坦的洞穴？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep99-zh-2026-08-17</guid>
+      <pubDate>Mon, 17 Aug 2026 09:00:00 +0800</pubDate>
+      <description>NASA 資助一款名為 SPARK 的球形飛行機器人概念：用固態離子推進器飛進泰坦的洞穴。泰坦為何是尋找生命線索的熱門目標？SPARK 何時能實際發射？</description>
+      <content:encoded><![CDATA[<p>NASA 資助一款名為 SPARK 的球形飛行機器人概念：用固態離子推進器飛進泰坦的洞穴。泰坦為何是尋找生命線索的熱門目標？SPARK 何時能實際發射？</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP99_zh.mp3" length="1274589" type="audio/mpeg"/>
+      <itunes:duration>97</itunes:duration>
+      <itunes:episode>99</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 99 (English): Why Is NASA Sending Spherical &quot;Aerobots&quot; Into the Caves of Saturn's Moon Titan? -->
+    <item xml:lang="en">
+      <title>EP99: Why Is NASA Sending Spherical &quot;Aerobots&quot; Into the Caves of Saturn's Moon Titan?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep99-en-2026-08-17</guid>
+      <pubDate>Mon, 17 Aug 2026 09:00:00 +0800</pubDate>
+      <description>NASA has funded SPARK — spherical flying robots using solid-state ion thrusters to explore the caves of Titan. Why is Titan a top target in the search for life, and when could SPARK actually fly?</description>
+      <content:encoded><![CDATA[<p>NASA has funded SPARK — spherical flying robots using solid-state ion thrusters to explore the caves of Titan. Why is Titan a top target in the search for life, and when could SPARK actually fly?</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP99_en.mp3" length="1168341" type="audio/mpeg"/>
+      <itunes:duration>91</itunes:duration>
+      <itunes:episode>99</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
