@@ -3090,5 +3090,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 98 (Chinese): 德國退休金改革明年上路：各國退休制度為何集體「改規則」？ -->
+    <item>
+      <title>EP98: 德國退休金改革明年上路：各國退休制度為何集體「改規則」？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep98-zh-2026-08-17</guid>
+      <pubDate>Mon, 17 Aug 2026 09:00:00 +0800</pubDate>
+      <description>德國正從「隨收隨付」走向「資本市場退休」：2027 年起國家改補貼券商帳戶，私人退休資產十年內可望翻倍到 5000 億歐元。各國退休制度為何集體改規則？個人該如何提早準備？</description>
+      <content:encoded><![CDATA[<p>德國正從「隨收隨付」走向「資本市場退休」：2027 年起國家改補貼券商帳戶，私人退休資產十年內可望翻倍到 5000 億歐元。各國退休制度為何集體改規則？個人該如何提早準備？</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP98_zh.mp3" length="1364613" type="audio/mpeg"/>
+      <itunes:duration>114</itunes:duration>
+      <itunes:episode>98</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 98 (English): Germany's Pension Reform Arrives Next Year: Why Are Retirement Systems Worldwide Rewriting the Rules? -->
+    <item xml:lang="en">
+      <title>EP98: Germany's Pension Reform Arrives Next Year: Why Are Retirement Systems Worldwide Rewriting the Rules?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep98-en-2026-08-17</guid>
+      <pubDate>Mon, 17 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Germany is shifting from pay-as-you-go to capital-market retirement: from 2027 the state subsidizes brokerage accounts, and private pension assets could double to €500bn. Why are retirement systems worldwide rewriting the rules — and how should you prepare?</description>
+      <content:encoded><![CDATA[<p>Germany is shifting from pay-as-you-go to capital-market retirement: from 2027 the state subsidizes brokerage accounts, and private pension assets could double to €500bn. Why are retirement systems worldwide rewriting the rules — and how should you prepare?</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP98_en.mp3" length="1445157" type="audio/mpeg"/>
+      <itunes:duration>122</itunes:duration>
+      <itunes:episode>98</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
