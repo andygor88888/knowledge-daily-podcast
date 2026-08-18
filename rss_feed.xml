@@ -3154,5 +3154,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 100 (Chinese): 失控的 4 噸火箭殘骸撞上月球：人類第二次非故意撞擊的科學與法律課題 -->
+    <item>
+      <title>EP100: 失控的 4 噸火箭殘骸撞上月球：人類第二次非故意撞擊的科學與法律課題</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep100-zh-2026-08-18</guid>
+      <pubDate>Tue, 18 Aug 2026 09:00:00 +0800</pubDate>
+      <description>SpaceX Falcon 9 上節以時速 8700 公里撞上月球愛因斯坦環形山附近，能量相當 3 噸 TNT。天文學家視為免費月球地質實驗，但同時暴露《外太空條約》對失控殘骸的責任空白——人類第二次非故意撞月背後的科學與法律啟示。</description>
+      <content:encoded><![CDATA[<p>SpaceX Falcon 9 上節以時速 8700 公里撞上月球愛因斯坦環形山附近，能量相當 3 噸 TNT。天文學家視為免費月球地質實驗，但同時暴露《外太空條約》對失控殘骸的責任空白——人類第二次非故意撞月背後的科學與法律啟示。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP100_zh.mp3" length="1766085" type="audio/mpeg"/>
+      <itunes:duration>145</itunes:duration>
+      <itunes:episode>100</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 100 (English): A Runaway 4-Ton Rocket Stage Crashed Into the Moon: Science and Law -->
+    <item xml:lang="en">
+      <title>EP100: A Runaway 4-Ton Rocket Stage Crashed Into the Moon: Science and Law</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep100-en-2026-08-18</guid>
+      <pubDate>Tue, 18 Aug 2026 09:00:00 +0800</pubDate>
+      <description>A 4-ton SpaceX Falcon 9 upper stage hit the Moon near Einstein crater at 8,700 km/h, releasing energy equivalent to 3 tons of TNT. A free geology experiment for astronomers — and a legal wake-up call for space debris governance.</description>
+      <content:encoded><![CDATA[<p>A 4-ton SpaceX Falcon 9 upper stage hit the Moon near Einstein crater at 8,700 km/h, releasing energy equivalent to 3 tons of TNT. A free geology experiment for astronomers — and a legal wake-up call for space debris governance.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP100_en.mp3" length="1774917" type="audio/mpeg"/>
+      <itunes:duration>147</itunes:duration>
+      <itunes:episode>100</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
