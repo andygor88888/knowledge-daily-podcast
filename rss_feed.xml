@@ -3250,5 +3250,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 103 (Chinese): 阿爾卑斯「歐洲水塔」正在漏水？冰川消融與凍土解凍的雙重威脅 -->
+    <item>
+      <title>EP103: 阿爾卑斯「歐洲水塔」正在漏水？冰川消融與凍土解凍的雙重威脅</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep103-zh-2026-08-20</guid>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 +0800</pubDate>
+      <description>阿爾卑斯冰川作為歐洲主要河流的水源，消融加劇導致補水告急，凍土解凍更讓瑞士小鎮面臨落石威脅。本集解析冰川水塔的運作原理、融水峰值陷阱、以及各國的水資源調適政策。</description>
+      <content:encoded><![CDATA[<p>阿爾卑斯冰川作為歐洲主要河流的水源，消融加劇導致補水告急，凍土解凍更讓瑞士小鎮面臨落石威脅。本集解析冰川水塔的運作原理、融水峰值陷阱、以及各國的水資源調適政策。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP103_zh.mp3" length="1729557" type="audio/mpeg"/>
+      <itunes:duration>146</itunes:duration>
+      <itunes:episode>103</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 103 (English): Is Europe's &quot;Water Tower&quot; Leaking? The Twin Threats of Alpine Glacier Melt and Permafrost Thaw -->
+    <item xml:lang="en">
+      <title>EP103: Is Europe's &quot;Water Tower&quot; Leaking? The Twin Threats of Alpine Glacier Melt and Permafrost Thaw</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep103-en-2026-08-20</guid>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 +0800</pubDate>
+      <description>The Alps supply water to Europe's major rivers, but accelerating glacier melt is draining the &quot;water tower&quot; while permafrost thaw sends rockslides toward Swiss towns. We explain how the glacier reservoir works, the meltwater-peak trap, and how Alpine nations are adapting.</description>
+      <content:encoded><![CDATA[<p>The Alps supply water to Europe's major rivers, but accelerating glacier melt is draining the &quot;water tower&quot; while permafrost thaw sends rockslides toward Swiss towns. We explain how the glacier reservoir works, the meltwater-peak trap, and how Alpine nations are adapting.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP103_en.mp3" length="1780005" type="audio/mpeg"/>
+      <itunes:duration>149</itunes:duration>
+      <itunes:episode>103</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
