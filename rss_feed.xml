@@ -3186,5 +3186,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 101 (Chinese): 個人化 mRNA 癌症疫苗終於成功？Moderna × Merck 黑色素瘤疫苗 Phase 3 達標 -->
+    <item>
+      <title>EP101: 個人化 mRNA 癌症疫苗終於成功？Moderna × Merck 黑色素瘤疫苗 Phase 3 達標</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep101-zh-2026-08-20</guid>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Moderna 與 Merck 的個人化 mRNA 黑色素瘤疫苗在第三期試驗達成主要療效終點，顯著延緩高風險患者癌症復發，Moderna 股價暴漲逾九成。本集解析個人化疫苗如何運作、為何 Phase 3 是里程碑、以及上市時間與價格預期。</description>
+      <content:encoded><![CDATA[<p>Moderna 與 Merck 的個人化 mRNA 黑色素瘤疫苗在第三期試驗達成主要療效終點，顯著延緩高風險患者癌症復發，Moderna 股價暴漲逾九成。本集解析個人化疫苗如何運作、為何 Phase 3 是里程碑、以及上市時間與價格預期。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP101_zh.mp3" length="1361085" type="audio/mpeg"/>
+      <itunes:duration>123</itunes:duration>
+      <itunes:episode>101</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 101 (English): Personalized mRNA Cancer Vaccine Finally Works? Moderna × Merck Melanoma Vaccine Hits Phase 3 Goal -->
+    <item xml:lang="en">
+      <title>EP101: Personalized mRNA Cancer Vaccine Finally Works? Moderna × Merck Melanoma Vaccine Hits Phase 3 Goal</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep101-en-2026-08-20</guid>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Moderna and Merck's personalized mRNA melanoma vaccine hit its Phase 3 primary endpoint, sharply delaying recurrence in high-risk patients — Moderna shares surged over 90%. We break down how personalized vaccines work, why Phase 3 is a milestone, and launch timing and pricing expectations.</description>
+      <content:encoded><![CDATA[<p>Moderna and Merck's personalized mRNA melanoma vaccine hit its Phase 3 primary endpoint, sharply delaying recurrence in high-risk patients — Moderna shares surged over 90%. We break down how personalized vaccines work, why Phase 3 is a milestone, and launch timing and pricing expectations.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP101_en.mp3" length="1444605" type="audio/mpeg"/>
+      <itunes:duration>126</itunes:duration>
+      <itunes:episode>101</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
