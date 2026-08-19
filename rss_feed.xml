@@ -3218,5 +3218,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 102 (Chinese): Binance 下架六個代幣保證金交易對：AUCTION、BEAMX 被砍，新幣熱潮卻再起 -->
+    <item>
+      <title>EP102: Binance 下架六個代幣保證金交易對：AUCTION、BEAMX 被砍，新幣熱潮卻再起</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep102-zh-2026-08-20</guid>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Binance 8 月 21 日起下架 AUCTION、BEAMX 等六個代幣的保證金交易對，同時新幣上市熱潮持續。本集解析代幣下架標準、對保證金持有者的衝擊、以及交易者如何管理被下架風險。</description>
+      <content:encoded><![CDATA[<p>Binance 8 月 21 日起下架 AUCTION、BEAMX 等六個代幣的保證金交易對，同時新幣上市熱潮持續。本集解析代幣下架標準、對保證金持有者的衝擊、以及交易者如何管理被下架風險。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP102_zh.mp3" length="1323837" type="audio/mpeg"/>
+      <itunes:duration>111</itunes:duration>
+      <itunes:episode>102</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 102 (English): Binance Delists Margin Pairs for Six Tokens: AUCTION, BEAMX Cut While New Listing Frenzy Continues -->
+    <item xml:lang="en">
+      <title>EP102: Binance Delists Margin Pairs for Six Tokens: AUCTION, BEAMX Cut While New Listing Frenzy Continues</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep102-en-2026-08-20</guid>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 +0800</pubDate>
+      <description>From August 21, Binance removes margin pairs for six tokens including AUCTION and BEAMX, while the new-listing frenzy continues. We explain delisting criteria, the impact on margin holders, and how traders can manage delisting risk.</description>
+      <content:encoded><![CDATA[<p>From August 21, Binance removes margin pairs for six tokens including AUCTION and BEAMX, while the new-listing frenzy continues. We explain delisting criteria, the impact on margin holders, and how traders can manage delisting risk.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP102_en.mp3" length="1321005" type="audio/mpeg"/>
+      <itunes:duration>111</itunes:duration>
+      <itunes:episode>102</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
