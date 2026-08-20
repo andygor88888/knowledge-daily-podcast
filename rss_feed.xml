@@ -3282,5 +3282,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 104 (Chinese): 台積電再砸 1,000 億美元加碼亞利桑那、資本支出上修至 850 億美元——晶圓代工的 AI 盛世能持續多久？ -->
+    <item>
+      <title>EP104: 台積電再砸 1,000 億美元加碼亞利桑那、資本支出上修至 850 億美元——晶圓代工的 AI 盛世能持續多久？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep104-zh-2026-08-20</guid>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 +0800</pubDate>
+      <description>台積電 Q2 淨利年增 77% 但股價跌逾 4%：1,000 億美元亞利桑那追加投資、850 億美元資本支出、1.6nm A16 量產時程、Samsung 漲價 15% 與三強賽局一次講清楚。</description>
+      <content:encoded><![CDATA[<p>台積電 Q2 淨利年增 77% 但股價跌逾 4%：1,000 億美元亞利桑那追加投資、850 億美元資本支出、1.6nm A16 量產時程、Samsung 漲價 15% 與三強賽局一次講清楚。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP104_zh.mp3" length="1841589" type="audio/mpeg"/>
+      <itunes:duration>140</itunes:duration>
+      <itunes:episode>104</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 104 (English): TSMC Adds $100B to Arizona, Raises 2026 CapEx to $85B — How Long Can the Foundry AI Boom Last? -->
+    <item xml:lang="en">
+      <title>EP104: TSMC Adds $100B to Arizona, Raises 2026 CapEx to $85B — How Long Can the Foundry AI Boom Last?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep104-en-2026-08-20</guid>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 +0800</pubDate>
+      <description>TSMC Q2 net profit up 77% yet the stock fell 4%: the $100B Arizona add-on, $85B CapEx guidance, 1.6nm A16 timeline, Samsung's 15% price hike, and the foundry three-way race.</description>
+      <content:encoded><![CDATA[<p>TSMC Q2 net profit up 77% yet the stock fell 4%: the $100B Arizona add-on, $85B CapEx guidance, 1.6nm A16 timeline, Samsung's 15% price hike, and the foundry three-way race.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP104_en.mp3" length="1909749" type="audio/mpeg"/>
+      <itunes:duration>146</itunes:duration>
+      <itunes:episode>104</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
