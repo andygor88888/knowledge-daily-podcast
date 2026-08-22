@@ -3378,5 +3378,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 107 (Chinese): 「Make America Wealthy Again」稅改要來了？美國擬擴大房屋資本利得稅減免，全球房市會受什麼影響？ -->
+    <item>
+      <title>EP107: 「Make America Wealthy Again」稅改要來了？美國擬擴大房屋資本利得稅減免，全球房市會受什麼影響？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep107-zh-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 09:00:00 +0800</pubDate>
+      <description>美國傳出研議將自住房資本利得稅免稅額從 50 萬美元大幅擴張（傳聞最高至 200 萬美元），一旦成真將直接影響全球最大住宅市場之一。聊聊政策機制、房市連鎖效應與歷史案例。</description>
+      <content:encoded><![CDATA[<p>美國傳出研議將自住房資本利得稅免稅額從 50 萬美元大幅擴張（傳聞最高至 200 萬美元），一旦成真將直接影響全球最大住宅市場之一。聊聊政策機制、房市連鎖效應與歷史案例。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP107_zh.mp3" length="1693125" type="audio/mpeg"/>
+      <itunes:duration>140</itunes:duration>
+      <itunes:episode>107</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 107 (English): 'Make America Wealthy Again' Tax Plan: Could the US Expand the Home Sale Capital Gains Exemption? -->
+    <item xml:lang="en">
+      <title>EP107: 'Make America Wealthy Again' Tax Plan: Could the US Expand the Home Sale Capital Gains Exemption?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep107-en-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 09:00:00 +0800</pubDate>
+      <description>US officials are reportedly weighing a major expansion of the home-sale capital gains exclusion — rumored up to  million. How the rule works today, housing ripple effects, and the 1997 precedent.</description>
+      <content:encoded><![CDATA[<p>US officials are reportedly weighing a major expansion of the home-sale capital gains exclusion — rumored up to  million. How the rule works today, housing ripple effects, and the 1997 precedent.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP107_en.mp3" length="1559661" type="audio/mpeg"/>
+      <itunes:duration>131</itunes:duration>
+      <itunes:episode>107</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
