@@ -3410,5 +3410,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 108 (Chinese): 你的 AI 在想什麼，其他 AI 看得見？研究發現 API 漏洞讓「較弱」模型能解碼「較強」模型的推理過程 -->
+    <item>
+      <title>EP108: 你的 AI 在想什麼，其他 AI 看得見？研究發現 API 漏洞讓「較弱」模型能解碼「較強」模型的推理過程</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep108-zh-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 09:00:00 +0800</pubDate>
+      <description>研究團隊在 OpenAI、Anthropic、Google 的 API 中發現漏洞：較弱模型可透過特定手法解碼較強模型的內部推理鏈，打破「能力分層」的安全假設。聊聊漏洞原理、風險與防禦方向。</description>
+      <content:encoded><![CDATA[<p>研究團隊在 OpenAI、Anthropic、Google 的 API 中發現漏洞：較弱模型可透過特定手法解碼較強模型的內部推理鏈，打破「能力分層」的安全假設。聊聊漏洞原理、風險與防禦方向。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP108_zh.mp3" length="2198709" type="audio/mpeg"/>
+      <itunes:duration>171</itunes:duration>
+      <itunes:episode>108</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 108 (English): Can a Weaker AI Read a Stronger AI's Mind? API Flaw Lets Models Decode Each Other's Reasoning -->
+    <item xml:lang="en">
+      <title>EP108: Can a Weaker AI Read a Stronger AI's Mind? API Flaw Lets Models Decode Each Other's Reasoning</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep108-en-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Researchers found a vulnerability across OpenAI, Anthropic, and Google APIs letting weaker models decode stronger models' chain-of-thought — breaking capability tiering. The flaw, the risk, and defense.</description>
+      <content:encoded><![CDATA[<p>Researchers found a vulnerability across OpenAI, Anthropic, and Google APIs letting weaker models decode stronger models' chain-of-thought — breaking capability tiering. The flaw, the risk, and defense.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP108_en.mp3" length="2059989" type="audio/mpeg"/>
+      <itunes:duration>164</itunes:duration>
+      <itunes:episode>108</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
