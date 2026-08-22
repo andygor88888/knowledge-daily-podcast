@@ -3346,5 +3346,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 106 (Chinese): 一生幾乎都在飛行——雨燕為何能連續 10 個月不落地？ -->
+    <item>
+      <title>EP106: 一生幾乎都在飛行——雨燕為何能連續 10 個月不落地？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep106-zh-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 09:00:00 +0800</pubDate>
+      <description>瑞典研究實證雨燕可連續飛行十個月不落地：空中進食、飲水、交配、睡眠，把天空當作家。</description>
+      <content:encoded><![CDATA[<p>瑞典研究實證雨燕可連續飛行十個月不落地：空中進食、飲水、交配、睡眠，把天空當作家。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP106_zh.mp3" length="1911909" type="audio/mpeg"/>
+      <itunes:duration>152</itunes:duration>
+      <itunes:episode>106</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 106 (English): The Bird That Never Lands: Swifts Fly 10 Months Straight -->
+    <item xml:lang="en">
+      <title>EP106: The Bird That Never Lands: Swifts Fly 10 Months Straight</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep106-en-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Lund University proved common swifts fly up to 10 months without landing — eating, drinking, mating, and sleeping on the wing.</description>
+      <content:encoded><![CDATA[<p>Lund University proved common swifts fly up to 10 months without landing — eating, drinking, mating, and sleeping on the wing.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP106_en.mp3" length="1711221" type="audio/mpeg"/>
+      <itunes:duration>134</itunes:duration>
+      <itunes:episode>106</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
