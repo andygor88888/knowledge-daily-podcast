@@ -3314,5 +3314,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 105 (Chinese): 智慧戒指的睡眠分數真的準嗎？Oura 集體訴訟揭開穿戴裝置數據真相 -->
+    <item>
+      <title>EP105: 智慧戒指的睡眠分數真的準嗎？Oura 集體訴訟揭開穿戴裝置數據真相</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep105-zh-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Oura 遭集體訴訟：穿戴裝置的睡眠數據是間接推算的估計值，不是醫療診斷。學會正確解讀你的睡眠分數。</description>
+      <content:encoded><![CDATA[<p>Oura 遭集體訴訟：穿戴裝置的睡眠數據是間接推算的估計值，不是醫療診斷。學會正確解讀你的睡眠分數。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP105_zh.mp3" length="1576029" type="audio/mpeg"/>
+      <itunes:duration>143</itunes:duration>
+      <itunes:episode>105</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 105 (English): Can a Smart Ring Really Track Your Sleep? The Oura Lawsuit -->
+    <item xml:lang="en">
+      <title>EP105: Can a Smart Ring Really Track Your Sleep? The Oura Lawsuit</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep105-en-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Oura faces a class action over sleep-tracking accuracy. Why wearables estimate sleep stages — and how to read your sleep score correctly.</description>
+      <content:encoded><![CDATA[<p>Oura faces a class action over sleep-tracking accuracy. Why wearables estimate sleep stages — and how to read your sleep score correctly.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP105_en.mp3" length="1654173" type="audio/mpeg"/>
+      <itunes:duration>146</itunes:duration>
+      <itunes:episode>105</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
