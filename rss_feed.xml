@@ -3474,5 +3474,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 110 (Chinese): EP110：內華達州 Hawk 野火燒進 Reno 市郊——九萬人撤離，美國野火季為何一年比一年嚴重？ -->
+    <item>
+      <title>EP110: EP110：內華達州 Hawk 野火燒進 Reno 市郊——九萬人撤離，美國野火季為何一年比一年嚴重？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep110-zh-2026-08-24</guid>
+      <pubDate>Mon, 24 Aug 2026 09:00:00 +0800</pubDate>
+      <description>一場人為引發、逼近四十萬人口城市的野火，把九萬人腳下的現實燒出來。Andy 與 Julie 聊荒野城市交界帶的危險、2026 破紀錄野火季的成因，以及收到撤離令時該帶走什麼。</description>
+      <content:encoded><![CDATA[<p>一場人為引發、逼近四十萬人口城市的野火，把九萬人腳下的現實燒出來。Andy 與 Julie 聊荒野城市交界帶的危險、2026 破紀錄野火季的成因，以及收到撤離令時該帶走什麼。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP110_zh.mp3" length="2708853" type="audio/mpeg"/>
+      <itunes:duration>230</itunes:duration>
+      <itunes:episode>110</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 110 (English): EP110 (English): Nevada's Hawk Fire Reaches Reno's Suburbs — 90,000 Under Evacuation Orders -->
+    <item xml:lang="en">
+      <title>EP110: EP110 (English): Nevada's Hawk Fire Reaches Reno's Suburbs — 90,000 Under Evacuation Orders</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep110-en-2026-08-24</guid>
+      <pubDate>Mon, 24 Aug 2026 09:00:00 +0800</pubDate>
+      <description>A human-caused wildfire racing toward a city of 400,000 turned climate change into reality for 90,000 people. Andy and Julie break down the WUI danger zone, the record 2026 fire season, and what to pack when evacuation orders hit.</description>
+      <content:encoded><![CDATA[<p>A human-caused wildfire racing toward a city of 400,000 turned climate change into reality for 90,000 people. Andy and Julie break down the WUI danger zone, the record 2026 fire season, and what to pack when evacuation orders hit.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP110_en.mp3" length="2806101" type="audio/mpeg"/>
+      <itunes:duration>237</itunes:duration>
+      <itunes:episode>110</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
