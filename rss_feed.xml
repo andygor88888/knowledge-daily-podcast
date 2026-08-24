@@ -3506,5 +3506,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 111 (Chinese): EP111：長鑫存儲 CXMT 九十億美元 IPO——DRAM 三巨頭的噩夢還是轉機？ -->
+    <item>
+      <title>EP111: EP111：長鑫存儲 CXMT 九十億美元 IPO——DRAM 三巨頭的噩夢還是轉機？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep111-zh-2026-08-24</guid>
+      <pubDate>Mon, 24 Aug 2026 09:00:00 +0800</pubDate>
+      <description>中國最大 DRAM 廠 CXMT 上市首日狂飆百分之四百六十五，市值一度逼近五千億美元。Andy 與 Julie 聊「三強變四強」的賽局變化、高盛對 CXMT 的供給預測，以及記憶體投資人該怎麼看。</description>
+      <content:encoded><![CDATA[<p>中國最大 DRAM 廠 CXMT 上市首日狂飆百分之四百六十五，市值一度逼近五千億美元。Andy 與 Julie 聊「三強變四強」的賽局變化、高盛對 CXMT 的供給預測，以及記憶體投資人該怎麼看。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP111_zh.mp3" length="2660109" type="audio/mpeg"/>
+      <itunes:duration>216</itunes:duration>
+      <itunes:episode>111</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 111 (English): EP111 (English): CXMT's B IPO — Nightmare or Turning Point for the DRAM Giants? -->
+    <item xml:lang="en">
+      <title>EP111: EP111 (English): CXMT's B IPO — Nightmare or Turning Point for the DRAM Giants?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep111-en-2026-08-24</guid>
+      <pubDate>Mon, 24 Aug 2026 09:00:00 +0800</pubDate>
+      <description>China's flagship DRAM maker CXMT surged 465% on debut, briefly pushing its market cap toward 00B. Andy and Julie discuss the Big-Three-becomes-Big-Four shift, Goldman's supply forecasts, and what memory investors should watch.</description>
+      <content:encoded><![CDATA[<p>China's flagship DRAM maker CXMT surged 465% on debut, briefly pushing its market cap toward 00B. Andy and Julie discuss the Big-Three-becomes-Big-Four shift, Goldman's supply forecasts, and what memory investors should watch.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP111_en.mp3" length="2791005" type="audio/mpeg"/>
+      <itunes:duration>228</itunes:duration>
+      <itunes:episode>111</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
