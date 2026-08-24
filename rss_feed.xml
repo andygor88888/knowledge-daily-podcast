@@ -3442,5 +3442,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 109 (Chinese): 減重一定要掉肌肉嗎？UC Berkeley 新化合物既能燃脂又能保肌 -->
+    <item>
+      <title>EP109: 減重一定要掉肌肉嗎？UC Berkeley 新化合物既能燃脂又能保肌</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep109-zh-2026-08-24</guid>
+      <pubDate>Mon, 24 Aug 2026 09:00:00 +0800</pubDate>
+      <description>GLP-1 減重藥雖然有效，卻常伴隨肌肉流失的隱憂。UC Berkeley 團隊在《Science Advances》發表研究：實驗性化合物 TOFA 能讓細胞多燃燒約 18% 能量，肥胖小鼠減脂不減肌，與 GLP-1 聯用效果更好——下一代減重藥的競賽，已從「減多少公斤」進化到「減的是脂肪還是肌肉」。</description>
+      <content:encoded><![CDATA[<p>GLP-1 減重藥雖然有效，卻常伴隨肌肉流失的隱憂。UC Berkeley 團隊在《Science Advances》發表研究：實驗性化合物 TOFA 能讓細胞多燃燒約 18% 能量，肥胖小鼠減脂不減肌，與 GLP-1 聯用效果更好——下一代減重藥的競賽，已從「減多少公斤」進化到「減的是脂肪還是肌肉」。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP109_zh.mp3" length="1661781" type="audio/mpeg"/>
+      <itunes:duration>129</itunes:duration>
+      <itunes:episode>109</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 109 (English): Can You Lose Weight Without Losing Muscle? UC Berkeley's New Compound Burns Fat While Keeping Muscle -->
+    <item xml:lang="en">
+      <title>EP109: Can You Lose Weight Without Losing Muscle? UC Berkeley's New Compound Burns Fat While Keeping Muscle</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep109-en-2026-08-24</guid>
+      <pubDate>Mon, 24 Aug 2026 09:00:00 +0800</pubDate>
+      <description>GLP-1 drugs are effective but often come with muscle loss. UC Berkeley researchers report in Science Advances that the experimental compound TOFA makes cells burn up to 18% more energy, helping obese mice shed fat without losing lean muscle — and it works additively with GLP-1s. The next race in weight-loss medicine: fat loss vs muscle loss.</description>
+      <content:encoded><![CDATA[<p>GLP-1 drugs are effective but often come with muscle loss. UC Berkeley researchers report in Science Advances that the experimental compound TOFA makes cells burn up to 18% more energy, helping obese mice shed fat without losing lean muscle — and it works additively with GLP-1s. The next race in weight-loss medicine: fat loss vs muscle loss.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP109_en.mp3" length="1524957" type="audio/mpeg"/>
+      <itunes:duration>121</itunes:duration>
+      <itunes:episode>109</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
