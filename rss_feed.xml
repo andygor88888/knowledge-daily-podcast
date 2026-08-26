@@ -3570,5 +3570,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 113 (Chinese): 矽光子引爆光通訊漲停潮：磷化銦是 AI 的下一個稀土嗎？ -->
+    <item>
+      <title>EP113: 矽光子引爆光通訊漲停潮：磷化銦是 AI 的下一個稀土嗎？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep113-zh-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 09:30:00 +0800</pubDate>
+      <description>矽光子1至2年內成主流，InP雷射光源供應緊俏，光通訊產業鏈戰略卡位戰開打。</description>
+      <content:encoded><![CDATA[<p>矽光子1至2年內成主流，InP雷射光源供應緊俏，光通訊產業鏈戰略卡位戰開打。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP113_zh.mp3" length="1754037" type="audio/mpeg"/>
+      <itunes:duration>159</itunes:duration>
+      <itunes:episode>113</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 113 (English): Silicon Photonics Sparks an Optical Rally: Is InP the Next Rare Earth for AI? -->
+    <item xml:lang="en">
+      <title>EP113: Silicon Photonics Sparks an Optical Rally: Is InP the Next Rare Earth for AI?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep113-en-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 09:30:00 +0800</pubDate>
+      <description>Silicon photonics goes mainstream while InP laser supply stays tight — a materials-layer land grab.</description>
+      <content:encoded><![CDATA[<p>Silicon photonics goes mainstream while InP laser supply stays tight — a materials-layer land grab.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP113_en.mp3" length="1990317" type="audio/mpeg"/>
+      <itunes:duration>175</itunes:duration>
+      <itunes:episode>113</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
