@@ -3538,5 +3538,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 112 (Chinese): 日本長期利率逼近 3%：全球便宜資金時代要結束了嗎？ -->
+    <item>
+      <title>EP112: 日本長期利率逼近 3%：全球便宜資金時代要結束了嗎？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep112-zh-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 09:00:00 +0800</pubDate>
+      <description>日本10年期公債殖利率升破2.95%，30年與40年期創歷史新高，全球低利率補貼正在退場。</description>
+      <content:encoded><![CDATA[<p>日本10年期公債殖利率升破2.95%，30年與40年期創歷史新高，全球低利率補貼正在退場。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP112_zh.mp3" length="1756149" type="audio/mpeg"/>
+      <itunes:duration>159</itunes:duration>
+      <itunes:episode>112</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 112 (English): Japan's 10-Year Yield Nears 3%: Is the Era of Global Cheap Money Over? -->
+    <item xml:lang="en">
+      <title>EP112: Japan's 10-Year Yield Nears 3%: Is the Era of Global Cheap Money Over?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep112-en-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Japan's JGB yields hit multi-decade highs as fiscal stress and policy normalization reshape global capital flows.</description>
+      <content:encoded><![CDATA[<p>Japan's JGB yields hit multi-decade highs as fiscal stress and policy normalization reshape global capital flows.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP112_en.mp3" length="1837725" type="audio/mpeg"/>
+      <itunes:duration>162</itunes:duration>
+      <itunes:episode>112</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
