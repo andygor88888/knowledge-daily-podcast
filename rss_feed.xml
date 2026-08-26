@@ -3602,5 +3602,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 114 (Chinese): 越南38度、泰國豪雨滅村：亞洲為何同時陷入熱與水的雙重極端？ -->
+    <item>
+      <title>EP114: 越南38度、泰國豪雨滅村：亞洲為何同時陷入熱與水的雙重極端？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep114-zh-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 +0800</pubDate>
+      <description>海溫創紀錄加上聖嬰發威，極端高溫與極端降雨是同一套失調季風系統的兩面。</description>
+      <content:encoded><![CDATA[<p>海溫創紀錄加上聖嬰發威，極端高溫與極端降雨是同一套失調季風系統的兩面。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP114_zh.mp3" length="2185005" type="audio/mpeg"/>
+      <itunes:duration>170</itunes:duration>
+      <itunes:episode>114</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 114 (English): Vietnam at 38°C, Thailand Under Floodwater: Asia's Dual Extremes -->
+    <item xml:lang="en">
+      <title>EP114: Vietnam at 38°C, Thailand Under Floodwater: Asia's Dual Extremes</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep114-en-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 +0800</pubDate>
+      <description>Record ocean heat and a brewing super El Nino drive simultaneous heat waves and floods across Asia.</description>
+      <content:encoded><![CDATA[<p>Record ocean heat and a brewing super El Nino drive simultaneous heat waves and floods across Asia.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP114_en.mp3" length="2135205" type="audio/mpeg"/>
+      <itunes:duration>168</itunes:duration>
+      <itunes:episode>114</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
