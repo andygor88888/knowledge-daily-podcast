@@ -3634,5 +3634,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 115 (Chinese): 加密永續合約市場一年暴增 117 倍，散戶該怎麼看？ -->
+    <item>
+      <title>EP115: 加密永續合約市場一年暴增 117 倍，散戶該怎麼看？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep115-zh-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 09:00:00 +0800</pubDate>
+      <description>幣安永續合約熱搜連三發背後：傳統金融交易量達幣安兩倍、產品類別一年暴增 117 倍。解析槓桿清算機制與散戶該怎麼安全參與。</description>
+      <content:encoded><![CDATA[<p>幣安永續合約熱搜連三發背後：傳統金融交易量達幣安兩倍、產品類別一年暴增 117 倍。解析槓桿清算機制與散戶該怎麼安全參與。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP115_zh.mp3" length="1706493" type="audio/mpeg"/>
+      <itunes:duration>131</itunes:duration>
+      <itunes:episode>115</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 115 (English): Crypto Perpetual Futures Grew 117x in a Year — What Should Retail Investors Know? -->
+    <item xml:lang="en">
+      <title>EP115: Crypto Perpetual Futures Grew 117x in a Year — What Should Retail Investors Know?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep115-en-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Binance tops global trends as perpetual futures volume grows 117x in a year, with TradFi volume at 2x Binance's own. How leverage liquidations work and how retail can participate safely.</description>
+      <content:encoded><![CDATA[<p>Binance tops global trends as perpetual futures volume grows 117x in a year, with TradFi volume at 2x Binance's own. How leverage liquidations work and how retail can participate safely.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP115_en.mp3" length="1592325" type="audio/mpeg"/>
+      <itunes:duration>124</itunes:duration>
+      <itunes:episode>115</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
