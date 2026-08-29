@@ -3666,5 +3666,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 116 (Chinese): 《暗物質》第二季熱播：多重宇宙真的存在嗎？ -->
+    <item>
+      <title>EP116: 《暗物質》第二季熱播：多重宇宙真的存在嗎？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep116-zh-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Apple TV+ 影集《暗物質》第二季衝上美榜熱搜。從量子疊加、薛丁格的貓到多重世界詮釋，解析劇中的「箱子」與真實量子物理的距離。</description>
+      <content:encoded><![CDATA[<p>Apple TV+ 影集《暗物質》第二季衝上美榜熱搜。從量子疊加、薛丁格的貓到多重世界詮釋，解析劇中的「箱子」與真實量子物理的距離。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP116_zh.mp3" length="1531677" type="audio/mpeg"/>
+      <itunes:duration>127</itunes:duration>
+      <itunes:episode>116</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 116 (English): Dark Matter Season 2 Is Trending — Does the Multiverse Really Exist? -->
+    <item xml:lang="en">
+      <title>EP116: Dark Matter Season 2 Is Trending — Does the Multiverse Really Exist?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep116-en-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Apple TV+'s Dark Matter Season 2 tops U.S. trends. From quantum superposition and Schrödinger's cat to the Many-Worlds Interpretation — how the show's 'box' compares to real physics.</description>
+      <content:encoded><![CDATA[<p>Apple TV+'s Dark Matter Season 2 tops U.S. trends. From quantum superposition and Schrödinger's cat to the Many-Worlds Interpretation — how the show's 'box' compares to real physics.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP116_en.mp3" length="1532757" type="audio/mpeg"/>
+      <itunes:duration>128</itunes:duration>
+      <itunes:episode>116</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
