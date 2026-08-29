@@ -3698,5 +3698,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 117 (Chinese): Google 反壟斷救濟審理進入深水區：拆分、AI 模式與瀏覽器，年底前還有哪些變數？ -->
+    <item>
+      <title>EP117: Google 反壟斷救濟審理進入深水區：拆分、AI 模式與瀏覽器，年底前還有哪些變數？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep117-zh-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Google 搜尋壟斷案救濟審理：DOJ 三大選項（拆分廣告、出售 Chrome、禁預設協議），Perplexity 345 億美元競購 Chrome，AI Mode 在結案陳詞前 48 小時上線的監管意涵。</description>
+      <content:encoded><![CDATA[<p>Google 搜尋壟斷案救濟審理：DOJ 三大選項（拆分廣告、出售 Chrome、禁預設協議），Perplexity 345 億美元競購 Chrome，AI Mode 在結案陳詞前 48 小時上線的監管意涵。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP117_zh.mp3" length="1621533" type="audio/mpeg"/>
+      <itunes:duration>131</itunes:duration>
+      <itunes:episode>117</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 117 (English): Google's Antitrust Remedies Enter Deep Water: Breakup, AI Mode, and the Browser -->
+    <item xml:lang="en">
+      <title>EP117: Google's Antitrust Remedies Enter Deep Water: Breakup, AI Mode, and the Browser</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep117-en-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Google's search monopoly remedies trial: DOJ's three options (ad breakup, Chrome divestiture, ban default deals), Perplexity's 4.5B Chrome bid, and the regulatory implications of AI Mode's launch 48h before closing arguments.</description>
+      <content:encoded><![CDATA[<p>Google's search monopoly remedies trial: DOJ's three options (ad breakup, Chrome divestiture, ban default deals), Perplexity's 4.5B Chrome bid, and the regulatory implications of AI Mode's launch 48h before closing arguments.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP117_en.mp3" length="1530933" type="audio/mpeg"/>
+      <itunes:duration>124</itunes:duration>
+      <itunes:episode>117</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
