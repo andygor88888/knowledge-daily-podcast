@@ -3730,5 +3730,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 118 (Chinese): 英特爾 14A 缺陷密度創 22 奈米世代以來最佳——重返先進製程競賽的關鍵里程碑？ -->
+    <item>
+      <title>EP118: 英特爾 14A 缺陷密度創 22 奈米世代以來最佳——重返先進製程競賽的關鍵里程碑？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep118-zh-2026-08-30</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 +0800</pubDate>
+      <description>英特爾財務長在德意志銀行研討會宣布，14A 製程缺陷密度改善速度創 22 奈米世代以來最佳，客戶從觀望轉為搶問產能。深入解析 14A 技術細節、缺陷密度為何是良率之母、以及與台積電 A16 的競逐格局。</description>
+      <content:encoded><![CDATA[<p>英特爾財務長在德意志銀行研討會宣布，14A 製程缺陷密度改善速度創 22 奈米世代以來最佳，客戶從觀望轉為搶問產能。深入解析 14A 技術細節、缺陷密度為何是良率之母、以及與台積電 A16 的競逐格局。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP118_zh.mp3" length="1898853" type="audio/mpeg"/>
+      <itunes:duration>157</itunes:duration>
+      <itunes:episode>118</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 118 (English): Intel 14A Defect Density Is Its Best Since 22nm — Is Intel Back in the Leading-Edge Race? -->
+    <item xml:lang="en">
+      <title>EP118: Intel 14A Defect Density Is Its Best Since 22nm — Is Intel Back in the Leading-Edge Race?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep118-en-2026-08-30</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 +0800</pubDate>
+      <description>Intel CFO says 14A defect density is dropping faster than any node since 22nm. We break down what 14A is, why defect density drives yield, and how Intel's comeback story compares to TSMC's A16.</description>
+      <content:encoded><![CDATA[<p>Intel CFO says 14A defect density is dropping faster than any node since 22nm. We break down what 14A is, why defect density drives yield, and how Intel's comeback story compares to TSMC's A16.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP118_en.mp3" length="1933077" type="audio/mpeg"/>
+      <itunes:duration>159</itunes:duration>
+      <itunes:episode>118</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
