@@ -3762,5 +3762,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 119 (Chinese): SK 海力士下一代 HBM 導入英特爾 EMIB——先進封裝為何成為 AI 軍備競賽的核心戰場？ -->
+    <item>
+      <title>EP119: SK 海力士下一代 HBM 導入英特爾 EMIB——先進封裝為何成為 AI 軍備競賽的核心戰場？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep119-zh-2026-08-30</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 +0800</pubDate>
+      <description>SK 海力士下一代 HBM 傳出將採用英特爾 EMIB 封裝，先進封裝從 CoWoS 一家獨大走向多路線競爭。解析 EMIB 與 CoWoS 差異、Hot Chips 的封裝抉擇、以及這張訂單背後的代工轉型訊號。</description>
+      <content:encoded><![CDATA[<p>SK 海力士下一代 HBM 傳出將採用英特爾 EMIB 封裝，先進封裝從 CoWoS 一家獨大走向多路線競爭。解析 EMIB 與 CoWoS 差異、Hot Chips 的封裝抉擇、以及這張訂單背後的代工轉型訊號。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP119_zh.mp3" length="2184045" type="audio/mpeg"/>
+      <itunes:duration>180</itunes:duration>
+      <itunes:episode>119</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 119 (English): SK Hynix's Next-Gen HBM Adopts Intel EMIB — Why Advanced Packaging Became the AI Arms Race Battleground -->
+    <item xml:lang="en">
+      <title>EP119: SK Hynix's Next-Gen HBM Adopts Intel EMIB — Why Advanced Packaging Became the AI Arms Race Battleground</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep119-en-2026-08-30</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 +0800</pubDate>
+      <description>SK Hynix's next-gen HBM is reportedly adopting Intel's EMIB packaging — advanced packaging is shifting from a CoWoS monopoly to multi-route competition. We break down EMIB vs CoWoS, the Hot Chips decision, and what this means for Intel's foundry turnaround.</description>
+      <content:encoded><![CDATA[<p>SK Hynix's next-gen HBM is reportedly adopting Intel's EMIB packaging — advanced packaging is shifting from a CoWoS monopoly to multi-route competition. We break down EMIB vs CoWoS, the Hot Chips decision, and what this means for Intel's foundry turnaround.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP119_en.mp3" length="2393901" type="audio/mpeg"/>
+      <itunes:duration>197</itunes:duration>
+      <itunes:episode>119</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
