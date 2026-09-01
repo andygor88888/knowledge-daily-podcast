@@ -3794,5 +3794,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 120 (Chinese): 風機也會「偷風」？北海風場用光達抓到 34 英里外的尾流，風機之間的距離科學怎麼算？ -->
+    <item>
+      <title>EP120: 風機也會「偷風」？北海風場用光達抓到 34 英里外的尾流，風機之間的距離科學怎麼算？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep120-zh-2026-09-01</guid>
+      <pubDate>Tue, 01 Sep 2026 09:00:00 +0800</pubDate>
+      <description>風機轉動後方會留下長達數十公里的尾流，偷走下游風場的發電量。光達如何抓偷風？風機間距科學怎麼算？荷蘭、德州的新法規與退役潮一次看懂。</description>
+      <content:encoded><![CDATA[<p>風機轉動後方會留下長達數十公里的尾流，偷走下游風場的發電量。光達如何抓偷風？風機間距科學怎麼算？荷蘭、德州的新法規與退役潮一次看懂。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP120_zh.mp3" length="1161549" type="audio/mpeg"/>
+      <itunes:duration>105</itunes:duration>
+      <itunes:episode>120</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 120 (English): Do Wind Turbines Steal Wind From Each Other? A North Sea Farm Caught a Wake 34 Miles Away -->
+    <item xml:lang="en">
+      <title>EP120: Do Wind Turbines Steal Wind From Each Other? A North Sea Farm Caught a Wake 34 Miles Away</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep120-en-2026-09-01</guid>
+      <pubDate>Tue, 01 Sep 2026 09:00:00 +0800</pubDate>
+      <description>Turbines leave wakes that stretch tens of kilometers and sap power from downstream farms. How lidar catches wind theft, the science of turbine spacing, and new rules from the Netherlands to Texas.</description>
+      <content:encoded><![CDATA[<p>Turbines leave wakes that stretch tens of kilometers and sap power from downstream farms. How lidar catches wind theft, the science of turbine spacing, and new rules from the Netherlands to Texas.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP120_en.mp3" length="1244877" type="audio/mpeg"/>
+      <itunes:duration>109</itunes:duration>
+      <itunes:episode>120</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
