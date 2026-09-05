@@ -3826,5 +3826,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 121 (Chinese): 特斯拉Cybercab發表後市場反應冷淡？NHTSA調查引發投資者懸念 -->
+    <item>
+      <title>EP121: 特斯拉Cybercab發表後市場反應冷淡？NHTSA調查引發投資者懸念</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep121-zh-2026-09-05</guid>
+      <pubDate>Sat, 05 Sep 2026 09:00:00 +0800</pubDate>
+      <description>特斯拉Cybercab雖成功亮相，但因商業模式不明及監管介入，股價應聲下跌，凸顯創新與監管平衡的挑戰。</description>
+      <content:encoded><![CDATA[<p>特斯拉Cybercab雖成功亮相，但因商業模式不明及監管介入，股價應聲下跌，凸顯創新與監管平衡的挑戰。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP121_zh.mp3" length="2857101" type="audio/mpeg"/>
+      <itunes:duration>235</itunes:duration>
+      <itunes:episode>121</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 121 (English): Tesla Cybercab Launch Met with Market Reaction? NHTSA Investigation Raises Investor Concerns -->
+    <item xml:lang="en">
+      <title>EP121: Tesla Cybercab Launch Met with Market Reaction? NHTSA Investigation Raises Investor Concerns</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep121-en-2026-09-05</guid>
+      <pubDate>Sat, 05 Sep 2026 09:00:00 +0800</pubDate>
+      <description>Tesla's Cybercab debuted successfully, but due to unclear business model and regulatory scrutiny, the stock price fell, highlighting the challenge of balancing innovation with regulation.</description>
+      <content:encoded><![CDATA[<p>Tesla's Cybercab debuted successfully, but due to unclear business model and regulatory scrutiny, the stock price fell, highlighting the challenge of balancing innovation with regulation.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP121_en.mp3" length="3514269" type="audio/mpeg"/>
+      <itunes:duration>290</itunes:duration>
+      <itunes:episode>121</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
