@@ -3858,5 +3858,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 122 (Chinese): F1 賽車技術與賽事熱度 -->
+    <item>
+      <title>EP122: F1 賽車技術與賽事熱度</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep122-zh-2026-09-06</guid>
+      <pubDate>Sun, 06 Sep 2026 09:00:00 +0800</pubDate>
+      <description>一句話結論： F1 車隊在空氣動力學與混合動力單元方面的持續創新，正推動賽車技術邊界，同時吸引全球觀眾熱度攀升。</description>
+      <content:encoded><![CDATA[<p>一句話結論： F1 車隊在空氣動力學與混合動力單元方面的持續創新，正推動賽車技術邊界，同時吸引全球觀眾熱度攀升。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP122_zh.mp3" length="339333" type="audio/mpeg"/>
+      <itunes:duration>31</itunes:duration>
+      <itunes:episode>122</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 122 (English): F1 Racing Technology and Race Popularity -->
+    <item xml:lang="en">
+      <title>EP122: F1 Racing Technology and Race Popularity</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep122-en-2026-09-06</guid>
+      <pubDate>Sun, 06 Sep 2026 09:00:00 +0800</pubDate>
+      <description>One-sentence conclusion: Continuous innovation in aerodynamics and hybrid power units by F1 teams is pushing the boundaries of motorsport technology while driving global audience engagement to new heights.</description>
+      <content:encoded><![CDATA[<p>One-sentence conclusion: Continuous innovation in aerodynamics and hybrid power units by F1 teams is pushing the boundaries of motorsport technology while driving global audience engagement to new heights.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP122_en.mp3" length="310557" type="audio/mpeg"/>
+      <itunes:duration>28</itunes:duration>
+      <itunes:episode>122</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
