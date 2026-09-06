@@ -3890,5 +3890,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 123 (Chinese): 矽光子學技術突破 -->
+    <item>
+      <title>EP123: 矽光子學技術突破</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep123-zh-2026-09-06</guid>
+      <pubDate>Sun, 06 Sep 2026 09:00:00 +0800</pubDate>
+      <description>一句話結論： 矽光子技術在數據傳輸帶寬與能效方面的突破，正成為AI時代的關鍵基礎設施，預計將在未來幾年內大規模商業化。</description>
+      <content:encoded><![CDATA[<p>一句話結論： 矽光子技術在數據傳輸帶寬與能效方面的突破，正成為AI時代的關鍵基礎設施，預計將在未來幾年內大規模商業化。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP123_zh.mp3" length="393981" type="audio/mpeg"/>
+      <itunes:duration>31</itunes:duration>
+      <itunes:episode>123</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 123 (English): Silicon Photonics Technology Breakthrough -->
+    <item xml:lang="en">
+      <title>EP123: Silicon Photonics Technology Breakthrough</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep123-en-2026-09-06</guid>
+      <pubDate>Sun, 06 Sep 2026 09:00:00 +0800</pubDate>
+      <description>One-sentence conclusion: Breakthroughs in silicon photonics for data transmission bandwidth and energy efficiency are becoming critical infrastructure for the AI era, poised for large-scale commercialization in the coming years.</description>
+      <content:encoded><![CDATA[<p>One-sentence conclusion: Breakthroughs in silicon photonics for data transmission bandwidth and energy efficiency are becoming critical infrastructure for the AI era, poised for large-scale commercialization in the coming years.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP123_en.mp3" length="348069" type="audio/mpeg"/>
+      <itunes:duration>27</itunes:duration>
+      <itunes:episode>123</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
