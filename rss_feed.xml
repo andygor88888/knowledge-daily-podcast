@@ -3922,5 +3922,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 124 (Chinese): 血糖監測技術快速普及，幫助更多人精準掌握健康狀況。 -->
+    <item>
+      <title>EP124: 血糖監測技術快速普及，幫助更多人精準掌握健康狀況。</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep124-zh-2026-09-07</guid>
+      <pubDate>Mon, 07 Sep 2026 09:00:00 +0800</pubDate>
+      <description>血糖監測技術快速普及，幫助更多人精準掌握健康狀況。</description>
+      <content:encoded><![CDATA[<p>血糖監測技術快速普及，幫助更多人精準掌握健康狀況。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP124_zh.mp3" length="837717" type="audio/mpeg"/>
+      <itunes:duration>75</itunes:duration>
+      <itunes:episode>124</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 124 (English): Blood glucose monitoring technology is rapidly spreading, helping more people precisely manage their health. -->
+    <item xml:lang="en">
+      <title>EP124: Blood glucose monitoring technology is rapidly spreading, helping more people precisely manage their health.</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep124-en-2026-09-07</guid>
+      <pubDate>Mon, 07 Sep 2026 09:00:00 +0800</pubDate>
+      <description>Blood glucose monitoring technology is rapidly spreading, helping more people precisely manage their health.</description>
+      <content:encoded><![CDATA[<p>Blood glucose monitoring technology is rapidly spreading, helping more people precisely manage their health.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP124_en.mp3" length="947157" type="audio/mpeg"/>
+      <itunes:duration>82</itunes:duration>
+      <itunes:episode>124</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
