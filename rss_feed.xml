@@ -3954,5 +3954,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 125 (Chinese): Apple 發佈會 9/9 登場：iPhone 18 Pro、首款摺疊 iPhone 會有哪些亮點？ -->
+    <item>
+      <title>EP125: Apple 發佈會 9/9 登場：iPhone 18 Pro、首款摺疊 iPhone 會有哪些亮點？</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep125-zh-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 +0800</pubDate>
+      <description>Apple 9月9日發佈會前瞻：iPhone 18 Pro、首款摺疊 iPhone、新任執行長首秀與晶片供應鏈故事</description>
+      <content:encoded><![CDATA[<p>Apple 9月9日發佈會前瞻：iPhone 18 Pro、首款摺疊 iPhone、新任執行長首秀與晶片供應鏈故事</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP125_zh.mp3" length="1752645" type="audio/mpeg"/>
+      <itunes:duration>133</itunes:duration>
+      <itunes:episode>125</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 125 (English): Apple September 9 Event: What Will the iPhone 18 Pro and First Foldable iPhone Bring? -->
+    <item xml:lang="en">
+      <title>EP125: Apple September 9 Event: What Will the iPhone 18 Pro and First Foldable iPhone Bring?</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep125-en-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 +0800</pubDate>
+      <description>Apple event preview: iPhone 18 Pro, first foldable iPhone, new CEO's first keynote, and the chip supply chain story</description>
+      <content:encoded><![CDATA[<p>Apple event preview: iPhone 18 Pro, first foldable iPhone, new CEO's first keynote, and the chip supply chain story</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP125_en.mp3" length="1396437" type="audio/mpeg"/>
+      <itunes:duration>109</itunes:duration>
+      <itunes:episode>125</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
