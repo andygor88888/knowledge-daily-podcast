@@ -3986,5 +3986,37 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <!-- Episode 126 (Chinese): 美國社會安全信託基金面臨的挑戰：2033 年見底風險 -->
+    <item>
+      <title>EP126: 美國社會安全信託基金面臨的挑戰：2033 年見底風險</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep126-zh-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 +0800</pubDate>
+      <description>根據美國社會安全署報告，信託基金預計在2033年見底，若不採取行動，領取者給付將被削減21-23%。探討人口結構問題與可能的改革方案。</description>
+      <content:encoded><![CDATA[<p>根據美國社會安全署報告，信託基金預計在2033年見底，若不採取行動，領取者給付將被削減21-23%。探討人口結構問題與可能的改革方案。</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP126_zh.mp3" length="2570949" type="audio/mpeg"/>
+      <itunes:duration>200</itunes:duration>
+      <itunes:episode>126</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Episode 126 (English): US Social Security Trust Fund Faces Depletion by 2033: Challenges and Solutions -->
+    <item xml:lang="en">
+      <title>EP126: US Social Security Trust Fund Faces Depletion by 2033: Challenges and Solutions</title>
+      <link>https://jianmsblog.blogspot.com/</link>
+      <guid isPermaLink="false">andydaily-ep126-en-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 +0800</pubDate>
+      <description>The US Social Security trust fund is projected to run dry around 2033, which could lead to benefit cuts of 21-23% if Congress does not act. We examine the demographic causes and potential reform options.</description>
+      <content:encoded><![CDATA[<p>The US Social Security trust fund is projected to run dry around 2033, which could lead to benefit cuts of 21-23% if Congress does not act. We examine the demographic causes and potential reform options.</p>]]></content:encoded>
+      <enclosure url="https://andygor88888.github.io/knowledge-daily-podcast/EP126_en.mp3" length="2092221" type="audio/mpeg"/>
+      <itunes:duration>164</itunes:duration>
+      <itunes:episode>126</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     </channel>
 </rss>
